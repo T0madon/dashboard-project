@@ -11,8 +11,8 @@ def conectar_banco():
             dbname="banco2",
             user="postgres",
             password="Gumattos2",
-            host="localhost",  # ou IP do servidor do banco
-            port="5432"        # porta padrão do PostgreSQL
+            host="localhost",  
+            port="5432"        
         )
         print("Conexão bem-sucedida!")
         return conn
@@ -42,14 +42,29 @@ def buscar_dados(query):
         print("Erro ao buscar dados:", e)
         return []
 
+
 # Buscar dados
-
-dados, colunas = buscar_dados("SELECT * FROM professores LIMIT 100")
 print('INÍCIO\n')
-# print(dados[0][1])
 
-for index, professor in enumerate(dados):
-    print(f'BUSCA {index + 1}')
-    for i, valor in enumerate(professor):
-        print(f'{colunas[i]} = {valor}')
-    print('-' * 40)
+teacher_data, teacher_columns = buscar_dados("SELECT * FROM professores")
+teachers_df = pd.DataFrame(teacher_data, columns=teacher_columns)
+# print(teachers_df)
+
+print('\nPROJETOS\n')
+project_data, project_columns = buscar_dados("SELECT * FROM projetos")
+projects_df = pd.DataFrame(project_data, columns=project_columns)
+# print(projects_df)
+
+id_teacher = '6f3420dc-4281-4019-b672-5e3f13caec88'
+
+df1 = teachers_df[teachers_df['id_professor'] == id_teacher]
+df2 = projects_df[projects_df['id_professor'] == id_teacher]
+
+res = pd.concat([df1, df2], ignore_index=True)
+print(res)
+
+# for index, professor in enumerate(dados):
+#     print(f'BUSCA {index + 1}')
+#     for i, valor in enumerate(professor):
+#         print(f'{colunas[i]} = {valor}')
+#     print('-' * 40)
