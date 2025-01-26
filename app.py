@@ -1,44 +1,23 @@
-import dash
-from dash import dcc, html
-import dash.dependencies as dd
+from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
-import pandas as pd
-from sqlalchemy import create_engine
+from main import dep_prod_df
 
-# Conexão com o banco de dados
-# Conexão com o banco de dados usando SQLAlchemy
-def get_data():
-    engine = create_engine("postgresql+psycopg2://postgres:Gumattos2@localhost:5432/banco2")
-    query = "SELECT * FROM professores LIMIT 100;"
-    df = pd.read_sql_query(query, con=engine)
-    return df
+df = dep_prod_df
+app = Dash()
 
-# Carregar os dados
-df = get_data()
+app.layout = [
+    html.H1(children = 'Produção por departamento', style={'textAlign': 'center'}),
+    dcc.Dropdown(df.departamento.unique(), 'Departamento de Zootecnia', id='dropdown-selection'),
+    dcc.Graph(id='graph-content')
+]
 
-# Criar a aplicação Dash
-app = dash.Dash(__name__)
-
-# Layout do Dashboard
-app.layout = html.Div([
-    html.H1("Meu Dashboard Interativo"),
-    dcc.Dropdown(
-        id="filtro",
-        options=[{"label": col, "value": col} for col in df.columns],
-        value=df.columns[0]
-    ),
-    dcc.Graph(id="grafico"),
-])
-
-# Callback para atualizar o gráfico
-@app.callback(
-    dd.Output("grafico", "figure"),
-    [dd.Input("filtro", "value")]
+@callback(
+    Output('graph-content', 'figure'),
+    Input('dropdown-selection', 'value')
 )
-def atualizar_grafico(coluna):
-    fig = px.bar(df, x="nome", y=coluna)
-    return fig
+def update_graph(value):
+    dff = df[df.departamento==value]
+    return px.line(dff, x='anopubli', y='quantidade_produ')
 
-# Rodar o servidor
-if __name__ == "__main__":
-    app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
