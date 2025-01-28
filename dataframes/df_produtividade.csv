@@ -1,0 +1,89 @@
+;id_professor;ano;departamento
+0;e7b306a3-9ba6-4b9b-8450-1902026f0996;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+1;e7b306a3-9ba6-4b9b-8450-1902026f0996;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+2;e7b306a3-9ba6-4b9b-8450-1902026f0996;2024;Departamento de Ciências do Solo e Engenharia Agrícola
+3;e7b306a3-9ba6-4b9b-8450-1902026f0996;2025;Departamento de Ciências do Solo e Engenharia Agrícola
+4;1022b935-19ad-4307-84bd-3037aa5e8485;2022;Departamento de Física
+5;1022b935-19ad-4307-84bd-3037aa5e8485;2023;Departamento de Física
+6;1022b935-19ad-4307-84bd-3037aa5e8485;2024;Departamento de Física
+7;1022b935-19ad-4307-84bd-3037aa5e8485;2025;Departamento de Física
+8;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;2023;Departamento de Matemática e Estatística
+9;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;2024;Departamento de Matemática e Estatística
+10;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;2025;Departamento de Matemática e Estatística
+11;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;2026;Departamento de Matemática e Estatística
+12;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;2027;Departamento de Matemática e Estatística
+13;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;2022;Departamento de Química
+14;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;2023;Departamento de Química
+15;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;2024;Departamento de Química
+16;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;2025;Departamento de Química
+17;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;2023;Departamento de Geociências
+18;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;2024;Departamento de Geociências
+19;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;2025;Departamento de Geociências
+20;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;2026;Departamento de Geociências
+21;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+22;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+23;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;2024;Departamento de Ciências do Solo e Engenharia Agrícola
+24;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;2025;Departamento de Ciências do Solo e Engenharia Agrícola
+25;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;2026;Departamento de Ciências do Solo e Engenharia Agrícola
+26;9686974c-79c6-408e-bfdf-542fc26f0992;2022;Departamento de Engenharia Civil
+27;9686974c-79c6-408e-bfdf-542fc26f0992;2023;Departamento de Engenharia Civil
+28;9686974c-79c6-408e-bfdf-542fc26f0992;2024;Departamento de Engenharia Civil
+29;9686974c-79c6-408e-bfdf-542fc26f0992;2025;Departamento de Engenharia Civil
+30;14079c7a-1676-4cda-93c7-8e0644e9804e;2024;Departamento de Geociências
+31;14079c7a-1676-4cda-93c7-8e0644e9804e;2025;Departamento de Geociências
+32;14079c7a-1676-4cda-93c7-8e0644e9804e;2026;Departamento de Geociências
+33;14079c7a-1676-4cda-93c7-8e0644e9804e;2027;Departamento de Geociências
+34;93e95675-0713-48d8-9d60-902d70582c1b;2023;Departamento de Física
+35;93e95675-0713-48d8-9d60-902d70582c1b;2024;Departamento de Física
+36;93e95675-0713-48d8-9d60-902d70582c1b;2025;Departamento de Física
+37;93e95675-0713-48d8-9d60-902d70582c1b;2026;Departamento de Física
+38;93e95675-0713-48d8-9d60-902d70582c1b;2027;Departamento de Física
+39;f27b572a-d948-4f65-9de3-0dd2ed7751be;2024;Departamento de Matemática e Estatística
+40;f27b572a-d948-4f65-9de3-0dd2ed7751be;2025;Departamento de Matemática e Estatística
+41;f27b572a-d948-4f65-9de3-0dd2ed7751be;2026;Departamento de Matemática e Estatística
+42;f27b572a-d948-4f65-9de3-0dd2ed7751be;2027;Departamento de Matemática e Estatística
+43;855f2602-c5b6-4eea-a49f-21476fc3ef1d;2024;Departamento de Física
+44;855f2602-c5b6-4eea-a49f-21476fc3ef1d;2025;Departamento de Física
+45;855f2602-c5b6-4eea-a49f-21476fc3ef1d;2026;Departamento de Física
+46;855f2602-c5b6-4eea-a49f-21476fc3ef1d;2027;Departamento de Física
+47;1679f571-7772-4d23-a9cf-be40267a33b7;2022;Departamento de Física
+48;1679f571-7772-4d23-a9cf-be40267a33b7;2023;Departamento de Física
+49;1679f571-7772-4d23-a9cf-be40267a33b7;2024;Departamento de Física
+50;1679f571-7772-4d23-a9cf-be40267a33b7;2025;Departamento de Física
+51;b2a691e5-5817-480e-be66-72deb927c005;2023;Departamento de Matemática e Estatística
+52;b2a691e5-5817-480e-be66-72deb927c005;2024;Departamento de Matemática e Estatística
+53;b2a691e5-5817-480e-be66-72deb927c005;2025;Departamento de Matemática e Estatística
+54;b2a691e5-5817-480e-be66-72deb927c005;2026;Departamento de Matemática e Estatística
+55;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;2023;Departamento de Engenharia de Alimentos
+56;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;2024;Departamento de Engenharia de Alimentos
+57;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;2025;Departamento de Engenharia de Alimentos
+58;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;2026;Departamento de Engenharia de Alimentos
+59;e607573f-977e-46d6-b59c-36dae83683f2;2022;Departamento de Geociências
+60;e607573f-977e-46d6-b59c-36dae83683f2;2023;Departamento de Geociências
+61;e607573f-977e-46d6-b59c-36dae83683f2;2024;Departamento de Geociências
+62;e607573f-977e-46d6-b59c-36dae83683f2;2025;Departamento de Geociências
+63;b53fefa5-d23f-41a5-8877-e9b10e47e571;2022;Departamento de Química
+64;b53fefa5-d23f-41a5-8877-e9b10e47e571;2023;Departamento de Química
+65;b53fefa5-d23f-41a5-8877-e9b10e47e571;2024;Departamento de Química
+66;b53fefa5-d23f-41a5-8877-e9b10e47e571;2025;Departamento de Química
+67;5d4a2131-789b-4444-ad1c-48a37e6cd17d;2024;Departamento de Física
+68;5d4a2131-789b-4444-ad1c-48a37e6cd17d;2025;Departamento de Física
+69;5d4a2131-789b-4444-ad1c-48a37e6cd17d;2026;Departamento de Física
+70;5d4a2131-789b-4444-ad1c-48a37e6cd17d;2027;Departamento de Física
+71;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;2022;Departamento de Engenharia de Alimentos
+72;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;2023;Departamento de Engenharia de Alimentos
+73;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;2024;Departamento de Engenharia de Alimentos
+74;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;2025;Departamento de Engenharia de Alimentos
+75;bf475de6-e67c-40df-b2d5-55a3e0170353;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+76;bf475de6-e67c-40df-b2d5-55a3e0170353;2024;Departamento de Ciências do Solo e Engenharia Agrícola
+77;bf475de6-e67c-40df-b2d5-55a3e0170353;2025;Departamento de Ciências do Solo e Engenharia Agrícola
+78;bf475de6-e67c-40df-b2d5-55a3e0170353;2026;Departamento de Ciências do Solo e Engenharia Agrícola
+79;50833fdd-8dcc-448c-b454-376b301da0e7;2023;Departamento de Química
+80;50833fdd-8dcc-448c-b454-376b301da0e7;2024;Departamento de Química
+81;50833fdd-8dcc-448c-b454-376b301da0e7;2025;Departamento de Química
+82;50833fdd-8dcc-448c-b454-376b301da0e7;2026;Departamento de Química
+83;3d6ea327-a206-469a-a74c-737b4e62fc06;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+84;3d6ea327-a206-469a-a74c-737b4e62fc06;2024;Departamento de Fitotecnia e Fitossanidade/DEFITO
+85;3d6ea327-a206-469a-a74c-737b4e62fc06;2025;Departamento de Fitotecnia e Fitossanidade/DEFITO
+86;3d6ea327-a206-469a-a74c-737b4e62fc06;2026;Departamento de Fitotecnia e Fitossanidade/DEFITO
+87;3d6ea327-a206-469a-a74c-737b4e62fc06;2027;Departamento de Fitotecnia e Fitossanidade/DEFITO

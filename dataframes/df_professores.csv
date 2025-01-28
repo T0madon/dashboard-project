@@ -1,0 +1,431 @@
+;id_professor;nome;anosuepg;graduacao;departamento;status;tide;setor
+0;162b173b-b237-4a8a-9088-e23b89576809;Alessandro Nogueira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+1;6b6fed82-9885-4a57-aa34-afdfc6223a5a;Abdala Mohamed Saleh;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+2;98bfd074-de25-4823-a299-5c173a56fb76;Adalci Leite Torres;{2018,2019,2020};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+3;3b687d4f-59a1-461f-89f9-35f1c9939911;Ademir Mazer Junior;{2018,2019,2020};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+4;863a4793-10b0-4b6b-ae50-5f6884d159c5;Adilson Luiz Chinelatto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+5;65cb1168-4e45-4ba8-8266-306871725c40;Adriana de Souza Martins;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+6;43feab12-f094-4eb2-8c5a-ca32b6731d1e;Adriana Salviato Uller;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+7;5731e590-3b6f-45fc-a593-169ad4216dbe;Adriana Scoton Antonio Chinelatto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+8;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;Adriane Bassani Sowek;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+9;6f3420dc-4281-4019-b672-5e3f13caec88;Amanda Regina Godoy Baptistao;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+10;ec3ebb80-3774-4e89-856d-8f4ca86cf410;Adriano Charles Ferreira;{2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+11;319b0c45-e823-437e-bb0c-306119ca623a;Adriano Ferrasa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+12;430d1420-a5e8-43f3-81e2-76ed88550355;Alexandre Camilo Junior;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+13;8f60df57-e41a-4c50-a06d-79a01c493661;Adriano Goncalves Viana;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+14;e7b306a3-9ba6-4b9b-8450-1902026f0996;Adriel Ferreira da Fonseca;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+15;9c7a7de0-88aa-4987-8b5a-ed5c41b5868a;Ana Carolina Barbosa Kummer;{2018};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+16;f742127c-e6a1-45de-ae13-942414d7360c;Afonso Chimanski;{2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+17;bbdecf02-2044-4191-a5d4-51c546bbafac;Alexandre Fanha;{2020,2021,2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+18;5200d8e7-0336-423f-9345-e75f996fcc06;Airton Kist;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+19;1ba9ece9-7bab-425e-ad7c-672fb5558e31;Alaine Margarete Guimaraes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+20;c2c9b4d4-f699-4b44-99c6-28bedf6a55b7;Alan Alceu Leachenski;{2021,2022};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+21;df668957-0dab-41f3-9709-27cb644ee449;Albino Szesz Junior;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;COLABORADOR;nao;SECATE
+22;a42b6350-b783-4d11-bb33-0443e3f29e3e;Alfredo Jose Zara;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+23;1ba40de0-3769-4f20-9114-f46d58f2b252;Alcione Roberto Jurelo;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+24;9bd755fc-6731-4824-a5ad-90df230ffccf;Alessandra Cristina Pedro;{2018,2019,2020};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+25;201baed6-2318-44b6-8f07-75f80f75f87c;Aline Alberti;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+26;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;Ana Claudia Barana;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+27;58bf08d7-1124-4dcb-b150-eab1ae2b89bf;Aline Coqueiro;{2021,2022};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+28;976ddd1e-9d39-4355-91ad-bef30f6d1bdb;Ana Kaori de Oliveira Ouba;{2020,2021,2022};Mestre;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+29;35b30c42-8af1-486a-a696-696f7ad0b72d;Almir Nabozny;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+30;d286021e-d918-4f85-80da-0726753cdf4e;Aloisi Somer;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+31;6cefeb6d-a856-473d-9711-fe9c87b29e63;Altair Justino;{2018,2019};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+32;6255a1ec-4803-4f0f-915c-ccaa48674732;Amanda da Lapa Silva;{2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+33;deb4359f-8b80-4da0-abde-caecb76fe911;Ana Lucia Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+34;03676690-2ea4-47a9-94ec-facb87823340;Andressa Gobbi;{2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+35;21dc51b2-4aef-4d50-8c3a-73713fedaee6;Ana Paula Aparecida Ferreira Alves;{2018,2019,2021,2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+36;d0341eb5-a6c8-4f38-bf1f-0f17489c5fd4;Andrea Tedesco;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+37;7e7ec1f5-d92c-495b-80ea-c8c4cdbfba4e;Andre Guilherme Buss Lemes;{2019,2020,2021,2022,2023};Mestre;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+38;1022b935-19ad-4307-84bd-3037aa5e8485;Andressa Novatski;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+39;2594ad18-06c9-4158-ac5e-454c097a0c8d;Andre Belmont Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+40;1aa43c4a-36cb-4a56-af0d-5831dc9520b6;Andre Mauricio Brinatti;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+41;c06f6c70-08d7-499a-9b5e-57fab14d3c01;Andre Luis Moreira de Carvalho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+42;c6357472-7bd8-40cd-8c41-2e709dc6006c;Andre Vitor Chaves de Andrade;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+43;d3c4739b-258a-483c-84df-38645683f2e9;Antonio Jose Camargo;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Física;EFETIVO;sim;SEXATAS
+44;e234ad24-31c5-41b5-9ee2-719a95106ae4;Antonio Liccardo;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+45;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;Antonio Marcos Batista;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+46;521a1473-6389-447e-8c91-614d42483bd1;Antonio Sergio Magalhaes de Castro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+47;53cfea56-4863-4123-911d-523697703ccd;Ariangelo Hauer Dias;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+48;616639a7-3234-4411-92ea-52629375948f;Arion de Campos Junior;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+49;7da64eee-0969-4db2-a80a-a5d1e7502808;Barbara Celania Fiorin;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+50;a5f7583a-36e4-46cf-b77c-286ef5bd7763;Benjamim de Melo Carvalho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+51;7558d5e2-c0eb-4c70-81f9-1a0f889235c7;Bianca Paola Comin;{2018,2019,2021,2022,2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+52;c60260b2-fc4a-498f-aaba-ea64a23c0e70;Bianca Penteado de Almeida Tonus;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+53;67210ff1-4258-411f-88a1-0765c7a614b4;Carlos Luciano Sant'Ana Vargas;{2018,2019};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+54;58bcb135-1f40-4b21-9588-bfc482b6d220;Brendo Francis Carvalho;{2020,2021,2023};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+55;2d964861-c57a-4ffe-9383-49a1f9691258;Bruna Silva Marestone;{2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+56;ded5e348-1724-4943-adfe-77a22c9dead4;Carlos Roberto Balarim;{2018,2019};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+57;f2652b34-50d9-4c7e-9642-52e7ef8f8452;Camila Bittencourt Silva;{2020,2021,2022};Graduado;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+58;b88f66e0-f1bd-4ec6-a319-68e187f2ed43;Camila Delinski Bet;{2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+59;e946568d-e975-4e37-a26b-c9b6adbde583;Carina Petsch;{2018};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+60;c733303e-a39d-46ce-b059-961723146a7a;Christiane Trevisan Slivinski;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+61;4cabf32f-b646-4b7f-a649-fd8debab3582;Carine Scheifer;{2018,2019};Mestre;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+62;4794efa4-e666-4a66-9b35-fb1e25bd08ff;Carmen Lucia Valgas;{2018,2019};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+63;63976e0d-b2d7-4048-98d7-970ea9f3989e;Carla Silvia Pimentel;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+64;f09d9da4-a329-4e03-b3b9-da2e81043dfa;Christiano Justus Neto;{2018,2019,2020};Mestre;Departamento de Zootecnia;EFETIVO;nao;SECATE
+65;cb4cdeac-b215-4cd9-86c6-afef0f43e00b;Carlos Alberto Bonin;{2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+66;a3101f68-fa07-4ac9-9a16-f5244474397a;Carlos Andre Stuepp;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+67;724684db-7431-4121-934f-bbe8dd91d6c6;Carolina Baptista Gomes;{2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+68;396ac691-c865-4eb9-9536-b3fb491df329;Carlos Eduardo Krassinski Soares;{2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+69;17e52d1a-90f2-490a-89ae-64070b46bbfc;Carlos Emmanuel Ribeiro Lautenschlager;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+70;2686ec00-cae7-4714-9158-c9fb245e741f;Carlos Hugo Rocha;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+71;8aae8ec1-8db7-4abc-b04e-c219a3b497a0;Carlos Jose Matheus;{2018,2019};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+72;37683231-f875-4cd1-960c-8a4b57aedbd0;Carlos Jose Fernandes Granado;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+73;29c10238-92b0-4f30-ad64-cba12bbab88d;Celbo Antonio da Fonseca Rosas;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+74;f31dbb50-63f3-4b13-b970-a83be26fc18c;Cleyton Cristiano Crovador;{2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+75;2ddf5e82-a979-46eb-a7fc-601fedf6df41;Celia Finck Brandt;{2018,2019};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+76;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;Cheila Roberta Lehnen;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+77;94d39956-7739-434f-84e0-f2606b9f313c;Cibeli May Arevalos Villalba;{2019,2020,2021,2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+78;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;Christiana Andrade Pessoa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+79;85f9c85f-5355-4401-aec5-362cc3b93ade;Daniel Granato;{2018,2019};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+80;18abb0ac-7793-4891-9be7-9a80eae55b50;Christiane Philippini Ferreira Borges;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+81;9a3fde43-8a46-4903-8c6f-b5bba12034e7;Cicilian Luiza Lowen Sahr;{2018,2019};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+82;369f720e-e8d0-4166-b9d0-d59fd44fb69e;Cassia Goncalves Magalhaes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+83;a184c91b-b923-499c-93ab-ccff780d099f;Claudia Bonardi Kniphoff da Cruz;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+84;b334a064-7024-40b4-9602-679127f9249c;Daniel Ruiz Potma Goncalves;{2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+85;8bf2f759-336e-494c-a89f-78979f8d7bf0;Clesivan Pereira dos Santos;{2020,2021};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+86;b6e0b240-17b4-4fbe-a0e8-8d210c5cce06;Clever Briedis;{2019,2020,2021};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;COLABORADOR;nao;SECATE
+87;417890e8-7f55-4a94-8b81-068e19fc658a;Celia Regina Carubelli;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+88;e887c52c-4707-42ff-9589-3bd7fcff77fa;Danielle Cristina Camilo Magalhaes;{2022};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+89;13ee66ca-3e35-43ee-9f75-dfdc71a75274;Daiane Francine Meinerz;{2018,2019};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+90;6fd220ff-a003-44bf-b138-527f49bb21cc;Danilo Stinghen;{2020,2021,2022};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+91;793b69f5-4ca3-4b69-8400-44002286b577;Dannilo Eduardo Munhoz Ferreira;{2021,2022};Mestre;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+92;2eac3bf0-95f6-444f-a7b8-0010130e3d5b;David de Souza Jaccoud Filho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+93;201ca109-902a-4f48-9320-d4b6cb7cb7be;Dayane Rejane Andrade Maia;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Física;EFETIVO;sim;SEXATAS
+94;550235d1-7453-44cc-88bb-32b545bd5e5e;Deise Rosana Silva Simoes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+95;b90590e6-9bf2-4854-b50b-f2b499dc2d54;Deyse Marcia Pacheco Gebert;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+96;cb159a59-9add-40f4-8e6e-3314b1638dfa;Dierone Cesar Foltran Junior;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Informática;EFETIVO;sim;SECATE
+97;c5a90335-369a-43f6-b896-25410a7447df;Diolete Marcante Lati Cerutti;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+98;c7cb28c0-d64a-48a4-9756-91da92d98aa1;Domingos Savio Nunes;{2018,2019,2020,2021,2022};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+99;5761d77f-125e-4abb-a6ef-9774640e4728;Douglas Henrique Fockink;{2019,2020,2021};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+100;14079c7a-1676-4cda-93c7-8e0644e9804e;Elvio Pinto Bosetti;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+101;b82f51ad-6f50-449d-9749-eb129df63e62;Eder Carlos Ferreira de Souza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+102;69db89f1-fd1d-4cfe-96a5-b4a045e10a55;Edilson Sebastiao Roth Batista;{2018,2019};Graduado;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+103;a919804e-79f4-4f18-8234-7889389d4c82;Emerson Blum Correa;{2020,2021,2022};Mestre;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+104;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;Edson Belo Clemente de Souza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+105;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;Eduardo Augusto Agnellos Barbosa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+106;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;Eduardo Favero Caires;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+107;9686974c-79c6-408e-bfdf-542fc26f0992;Eduardo Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+108;6fcc00c4-432a-487f-96e7-72595b51884c;Eduardo Silva Hass;{2019,2020,2021};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+109;dbf23d27-2e86-4f10-b123-68c17e82ecf8;Egon Schnitzler;{2018,2019,2020};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+110;a49f009e-ab40-491f-85a0-7f0903ceb653;Elaine Cristina Sturion;{2022};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+111;69c9072f-727c-4b0e-b7ec-3648aa31a285;Evandro Maia Ferreira;{2018};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+112;2f22f20c-8555-41ff-9073-ffa03ae150b3;Emilia Aparecida Morgado;{2018};Mestre;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+113;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;Elaine Regina Lopes Tiburtius;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+114;f5fe7225-a721-42ed-80cb-ee4642dfe911;Eliane Dalva Godoy;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+115;01ee8fc4-0cf9-4ad8-b326-0c9c6519bb59;Emilio Trevisan;{2018,2019};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+116;ec82fde2-4aea-48ae-a5f5-036ef5f3f3e6;Elias da Costa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;nao;SEXATAS
+117;9e9f74cb-9453-4146-b6aa-8a4727045ca7;Elias Pereira;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+118;1a685852-dfbf-4a71-9279-a5871cb2d6b7;Elisangela dos Santos Meza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+119;d916ed90-aa7b-42ec-9039-1a2fb2a18e56;Elizabeth Weinhardt de Oliveira Scheffer;{2018,2019,2020};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+120;b7c9d4de-9765-4345-8d7c-9a0190b8b444;Elizeu de Sa Farias;{2021,2022};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+121;2f974135-5a7d-49ee-abe0-a35ae9b040cb;Eloise Aparecida Langaro;{2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+122;75b42621-00ee-4c69-af3f-ac8a48b6dee6;Ezequiel Gueiber;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+123;7f4e7687-4d28-4c65-87c5-23db576e8680;Erik Cendel Saenz Tejada;{2020,2021,2022};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+124;4412f4e4-05b0-4053-976f-ab05d7b4f181;Erik Januario da Silva;{2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+125;b7acffbe-3cd7-4546-8800-e7d4b8e6ed1d;Felipe Adalberto Farinelli;{2020,2021,2022};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+126;8d08df84-339e-4399-8e3d-6b13e8ed2953;Fabelis Manfron Pretto;{2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+127;07dfe26d-2ae7-4eb7-ad04-7b0adef31fde;Ernandes Taveira Tenorio Neto;{2018,2019,2020,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+128;bb92d4f0-8d05-4b10-93f0-fcd86bcddac8;Fabiana Alves de Almeida;{2020,2021,2022,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+129;93e95675-0713-48d8-9d60-902d70582c1b;Ervin Kaminski Lenzi;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+130;93b4d4c2-c3ef-4978-934f-8e9cbdc9f67b;Estela Maris Inacio;{2018,2019,2020};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+131;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;Evaldo Toniolo Kubaski;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+132;46ed4bcb-76ab-40ac-83bd-412970913ac1;Fabiana Cristina Nascimento Borges;{2018};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+133;f27b572a-d948-4f65-9de3-0dd2ed7751be;Fabiano Manoel de Andrade;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+134;0a544d7c-5502-402a-a68a-965731fb6c0f;Fabiane de Oliveira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+135;802603ae-8522-462d-aad1-b1f2ff77886e;Fabiane Oliveira Farias;{2020,2021};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+136;dffd9e25-92e1-42e3-98a6-1fef66b62d28;Fernanda Coutinho Soares;{2018,2019,2020,2023};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+137;24dc555a-b67a-45a7-9d53-e6c14365c1ef;Felipe Pereira Gomes;{2022};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+138;1a06bc11-6e7b-43fc-89a5-d8df094599de;Fabio Augusto Meira Cassaro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+139;4c1dea7d-2c85-4799-97db-b71e48b57d74;Fabricio Tondello Barbosa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+140;3e573712-e01e-47cc-88af-48b92f9af1a1;Fernanda Brekailo;{2020,2021,2022,2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+141;b6a90c02-8825-4cdb-a5b4-0da554cd1afc;Fernando Bertani Gomes;{2018,2019,2020};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+142;19abf558-f198-4440-9bb8-b3561aea432b;Fernando Roloff;{2021,2022};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+143;b73668de-b8fd-47f7-8224-a20021c4a259;Filomena Maria da Costa Nobrega Nadal;{2018,2019,2020,2021};Mestre;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+144;629128f9-5554-416b-96c2-92b464dae82c;Franciellen Rodrigues da Silva Costa;{2018,2019};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+145;855f2602-c5b6-4eea-a49f-21476fc3ef1d;Francisco Carlos Serbena;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+146;3bacbc46-de9a-41da-8a0f-b2a6b60aa6ed;Francisco Rosa;{2021,2022,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+147;80b2b7fa-ca93-45dc-8310-253c748b793a;Frederico Guilherme de Paula Ferreira Ielo;{2018,2019};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+148;f77ac2e1-0214-4d1f-a24f-b33c88a7dcd6;Gabriel Lopes da Rocha;{2019,2020,2021,2022};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+149;7b117a39-52bd-45c2-b57c-8f1d2d73d589;Gabriela da Costa Bonetti;{2022,2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+150;bd95fea4-bda9-45fd-91cd-2f0dc8f4a2df;Gabriela Goudard;{2019,2020,2021};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+151;d611d381-22df-4c99-8e98-7fcbb743e0e2;Gabriela Kratsch Sgarbossa;{2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+152;732dcba7-c1f1-407d-a3f5-6236f96498b8;Gabriela Legramanti;{2021,2022};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+153;8054f220-12d7-4295-8351-a2543a54b77c;Gabriela Mazureki Campos Bahniuk;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+154;d29842c3-0948-4776-8ca0-02dd2f19f1ff;Gabrielly de Queiroz Pereira;{2023};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+155;858235b6-64a5-472f-be80-b39c5fd81fb7;Guilherme Araujo Vuitik;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+156;1679f571-7772-4d23-a9cf-be40267a33b7;Gelson Biscaia de Souza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+157;eaf5665a-697c-4035-ac45-e98d9027e319;Guilherme de Almeida Souza Tedrus;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+158;79986907-49db-4c35-92fb-2cece0482ac7;Gerson Kniphoff da Cruz;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+159;983617e3-e91b-440e-b164-43672274c503;Guilherme Gralik;{2022,2023};Mestre;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+160;bb723c10-e610-4bd4-8014-1f716f1087dd;Giane Correia Silva;{2019,2020,2021,2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+161;9ee443f4-6c35-4e8c-9930-86ca0f00edf7;Giliardi Dalazen;{2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+162;c65b3ab4-52a1-4a2f-b0bf-ca10d3450fff;Guilherme Perosso Alves;{2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+163;18f51ae4-3e2d-4e4d-b42f-ecbaaca1c6bc;Gilson Burigo Guimaraes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+164;80f76296-4ac0-4453-a36f-11893203deeb;Guilherme Sandaka;{2019,2020,2021,2022};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+165;95995b20-422f-4af9-9b11-510ba36103b8;Gilson Campos Ferreira da Cruz;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+166;a3253ffc-d3a1-4a63-ad7b-1b333f7d3029;Gina Maria Bachmann;{2018,2019};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+167;96a5e9cf-e563-4047-bab2-5444a4ae2e1b;Giovana Katie Wiecheteck;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+168;2b84bdce-d289-4729-8069-465e34a921c1;Gustavo Granado Magalhaes;{2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+169;b2a691e5-5817-480e-be66-72deb927c005;Giuliano Gadioli La Guardia;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+170;8608bda8-f4df-4aed-822f-96d9b209fba8;Helen Caroline Raksa;{2019,2020};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+171;1db7f9b0-c9bf-4067-b092-46cf64dba612;Glaucio Regis Nagurniak;{2021,2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+172;25e8a557-c799-4246-82c7-1e38236bce28;Helenton Carlos da Silva;{2018,2019,2020,2021};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+173;338d6015-5e14-4568-8ae6-6518caedcb2c;Idomar Augusto Cerutti;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Informática;EFETIVO;sim;SECATE
+174;62eba4fc-57cf-460a-88e0-1b7fa99e5fe2;Heloisa Lopes de Sousa;{2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+175;0704bdaa-2561-477d-9d56-f6e19b8c7722;Ivo Mario Mathias;{2018,2019};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+176;211d0655-bea7-4dad-b0a5-b98fd60e5f47;Henrique Simao Pontes;{2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+177;f6389c02-7d65-4812-b309-fad49d7023e1;Ingrid Aline de Carvalho Ferrasa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+178;6f7afe42-8514-466c-96f8-10ac695e9b6e;Hernani Batista da Cruz;{2019,2020,2021};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+179;ae49c5cb-9cf0-4dab-93c2-d6f9226d3d07;Hevans Vinicius Pereira;{2018,2019};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+180;759d13e9-aaae-4041-860b-1c59e9929cc3;Hagata Cremasco da Silva;{2018,2019};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+181;95cd696e-296d-4874-bbd0-ff59f00f798e;Isonel Sandino Meneguzzo;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+182;1f0254c5-dfd1-46c1-97cc-85413eb22964;Italo Sergio Grande;{2018,2019,2020,2021};Mestre;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+183;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Ivo Mottin Demiate;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+184;4437044c-e893-4884-b33b-b51fda97abcb;Ivan Mathias;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+185;6ea6683c-2f5b-4d79-997e-d59ccf3517bb;Jaime Alberti Gomes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;COLABORADOR;nao;SECATE
+186;49c5226f-4cbd-49e2-95f5-a93ced075e0b;Ivelise Dimbarre Lao Guimaraes;{2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+187;caf49f3e-ead4-4a09-a337-bfaf04276538;Jacqueline Aparecida Marques;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+188;25cb6253-41d6-431f-898d-52bda1dc237c;Jaime Cohen;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+189;bfb1400e-fbf7-45f9-8c8c-60bbcc7e6df5;Jailson Rodrigo Pacheco;{2019,2020,2021};Mestre;Departamento de Química;COLABORADOR;nao;SEXATAS
+190;165d7e7d-2d82-4914-a04a-213e893bb7de;Jairo Amado Amin;{2018,2019,2020,2021,2022};Mestre;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+191;e2222089-5ec7-4708-b7cc-3d304190c88b;Jeferson Antonio Quimelli;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Informática;EFETIVO;nao;SECATE
+192;89865950-8215-41c2-87c2-0fd030950563;Jarem Raul Garcia;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+193;0c4e309f-0c14-4641-b487-490aa50168e7;Jeferson Zagonel;{2018,2019};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+194;d9aebf77-901b-4559-aecb-332fed7c1ff7;Jeremias Borges da Silva;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+195;875f02cf-4aad-4885-ae3d-50aac1bf50fa;Jessica Rodrigues de Oliveira;{2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+196;9fd8649e-970c-403e-81b7-844e6da70cd1;Jessyca Caroline Rocha Ribas;{2019,2020};Mestre;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+197;51f4b81a-1dd2-426f-8684-66e4d5e99b28;Joanei Cechin;{2020,2021,2022};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+198;a5660198-2a44-41c3-a972-9840469eee29;Jocemar de Quadros Chagas;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+199;04fef73d-45b9-41a1-aba3-3e77d8b9309f;Jocenei Antonio Teodoro de Oliveira;{2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+200;ceb9dffb-57eb-471c-8cc8-c824a82d0507;Joel Larocca Junior;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+201;b767904c-87fd-4fd5-806a-7efea5d51159;Joel Zubek da Rosa;{2022,2023};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+202;ff05032c-bb01-4027-97d3-ea55c8208816;Joelcio Eurich;{2018,2019};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;COLABORADOR;nao;SECATE
+203;674bd3e9-12e7-4656-be35-cb3b70457ce8;Jonathan de Matos;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+204;2c89937e-6092-4c12-95a7-d39304050851;Juan Camilo Castellanos Rodriguez;{2018,2019};Doutor;Departamento de Informática;COLABORADOR;nao;SECATE
+205;b986ecd5-f0dd-45a8-836a-ae20c739444b;Jose Tadeu Teles Lunardi;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+206;610031fb-54ef-4d42-b1e2-9e9cb5043103;Jorge Iulek;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+207;9e5f43d2-d00a-438e-9fcf-3581e1076dd0;Jorim Sousa das Virgens Filho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+208;cd6dbd63-0705-492b-a692-d25fadb82dac;Jose Danilo Szezech Junior;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+209;9af9e70b-6ecb-49e7-867f-ff8e812318b7;Jose Maria Maciel II;{2018,2019};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+210;71cc6138-140c-4a16-90f4-aae9e2766ebe;Jose Trobia;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+211;7ea463f8-7ad4-45dc-a13b-1ae9647e05a1;Josefa Genyle do Nascimento Santana;{2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+212;66e62613-b98f-477f-ac12-4d9a078bbd5f;Jessica Caroline Bigaski Ribeiro;{2018,2019};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+213;d819d7bf-8333-43a5-b415-e873fae6d311;Joseli Almeida Camargo;{2018,2019,2020};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+214;ba242145-e0eb-4600-87ff-985c16d48006;Joao Alfredo Madalozo;{2018,2019};Mestre;Departamento de Geociências;EFETIVO;sim;SEXATAS
+215;e607573f-977e-46d6-b59c-36dae83683f2;Joseli Maria Silva;{2018,2019};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+216;2d436817-02eb-4c5a-9945-68067add2ad8;Jose Adelino Kruger;{2018,2019};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+217;9df777f7-f91d-4b81-931c-9ddf82cac9c4;Jose Carlos Ferreira da Rocha;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+218;ea11c9b1-c499-4114-a69f-78e9214009d0;Jose Eduardo Consorte;{2018,2019};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+219;0ae85330-9e49-4f4a-9039-53579b27639f;Jose Flavio Marcelino Borges;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+220;2aa66ce5-bb86-4a2c-bf34-5b825e8b323f;Jose Pedro Wojeicchowski;{2018,2023};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+221;c20699cc-9ead-4c2a-bc8e-64a2282f9e9c;Jose Raulindo Gardingo;{2018,2019,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+222;fa9fb7bb-5c67-4290-95ef-72bc8f8ca9e6;Joao Carlos de Moraes Sa;{2018,2019};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+223;cb20607a-272b-49af-9d40-765c1b4bec98;Juliana de Fatima Holm Brim;{2020,2021,2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+224;d8c5c0ef-4f22-46c9-8d67-a8d8eca13cf5;Joao Frederico Haas Leandro Monteiro;{2020,2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+225;5bc06995-6c73-4959-b6ed-dc2268beb275;Juliana Inaba;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+226;cae64989-0c96-48d3-b8c3-c088d5da3ed5;Joao Luiz Domingues Ribas;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+227;c3cb7928-e90a-4866-91e4-6cb55d41b216;Joao Paulo Ferreira Santos;{2018};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+228;103236c6-61e5-425f-9b2f-a73310328198;Juliano Issakowicz;{2018,2019,2020,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+229;60aa6035-40f3-44dc-b13f-8a08e92860ca;Joao Paulo Winiarski;{2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+230;7af46f41-750b-46c7-8289-a74988d10d9a;Joao Ricardo Alves Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+231;d55bc2ee-402e-4ce4-8315-6d8233945f9a;Karin Linete Hornes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+232;4495dae5-0076-481a-86e7-8683bbb2b72c;Julio Flemming Neto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+233;3c289230-f109-4f97-a075-05a9344cdaff;Julio Cesar Sczancoski;{2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+234;0bf63c47-5fae-4a4e-a695-a8a12f681699;Junior Augusto Pereira;{2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+235;b7db4263-fd6d-4984-93ae-099b9a74c280;Kamila de Oliveira da Rosa;{2018};Mestre;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+236;67baa41c-e303-4c66-aff2-4eb69049f2a1;Lara Tschopoko Pedroso Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+237;b53fefa5-d23f-41a5-8877-e9b10e47e571;Karen Wohnrath;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+238;56a282da-cd20-4374-a79d-88a97e3fce3d;Karina Eugenia Fioravante;{2018,2019,2020,2021,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+239;db1e54f0-ce78-4f8a-8c63-cf308c457364;Karine Sato da Silva;{2018};Mestre;Departamento de Informática;COLABORADOR;sim;SECATE
+240;3b54f3a0-f4c5-4e30-bc16-6a7716014119;Larissa Sens;{2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+241;e8a3e0cc-0a77-40a8-8ea4-bcf313b17820;Leandro Espindola;{2021,2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+242;9d24bf3d-49ed-41a0-9fce-bbf32bd38a2c;Lais Luana Massuqueto;{2021,2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+243;beac32c2-1c5d-4646-9c6b-5a3384caa561;Leandro Machado Brizola;{2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+244;1f0cfb04-640e-4617-a67c-d731af756131;Leila Ines Follmann Freire;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+245;4d867fcb-6018-49c9-9141-b44a30085b97;Leila Maria Vriesmann;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+246;7fbe20e6-34c9-44ef-8c8f-816ec04cf31a;Leonardo Pacheco Wendler;{2019,2020};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+247;8b4280a0-366a-45f7-84cf-7ea150549355;Leonardo Pires;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+248;bd658081-899d-4100-b2ef-9bcd7af07019;Luiz Alexandre Goncalves Cunha;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+249;56999ae3-77ae-48d6-be63-0c7d8cfeb8b1;Leonardo Tullio;{2018,2019,2021,2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+250;6898129c-d61c-45e0-9ee5-4e6298c971f9;Leonel Brizolla Monastirsky;{2018,2019,2020,2021};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+251;1ed1efe7-8fd0-4fcf-9f99-417e380997fb;Leticia Col Debella Santos;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+252;79e8db22-ee43-436d-b3f8-9b49ddfbf3c1;Lidiane Fonseca;{2018,2019};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+253;a583f28b-ba17-41bd-abc9-201dd0408185;Lilian Tais de Gouveia;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+254;e05f107e-a4db-4cd9-a7ba-ceae3f1e1829;Lizandra Kamradt Savi;{2022,2023};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+255;95788a1f-329d-40c8-982a-433c407c78a9;Lucas Maximo Alves;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+256;bf46a52b-076e-49df-a27f-217f9e25c0c7;Luiza Takako Matumoto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+257;45a02357-c9a3-459b-ada1-46cd2a45d9f1;Lucas Stori de Lara;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+258;fe781da1-2bc9-47f8-92eb-be886a4e4276;Luciana da Silva Leal Karolewski;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+259;ca848100-40ff-4d86-b35d-5d435aa3205c;Luiz Americo Alves Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+260;4471fb38-01c4-4e30-94f5-6766b9914fa6;Luciana de Boer Pinheiro de Souza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+261;ddf04e9f-e571-4474-acbf-67cf1b823535;Luiz Andre Sartori;{2018,2019};Graduado;Departamento de Geociências;EFETIVO;sim;SEXATAS
+262;708f8228-850e-4644-8a17-311c7e231d9d;Luciane Grossi;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+263;90a7eaa0-a7a7-44f7-9e07-5e340bc71f67;Luciano Jose Senger;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+264;9daf8671-0e5a-415f-baf1-5243469e2d40;Luciano Mathias Doll;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Informática;EFETIVO;nao;SECATE
+265;52cc1694-e304-4872-8a52-5a9ea0c64c2a;Luis Antonio Pinheiro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+266;6dd6d1fa-8d81-41b8-b527-ab51446666ec;Lucio Marcos de Geus;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+267;f3e92c53-7c8b-4b72-8dc3-e84a0299d706;Luis Augusto Trevisan;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+268;56de7409-d27e-4458-852c-5ebafafe478b;Luiz Antonio Bastos Bernardes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+269;973c8ebb-82ec-4d06-a795-3cfa539d3683;Luis Ismael Asmat Lopez;{2018};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+270;61d52205-ea3d-49dc-8b17-19893ef37df0;Luis Miguel Schiebelbein;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;COLABORADOR;nao;SECATE
+271;a1c4fe77-2089-4c0d-bdb8-32b40f164a95;Luiz Alberto Kozlowski;{2018};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+272;e26f746c-1998-4338-af6f-590ad4a8e64a;Marcelo Miranda Farias;{2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+273;9a996601-f78e-47bc-ad89-670e61b66c84;Luiz Carlos Godoy;{2018,2019};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+274;46b81405-e002-4e32-b000-2d81fdffc6ed;Luiz Claudio Garcia;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+275;410e53a7-a463-4bd4-84e9-591d9124d131;Marcel Hideyuki Fumiya;{2018,2019};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+276;5d4a2131-789b-4444-ad1c-48a37e6cd17d;Luiz Fernando Pires;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+277;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;Luiz Gustavo Lacerda;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+278;e11aafdf-e504-4ba2-b403-a6c2cd7d57bd;Luiz Otavio Rodrigues Mendes;{2022};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+279;2306aa08-ff89-4d75-bc30-29d2ae7037af;Luiz Pedro Petroski;{2018,2019,2020,2021};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+280;a9fd4d2a-2954-45fd-9018-cc52b7052679;Marcia Alves Soares da Silva;{2018,2019};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+281;b9b3728b-c458-429e-8b87-70fbcddaf9c1;Marceli Behm Goulart;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+282;5b659a92-a944-4f58-a1bc-d22d0dc38c5f;Marcelo Bilobrovec;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Informática;EFETIVO;sim;SECATE
+283;3500ec17-38b8-4ffc-90c4-84a5f40ada50;Marcio Jose Ornat;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+284;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;Marcelo Emilio;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+285;45dc4909-3bff-431e-8b3d-4a002ab17432;Marcelo Ferrasa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+286;c91e3246-e6e6-4895-a7c9-0c8e20826eb1;Marciano Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+287;e22d7344-aeb2-403c-9cf2-9b9119e39384;Marcio Ferreira Hupalo;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+288;ca7d3577-8213-4df3-b1a5-727a5d6599d7;Marcos Calcada;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+289;215a558b-b373-46f8-8fbf-80c599964ce5;Marco Aurelio Praxedes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+290;36f62445-f2d2-44f3-9b8c-9cd5ed3c050f;Marcos Damian Simao;{2022,2023};Graduado;Departamento de Física;COLABORADOR;nao;SEXATAS
+291;46a432c5-91b7-4ee4-b4fc-2618de8e99a2;Marcos Rogerio Szeliga;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+292;7e71efaf-c147-41aa-8bf3-976d5b9ee253;Marcos Monteiro Junior;{2021,2022,2023};Doutor;Departamento de Informática;COLABORADOR;nao;SECATE
+293;f2d9731c-f044-4487-b143-ea99af870305;Marcos Teixeira Alves;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+294;0e5d62d4-224b-452d-9c12-f818c917a28e;Marcos Vinicius Ribas Milleo;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+295;3063eb52-726c-410a-94cc-f4f4e589f2c4;Mareci Mendes de Almeida;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+296;1d3defc6-c9d7-4aee-af4c-9357b83d51a1;Margarete Aparecida dos Santos;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+297;68460ed4-64e6-400e-9744-7062e9832cf4;Maria Aparecida Goncalves da Fonseca Martins;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Zootecnia;EFETIVO;sim;SECATE
+298;c17b7c0c-e8a3-4d0c-94dd-b9c1f9dc97b9;Matheus Tauffer de Paula;{2023};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+299;558d7e3a-5380-4cf2-ab8e-37618d66832f;Maria Elena Payret Arrua;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+300;f331940e-c438-4b1d-a9e8-15dfb1f498f6;Mathias Talevi Betim;{2018};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+301;2c5406e3-ca1c-4925-a542-1ad4eee43ca0;Maria Ligia Cassol Pinto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+302;016be3b2-e36f-430b-8a84-7fdb47b9de0b;Maria Magdalena Ribas Doll;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+303;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;Maria Marta Loddi;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+304;162d8b24-754b-4da7-9e94-05ef6cc3d887;Maria Salete Marcon Gomes Vaz;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+305;49c8ad16-dede-498b-bdf7-b4fda328cd70;Mauricio Zadra Pacheco;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+306;e08c91a9-26f5-4795-941c-c9db3f3e5c85;Marilei Casturina Mendes Sandri;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+307;fc9974c7-0e75-470c-b852-51387aa2af0a;Marina Gadens Berton Zaika;{2019,2020,2021,2022,2023};Mestre;Departamento de Engenharia Civil;EFETIVO;nao;SECATE
+308;e971602b-e274-47ac-a1e0-e3650827797f;Marina Tolentino Marinho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+309;a5a4e8be-dc6b-4747-9071-5c7b0a58fe24;Neiva Deliberali Rosso;{2018,2019};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+310;0ce8cbfb-d7a8-47c0-ba3b-07bef2a33820;Michele Karoline Lima Tenorio;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+311;d2f272b3-768e-42d6-a1fd-d69e244e510f;Mario Cezar Lopes;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Geociências;EFETIVO;sim;SEXATAS
+312;180bd71a-2121-43ce-82c6-132eda3cfb18;Mario Sergio de Melo;{2018,2019};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+313;8de913a0-d0f2-4444-b242-0216fbe8ddd1;Maristella Dalla Pria;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+314;7e7ac1e0-5183-404c-a05e-ffabea8807ed;Milene Rodrigues Martins;{2020,2021,2022};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+315;789f7900-a040-4f29-83b6-2398b0793135;Mariza Boscacci Marques;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+316;769fdf97-9e3e-44e8-9ed4-064ecc85e2f7;Nelci Catarina Chiquetto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+317;38aedc50-8c93-4dd7-8cb7-3ece594215bf;Marli Terezinha Van Kan;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+318;dc6beab1-db78-4495-8b9d-3562503c2564;Marluce Goncalves Cortez;{2018,2019};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+319;83acb089-b325-4041-ac51-035da9f47ea9;Mateus Edilson Gomes Dobrovolski;{2022,2023};Mestre;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+320;87376d6e-e57a-490f-915b-fdd7aefbceb8;Moises Meza Pariona;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+321;f29bb918-fc2f-400d-aab5-f92728bfd311;Matheus Ariel Battisti;{2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+322;a732d31c-6439-49b9-8572-b9d67d2ba7bf;Marcio Augusto de Souza;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+323;854b3205-e57a-48dd-9336-c89571e11490;Monica Jasper;{2018,2019,2020,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+324;80617987-11df-4f74-8bdd-b24b9d8ee891;Nestor Silva Moro;{2018,2019,2020,2021};Doutor;Departamento de Informática;EFETIVO;nao;SECATE
+325;8a603c39-5716-4d76-b94f-5472eacc65ca;Nair Fernanda Burigo Mochiutti;{2022,2023};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+326;bf475de6-e67c-40df-b2d5-55a3e0170353;Neyde Fabiola Balarezo Giarola;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+327;744bf23f-1023-4d95-bc1e-dc084ea759ad;Nataly Barbosa de Castilho;{2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+328;6a5e57c6-333b-43a1-a30e-81d0a2da09ee;Natalia Pereira Rezende;{2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+329;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;Orcial Ceolin Bortolotto;{2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+330;b98dcf1f-cbfe-41e2-a258-c65397d1a78b;Nicolas Floriani;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+331;d9ef9027-7acc-4005-9c0c-97930b04fe25;Natali Maidl de Souza;{2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;COLABORADOR;nao;SECATE
+332;2ccdcbbf-a7d3-40e3-ac6b-9280493ab27c;Olinda Thome Chamma;{2018,2019};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+333;4cea0483-f494-40ff-b2b6-995b65a7dd1f;Osmar Paulo Beckert;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;nao;SECATE
+334;fc576389-60e0-431d-9315-b046d529abde;Oliver Kolossoski;{2018,2019};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+335;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;Osvaldo Mitsuyuki Cintho;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+336;d82b9c49-c73e-49f9-b42e-7a1d7f48fba6;Patricia Kruger;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;sim;SECATE
+337;ca21cd50-dc56-4d33-a992-b450c61c055f;Patricia Castellen;{2018,2019};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+338;72c6b086-8ef1-4522-a783-030547942dde;Patricia Yukari Sato Rampazo;{2021};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+339;a7c2b47e-76fa-42ab-a998-b40c88c56aa3;Patricia Los Weinert;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+340;98dbb9c4-dbf6-4fc6-b65f-dfe3d09485f0;Paulo Cesar Facin;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+341;6290461f-20e4-4fda-908d-47eeee1d825b;Paulo Ferreira Carrilho;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+342;e05a1281-6402-4cba-bab6-8a2b2d802218;Paulo Ricardo Los;{2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+343;72ec495c-2185-4e1d-ab58-e8df9b4ecbda;Paulo Rogerio Moro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+344;af589f93-8cb3-4a60-953e-23a9c0b35b33;Pedro Crist;{2018,2019,2020,2021,2022};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+345;f9926efb-f63d-430f-b386-78ca150d2745;Pedro Henrique Jatai Batista;{2021,2022};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+346;700fd8fd-4b63-4b15-8fe2-121567748d80;Pedro Henrique Weirich Neto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Ciências do Solo e Engenharia Agrícola;EFETIVO;sim;SECATE
+347;54fdd0f1-fc36-4d66-8a14-94a7ca1bfcd5;Pedro Jeferson Miranda;{2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+348;38370931-c92d-4f33-abc6-731ee193103f;Roberto Jasper;{2018,2019};Graduado;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;nao;SECATE
+349;def5cb37-8011-4cd6-b88c-ca37015885d1;Priscila Kabbaz Alves da Costa;{2018,2019,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+350;054716ae-bd2d-446a-adb6-7919e38f0d0a;Robson Couto da Silva;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+351;99bb11ef-ee7e-414e-b6a6-eaa5c55f02a3;Pericles de Holleben Mello;{2018};Mestre;Departamento de Geociências;EFETIVO;sim;SEXATAS
+352;0ae13898-f8d6-4bff-9625-9fad6e8a8abc;Radla Zabian Bassetto Bisinella;{2018,2023};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+353;633f1237-2bf9-46b3-995b-09e793e2ef19;Rafael Jansen Mikami;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+354;ded7e5c2-37a3-4c08-ab92-e7c0db8aa3d0;Rafael Machado Reis;{2019,2020,2021};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+355;66449cfe-6481-4f2f-ac57-64a87b9f8257;Rodrigo Adamshuk Silva;{2018,2019,2020};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+356;50833fdd-8dcc-448c-b454-376b301da0e7;Rafael Mazer Etto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+357;601bfa1d-32a6-46d5-b0f4-1ec310df3621;Rafael Rodrigues Fernandes Siqueira;{2021,2022,2023};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+358;10d23bc9-4c53-4be4-9030-dcb45c90f196;Raquel Abdallah da Rocha Oliveira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+359;b879c8d6-cee0-400e-bfd6-644f4d54537b;Reginaldo Ferreira Barreiros;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+360;6d12d254-3f49-4beb-b2e7-537b9899725d;Reinaldo Afonso Mayer;{2018,2019,2020};Mestre;Departamento de Informática;EFETIVO;sim;SECATE
+361;945dc871-292a-4244-8e9e-2b3c9819c219;Renan Henrique Finder;{2019};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+362;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;Renata Dinnies Santos Salem;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Alimentos;EFETIVO;sim;SECATE
+363;21ea0926-736e-41a3-999d-f6b6ea924bd8;Renato Marcondes;{2023};Mestre;Departamento de Química;COLABORADOR;nao;SEXATAS
+364;565e5f11-02a5-421d-969f-f52d2b842edf;Rhaissa Garcia de Assis;{2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+365;3d6ea327-a206-469a-a74c-737b4e62fc06;Ricardo Antonio Ayub;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+366;8529b0da-c1a7-4bca-9cf7-2330c89d4be0;Rodrigo de Freitas Gabert;{2021,2022};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+367;04062b12-8df1-4a16-9ded-b99838924907;Ricardo Letenski;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+368;73f72284-a0f2-41f5-b5da-5a57bf5358c3;Ricardo Sanson Namur;{2022};Doutor;Departamento de Engenharia de Materiais;COLABORADOR;nao;SECATE
+369;a5795099-8061-42e1-937f-fce31fbdbd47;Rodrigo Rodrigues Matiello;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+370;fdf12b9d-57f6-4e03-b829-01c82c601a98;Rita de Cassia Amaral Vieira;{2018,2019,2020,2021,2022};Mestre;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+371;d2b7b2f6-45c3-4d9f-aa20-83a01ea8d186;Scheila Valechenski Biehl;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+372;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;Sandra Regina Masetto Antunes;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+373;1503236d-7e51-4168-b4da-e7629944f231;Romaiana Picada Pereira;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+374;7baf5aeb-d32e-4d9d-b1e4-c7462eae31e4;Rosana Fernandes Otto;{2018,2019};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+375;4456ee89-47bb-465a-b5cf-99bc0adb7289;Rosane Falate;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+376;116104a6-fb10-44e0-9910-a59376ee9e89;Ruben Auccaise Estrada;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+377;14c6dd65-6adb-44db-81a2-13af6fe718b1;Sabrina Anne de Lima;{2018,2019,2021,2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+378;8fc35abe-980e-49e8-8fb9-4fd92f6420df;Samyr Ariel Abdulack;{2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+379;cee98169-57ed-4790-9d66-4c71fd455736;Sandra Stets;{2018,2019,2020,2021,2022};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+380;5e768f72-bdc0-45e3-bc28-09360124b06b;Selauco Vurobi Junior;{2018,2019,2020,2021,2022,2023};Mestre;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+381;7ebb8bc6-f5bd-4214-9578-2310c57061fa;Sandro Ely de Souza Pinto;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+382;bedf1975-a11d-4e86-b56d-08dacbe4c3d2;Sandro Xavier de Campos;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+383;11078839-e35b-460b-ad55-772de08fb9f5;Silvana Ohse;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;sim;SECATE
+384;2ffdf175-f380-4e61-9735-8abebf018b3b;Selma Regina Aranha Ribeiro;{2018,2019,2020,2021};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+385;f265f406-0be6-4783-b8d2-b802dbee2fde;Sergio Mazurek Tebcherani;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;nao;SEXATAS
+386;b0a518be-a8e1-4cd0-88c1-cafb8ca33234;Sergio Leonardo Gomez;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+387;f997ea34-0e76-46aa-9c9f-fdd38021b27f;Sergio Toshio Fujiwara;{2018,2019,2020};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+388;5f84e90f-0aa4-45fd-a4d4-75a1852df4ff;Sergio Ricardo de Lazaro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+389;b34650c7-d7d2-4033-82c0-3c9ffededbf4;Sidnei Antonio Pianaro;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia de Materiais;EFETIVO;sim;SECATE
+390;d12a4f46-c0b2-4974-a1ae-4abbfa704758;Silvane Cristina de Melo Schons;{2022};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+391;98bfe1b3-29bf-445f-9df1-d9145f9d7ab1;Silvia Barbosa de Souza Ferreira;{2023};Doutor;Departamento de Engenharia Civil;COLABORADOR;nao;SECATE
+392;2c585e63-a2b4-4b97-908c-cfd8100fe0a9;Silvia Meri Carvalho;{2018,2019,2020};Doutor;Departamento de Geociências;EFETIVO;sim;SEXATAS
+393;58340b2e-0407-48c7-b043-bb37d35563f0;Silvio Luiz Rutz da Silva;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+394;26ab24a9-7eee-4f03-92e5-9398aeeb7425;Stela Angelozi Leite;{2018,2019};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+395;0cc37987-69a0-4e93-bd9e-a0f63eb4b8b3;Viviani Martins Borsato;{2018,2019,2020,2021,2022};Doutor;Departamento de Engenharia de Alimentos;COLABORADOR;nao;SECATE
+396;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;Suellen Aparecida Alves;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+397;8c50f851-d100-44af-b8c2-d38aa6424ca6;Suellen Gonzalez Belo Clemente;{2021,2022,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+398;1b8aec7c-a101-4c0d-b476-ef3d256b1669;Suellen Karina Palhano Iochucki;{2018,2019};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+399;a7ceb30a-7369-4c14-a2b7-18606ae7c292;Suellen Scheibel;{2022,2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+400;282b8532-b815-4419-812e-211f5ffa78c0;Sergio da Costa Saab;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Física;EFETIVO;sim;SEXATAS
+401;a2728d99-c2ce-47b5-b750-b008c30bc934;Sergio Luiz Schulz;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Engenharia Civil;EFETIVO;nao;SECATE
+402;a8a90a16-906b-4937-b651-4a76e2b36024;Tatiana Montes Celinski;{2018,2019};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+403;5196a0cd-aee1-49f7-b0a5-5760999ef898;Thais Pereira da Cruz;{2023};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+404;a51c2a79-4a47-40dd-a109-242f2d887bce;Voncarlos Marcelo de Araujo;{2018,2019};Doutor;Departamento de Informática;COLABORADOR;nao;SECATE
+405;5aff7ce5-83b9-4733-bc13-3fa7de4c3f0f;Thiago de Castro Rozada;{2018,2019,2020};Doutor;Departamento de Química;COLABORADOR;nao;SEXATAS
+406;1ae6534d-7e7a-43f1-b547-d37613b0aee5;Thiago Luis Schneider;{2018,2019,2020};Mestre;Departamento de Física;COLABORADOR;nao;SEXATAS
+407;94e5a525-810b-4a69-9085-657bbf49d9f6;Tiago Augusto Barbosa;{2018};Mestre;Departamento de Geociências;COLABORADOR;nao;SEXATAS
+408;3331da9c-5ce0-43ec-9ea2-d769a4f1c567;Tacia Gomes Bergstein Galan;{2020,2021,2022};Doutor;Departamento de Zootecnia;COLABORADOR;nao;SECATE
+409;8ae2884b-b6ab-42ea-8b54-89c336a09207;Vagner dos Santos;{2020,2021,2022,2023};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+410;ab46511c-9fb8-4708-9a4e-78c0697ff4cb;Valkiria Fabiana da Silva;{2018,2019,2020,2021};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;COLABORADOR;nao;SECATE
+411;51f4c31b-2179-4525-9c0a-2856a38da57c;Valeria Rossetto Barriviera Furuya;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+412;a46ae7cc-dd05-4aa9-bdec-f59ba08c9091;Wagner Monteiro;{2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+413;76399477-9e90-4ca3-87c2-79e9ed887886;Vanderlei dos Santos Mendes;{2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+414;3007e817-c05b-47d1-bf3f-fd52df622657;Vanessa Egea dos Anjos;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;sim;SEXATAS
+415;3d8dcb85-58cf-41a2-a462-5cd75bc27cfb;Veronica Oliveira Vianna;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+416;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;Victor Breno Pedrosa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+417;77510a3a-d366-449b-a179-fb102aad2a33;Victor George Celinski;{2018,2019};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+418;0f831448-f65d-4dc7-a125-e3953874e249;Victor Schnepper Lacerda;{2020,2021,2022,2023};Doutor;Departamento de Informática;COLABORADOR;nao;SECATE
+419;cb77451b-2b76-4ae4-a515-69cf170443cd;Wanderley Aparecido Cerniauskas;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Matemática e Estatística;EFETIVO;sim;SEXATAS
+420;6173f37b-d255-49d4-b486-1744848322a5;Yuri Aparecido Opata;{2021};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+421;4602c0a9-382d-4141-810f-9907d3f5a245;Wellington Claiton Leite;{2018,2019};Doutor;Departamento de Física;COLABORADOR;nao;SEXATAS
+422;aead5eba-a8d8-4d5c-b5f7-876a16a20301;Wilcilene Maria Kowal Schratzenstaller;{2018};Mestre;Departamento de Informática;COLABORADOR;nao;SECATE
+423;87b7c0b0-f024-4cdc-910d-a001f2925b6b;Willian Thomas Rocha;{2019,2020,2021,2022,2023};Graduado;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+424;be6c334d-1789-4678-952c-02f5a907a238;Yves Garnard Irilan;{2019,2020,2021};Doutor;Departamento de Matemática e Estatística;COLABORADOR;nao;SEXATAS
+425;1edbde62-0a41-46a0-8a7c-df9a7c803869;Wilson Costa;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Química;EFETIVO;nao;SEXATAS
+426;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Wilson Massamitu Furuya;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Zootecnia;EFETIVO;sim;SECATE
+427;8b203e56-ce9a-4cd2-b4f5-2d6e355357ec;Wilson Story Venancio;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Fitotecnia e Fitossanidade/DEFITO;EFETIVO;nao;SECATE
+428;4c6c8e0b-9745-40d1-be91-fb76c77469fd;Zito Palhano da Fonseca;{2018,2019,2020,2021,2022,2023};Doutor;Departamento de Informática;EFETIVO;sim;SECATE
+429;d5c0015f-5d39-4758-a7d4-208c62c15fb0;Zingara Rocio dos Santos Eurich;{2019,2020,2021};Doutor;Departamento de Geociências;COLABORADOR;nao;SEXATAS

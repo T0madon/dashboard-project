@@ -1,8 +1,10 @@
+from pathlib import Path
 import psycopg2
-import dash
-from dash import dcc, html
 import plotly.express as px
 import pandas as pd
+
+ROOT = Path(__file__).parent
+PATH_SAVE_DF = ROOT / 'dataframes' 
 
 # Conectar ao banco de dados
 def conectar_banco():
@@ -42,23 +44,43 @@ def buscar_dados(query):
         print("Erro ao buscar dados:", e)
         return []
 
+def writeDf(df_name, table):
+    # print(f'\n{df_name}\n')
+    datas, columns = buscar_dados(f"SELECT * FROM {table}")
+    df = pd.DataFrame(datas, columns=columns)
+    df.to_csv(PATH_SAVE_DF / f"{df_name}.csv", decimal=",", sep=";")
+    
 
 # Buscar dados
-print('INÍCIO\n')
+# print('INÍCIO\n')
+# writeDf('df_artigos', 'artigos')
+# writeDf('df_bolsas', 'bolsas')
+# writeDf('df_congressos', 'congressos')
+# writeDf('df_financiados', 'financiados')
+# writeDf('df_orientacoes', 'orientacoes')
+# writeDf('df_produtividade', 'produtividade')
+# writeDf('df_professores', 'professores')
+# writeDf('df_projetos', 'projetos')
+
 
 # teacher_data, teacher_columns = buscar_dados("SELECT * FROM professores")
 # teachers_df = pd.DataFrame(teacher_data, columns=teacher_columns)
 # print(teachers_df)
 
+
 print('\nPROJETOS\n')
 project_data, project_columns = buscar_dados("SELECT * FROM projetos")
 projects_df = pd.DataFrame(project_data, columns=project_columns)
-print(projects_df)
+teste = pd.read_csv(PATH_SAVE_DF / 'df_projetos.csv', sep=';', decimal=',', index_col=0)
 
-print('PRODUÇÃO POR DEPARTAMENTO\n')
-dep_prod_df = projects_df.groupby(['departamento', 'anopubli'])['nome'].count().reset_index()
-dep_prod_df.rename(columns={"nome": "quantidade_produ"}, inplace=True)
-print(dep_prod_df)
+print(projects_df)
+print('-' * 50)
+print(teste)
+
+# print('PRODUÇÃO POR DEPARTAMENTO\n')
+# dep_prod_df = projects_df.groupby(['departamento', 'anopubli'])['nome'].count().reset_index()
+# dep_prod_df.rename(columns={"nome": "quantidade_produ"}, inplace=True)
+# print(dep_prod_df)
 
 
 

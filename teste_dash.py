@@ -1,6 +1,6 @@
 from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
-from main import dep_prod_df
+from import_db import dep_prod_df
 
 df = dep_prod_df
 app = Dash()

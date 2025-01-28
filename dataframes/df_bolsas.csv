@@ -1,0 +1,833 @@
+;id_professor;nome;ano;departamento
+0;863a4793-10b0-4b6b-ae50-5f6884d159c5;PROCESSAMENTO E CARACTERIZACAO DE PEROVISQUITAS BaCe0,2Zr0,6Y0,2O3-d e BaCe0,2Zr0,6Yb0,2O3-d VISANDO APLICACAO EM CELULAS A COMBUSTIVEL;2019;Departamento de Engenharia de Materiais
+1;863a4793-10b0-4b6b-ae50-5f6884d159c5;PROCESSAMENTO E CARACTERIZACAO DE PEROVISQUITAS BaCe0,2Zr0,6Y0,2O3-d e BaCe0,2Zr0,6La0,2O3-d VISANDO APLICACAO EM CELULAS A COMBUSTIVEL;2019;Departamento de Engenharia de Materiais
+2;863a4793-10b0-4b6b-ae50-5f6884d159c5;ESTUDO DO EFEITO DA HIDRATACAO NAS VARIACOES DIMENSIONAIS E NAS CONDUTIVIDADES ELETRICAS DO SISTEMA BaCe0.2Zr0.6Yb0.2O3-d (BCZYb).;2020;Departamento de Engenharia de Materiais
+3;863a4793-10b0-4b6b-ae50-5f6884d159c5;ESTUDO DO EFEITO DA HIDRATACAO NAS VARIACOES DIMENSIONAIS E NAS CONDUTIVIDADES ELETRICAS DO SISTEMA BaCe0.2Zr0.6Pr0.2O3-d (BCZP).;2020;Departamento de Engenharia de Materiais
+4;863a4793-10b0-4b6b-ae50-5f6884d159c5;Estudo dos efeitos de diferentes eletrodos na condutividade eletrica de celulas a combustivel do sistema BaCe0.2Zr0.7Y0.1O3-d (BCZY);2020;Departamento de Engenharia de Materiais
+5;863a4793-10b0-4b6b-ae50-5f6884d159c5;Estudo da substituicao parcial de La por Ca na condutividade eletrica do LaNi0,5Cr0,5O3;2021;Departamento de Engenharia de Materiais
+6;863a4793-10b0-4b6b-ae50-5f6884d159c5;Estudo dos efeitos da substituicao parcial do Ce e do Zr por Fe na composicao do BaCe0,2Zr0,7Y0,1O3-d;2021;Departamento de Engenharia de Materiais
+7;863a4793-10b0-4b6b-ae50-5f6884d159c5;Desenvolvimento de eletrodos com condutividade mista protonica-eletronica para celulas a combustivel;2021;Departamento de Engenharia de Materiais
+8;863a4793-10b0-4b6b-ae50-5f6884d159c5;ESTUDO DOS EFEITOS DA SUBSTITUICAO PARCIAL DO Fe POR Ni NA ESTRUTURA E NAS PROPRIEDADES ELETRICAS DA PEROVISQUITA SrFeO3;2022;Departamento de Engenharia de Materiais
+9;863a4793-10b0-4b6b-ae50-5f6884d159c5;AVALIACAO DOS PIGMENTOS (CAULIM E CARBONATO DE CALCIO) UTILIZADOS EM REVESTIMENTOS DE PAPEL COUCHE;2022;Departamento de Engenharia de Materiais
+10;863a4793-10b0-4b6b-ae50-5f6884d159c5;DESENVOLVIMENTO DE ELETRODOS COM CONDUTIVIDADE TRIPLA (O-2/H+/E-) PARA CELULAS A COMBUSTIVEL CONDUTORAS PROTONICAS;2022;Departamento de Engenharia de Materiais
+11;863a4793-10b0-4b6b-ae50-5f6884d159c5;DESENVOLVIMENTO DE CATODOS PARA CELULAS A COMBUSTIVEL CONDUTORAS PROTONICAS;2023;Departamento de Engenharia de Materiais
+12;863a4793-10b0-4b6b-ae50-5f6884d159c5;Estudo dos efeitos da substituicao parcial do Co por Ni na composicao do La0.6Sr0.4CoO3-d (LSC);2023;Departamento de Engenharia de Materiais
+13;65cb1168-4e45-4ba8-8266-306871725c40;AVALIACAO DA ESTABILIDADE DO LEITE AO ETANOL E SUA RELACAO COM O TEOR DE CALCIO IONICO E A COMPOSICAO DO LEITE;2019;Departamento de Zootecnia
+14;65cb1168-4e45-4ba8-8266-306871725c40;AVALIACAO DE PARAMETROS RELACIONADOS COM A ESTABILIDADE DO LEITE AO ETANOL;2019;Departamento de Zootecnia
+15;65cb1168-4e45-4ba8-8266-306871725c40;CARACTERISTICAS DO LEITE DE VACAS DA RACA JERSEY E HOLANDESA E SEUS EFEITOS SOBRE A ESTABILIDADE DO LEITE;2020;Departamento de Zootecnia
+16;65cb1168-4e45-4ba8-8266-306871725c40;PRODUCAO E COMPOSICAO DO LEITE E SUA RELACAO COM OS PARAMETROS REPRODUTIVOS DE VACAS PRIMIPARAS E MULTIPARAS;2020;Departamento de Zootecnia
+17;65cb1168-4e45-4ba8-8266-306871725c40;CELULAS SOMATICAS NO LEITE COMO FATOR DE IMPACTO NA REPRODUCAO DE VACAS PRIMIPARAS E MULTIPARAS;2020;Departamento de Zootecnia
+18;65cb1168-4e45-4ba8-8266-306871725c40;ANALISE DA ESTABILIDADE DO LEITE NAS ESTACOES DO VERAO E INVERNO;2021;Departamento de Zootecnia
+19;65cb1168-4e45-4ba8-8266-306871725c40;INFLUENCIA DA ESTABILIDADE DO LEITE NO PROCESSAMENTO DO QUEIJO MUSSARELA;2021;Departamento de Zootecnia
+20;65cb1168-4e45-4ba8-8266-306871725c40;AVALIACAO DE PRATICAS DE MANEJO SOBRE O DESENVOLVIMENTO CORPORAL DE BEZERRAS LEITEIRAS NA REGIAO DOS CAMPOS GERAIS;2022;Departamento de Zootecnia
+21;65cb1168-4e45-4ba8-8266-306871725c40;CARACTERISTICAS DO QUEIJO MUSSARELA ELABORADO COM LEITE DE ALTA E BAIXA ESTABILIDADE;2022;Departamento de Zootecnia
+22;65cb1168-4e45-4ba8-8266-306871725c40;ANALISE DE FATORES DE MANEJO E SUA RELACAO COM A SANIDADE DE BEZERRAS LEITEIRAS NOS CAMPOS GERAIS DO PARANA;2022;Departamento de Zootecnia
+23;65cb1168-4e45-4ba8-8266-306871725c40;SUPLEMENTACAO ENERGETICA PARA VACAS EM LACTACAO: PRODUCAO E COMPOSICAO DO LEITE;2023;Departamento de Zootecnia
+24;65cb1168-4e45-4ba8-8266-306871725c40;SUPLEMENTACAO ENERGETICA PARA VACAS EM LACTACAO: METABOLITOS SANGUINEOS;2023;Departamento de Zootecnia
+25;5731e590-3b6f-45fc-a593-169ad4216dbe;Estudo da sinterizacao por micro-ondas de perovskitas BaCe0,2Zr0,7Y0,1O3-d utilizadas como eletrolito em celulas a combustivel de oxido solido;2019;Departamento de Engenharia de Materiais
+26;5731e590-3b6f-45fc-a593-169ad4216dbe;Efeito do estroncio na sinterizacao e conducao protonica de perovskitas Ba1-xSrxCe0.7Zr0.2Y0.1O3-d para uso em eletrolito de celulas a combustivel;2019;Departamento de Engenharia de Materiais
+27;5731e590-3b6f-45fc-a593-169ad4216dbe;Processamento de ceramicas porosas utilizando a tecnica de consolidacao por amido;2019;Departamento de Engenharia de Materiais
+28;5731e590-3b6f-45fc-a593-169ad4216dbe;Influencia da porosidade nas propriedades eletricas da perovskita BaCe0,2Zr0,7Y0,1O3-d;2020;Departamento de Engenharia de Materiais
+29;5731e590-3b6f-45fc-a593-169ad4216dbe;Producao da perovskita hexagonal Ba5Nb4O15 utilizando sinterizacao em duas etapas;2020;Departamento de Engenharia de Materiais
+30;5731e590-3b6f-45fc-a593-169ad4216dbe;EFEITO DA SINTERIZACAO EM DUAS ETAPAS NA MICROESTRUTURA DAS CERAMICAS DE BaCe0,2Zr0,7Y0,1O3-d;2021;Departamento de Engenharia de Materiais
+31;5731e590-3b6f-45fc-a593-169ad4216dbe;CARACTERIZACAO DE RESIDUOS DE ZIRCONIA PROVENIENTES DO PROCESSO DE USINAGEM PARA OBTENCAO DE PROTESES ODONTOLOGICAS;2021;Departamento de Engenharia de Materiais
+32;5731e590-3b6f-45fc-a593-169ad4216dbe;ESTUDO DO USO DE ADITIVOS DE SINTERIZACAO PARA A OBTENCAO DE CERAMICAS DE Ba5Nb4O15;2021;Departamento de Engenharia de Materiais
+33;5731e590-3b6f-45fc-a593-169ad4216dbe;DESENVOLVIMENTO DE COMPOSITOS ALUMINA-ZIRCONIA PARA FABRICACAO DE FERRAMENTAS DE CORTE;2021;Departamento de Engenharia de Materiais
+34;5731e590-3b6f-45fc-a593-169ad4216dbe;INCORPPORACAO DE TiO2 EM FORMULACAO DE TINTAS PARA PAPEL COUCHE;2022;Departamento de Engenharia de Materiais
+35;5731e590-3b6f-45fc-a593-169ad4216dbe;UTILIZACAO DOS RESIDUOS PROVENIENTES DO PROCESSO DE USINAGEM DE PROTESES DENTARIAS COMO FONTE DE ZIRCONIA NA OBTENCAO DE ZIRCONATO DE CALCIO (CaZrO3);2022;Departamento de Engenharia de Materiais
+36;5731e590-3b6f-45fc-a593-169ad4216dbe;CARACTERIZACAO ELETRICA E MICROESTRUTURAL DE CERAMICAS DE Ba5Nb4O15;2022;Departamento de Engenharia de Materiais
+37;5731e590-3b6f-45fc-a593-169ad4216dbe;COMPOSITOS CERAMICOS DE ALUMINA-ZIRCONIA-TIN PARA APLICACAO COMO FERRAMENTAS DE CORTE EM PROCESSOS DE USINAGEM;2022;Departamento de Engenharia de Materiais
+38;5731e590-3b6f-45fc-a593-169ad4216dbe;FILAMENTOS PARA IMPRESSAO 3D MODIFICADOS COM GRAFENO;2023;Departamento de Engenharia de Materiais
+39;5731e590-3b6f-45fc-a593-169ad4216dbe;Producao da fase LaNi0.5Fe(0.5-x)CoxO(3-d) (LNFC) para o uso em Celulas a Combustivel Reversiveis de Oxido Solido (RSOFCs);2023;Departamento de Engenharia de Materiais
+40;5731e590-3b6f-45fc-a593-169ad4216dbe;OBTENCAO E CARACTERIZACAO DO ELETROLITO SOLIDO CONDUTOR PROTONICO BaZr0,7Ce0,1Sm0,1Y0,1O3-d;2023;Departamento de Engenharia de Materiais
+41;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;BIODEGRADACAO EM SOLO SIMULADO DO PLA E DO ECO PLA UTILIZADOS PARA IMPRESSAO 3D;2020;Departamento de Engenharia de Materiais
+42;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;CARACTERIZACAO MECANICA DO PLA E DO ECO PLA UTILIZADOS PARA IMPRESSAO 3D.;2020;Departamento de Engenharia de Materiais
+43;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;RECICLAGEM DE FILAMENTOS DE ECOPLA UTILIZADO NA IMPRESSAO 3D;2021;Departamento de Engenharia de Materiais
+44;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;RECICLAGEM DE PLA (POLIACIDO LATICO) UTILIZADO NA IMPRESSAO 3D;2021;Departamento de Engenharia de Materiais
+45;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;CARACTERIZACAO DE LATEX UTILIZADOS EM FORMULACOES DE TINTAS;2022;Departamento de Engenharia de Materiais
+46;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;CARACTERIZACAO DE FILAMENTOS MICROBIOCIDAS UTILIZADOS NA IMPRESSAO 3D;2022;Departamento de Engenharia de Materiais
+47;73f50f2c-eedc-4a19-ba5a-1b276d3fa6d6;CARACTERIZACAO DE COMPOSITOS PARA PRODUCAO DE FILAMENTOS UTILIZADOS NA IMPRESSAO 3D;2023;Departamento de Engenharia de Materiais
+48;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE CARVAO ATIVADO A PARTIR DA CASCA DO PINHAO E SUA APLICACAO NO PROCESSO DE ADSORCAO/DESSORCAO DO CORANTE AZUL DE METILENO;2019;Departamento de Química
+49;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE NANOPARTICULAS DE PRATA (Ag) E INCORPORACAO NO FARELO DA CASCA DO PINHAO.;2019;Departamento de Química
+50;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE NANOPARTICULAS DE PRATA E HIDROGEIS SUPERABSORVENTES UTILIZANDO GOMA ARABICA;2019;Departamento de Química
+51;8f60df57-e41a-4c50-a06d-79a01c493661;PREPARO E CARACTERIZACAO DE AMIDO FUNCIONALIZADO COM GRUPOS FOSFATO VISANDO APLICACOES BIOTECNOLOGICAS.;2019;Departamento de Química
+52;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE HIDROGEIS DE GOMA ARABICA E PORFIRANA NATIVA E QUIMICAMENTE MODIFICADA.;2020;Departamento de Química
+53;8f60df57-e41a-4c50-a06d-79a01c493661;EXTRACAO, CARACTERIZACAO E MODIFICACAO QUIMICA DE POLISSACARIDEOS DE ALGAS MARINHAS;2020;Departamento de Química
+54;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE HIDROGEIS HIBRIDOS DE GOMA ARABICA E PORFIRANA QUIMICAMENTE MODIFICADA.;2021;Departamento de Química
+55;8f60df57-e41a-4c50-a06d-79a01c493661;EXTRACAO, CARACTERIZACAO E MODIFICACAO QUIMICA DE POLISSACARIDEOS DE ALGAS VERMELHAS VISANDO APLICACOES BIOTECNOLOGICAS.;2021;Departamento de Química
+56;8f60df57-e41a-4c50-a06d-79a01c493661;PREPARACAO DE ELETRODOS DE CARBONO CERAMICO MODIFICADOS COM AuNPs ESTABILIZADAS EM POLISSACARIDEO PROVENIENTE DE ALGAS MARINHAS;2021;Departamento de Química
+57;8f60df57-e41a-4c50-a06d-79a01c493661;ESTUDO DO PROCESSO DE ADSORCAO DO CORANTE VERMELHO DO CONGO EM FARELO, BIOCHAR E CARVAO ATIVADO OBTIDOS DA CASCA DO PINHAO.;2022;Departamento de Química
+58;8f60df57-e41a-4c50-a06d-79a01c493661;ESTUDO DO PROCESSO DE ADSORCAO DO CORANTE AZUL DE METILENO EM FARELO, BIOCHAR E CARVAO ATIVADO OBTIDOS DA CASCA DO PINHAO.;2022;Departamento de Química
+59;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE HIDROGEIS DE GOMA ARABICA CONTENDO NANOPARTICULAS DE PRATA.;2022;Departamento de Química
+60;8f60df57-e41a-4c50-a06d-79a01c493661;SINTESE DE HIDROGEIS QUIMICOS BASEADOS EM NANOCELULOSE VISANDO APLICACOES BIOTECNOLOGICAS.;2022;Departamento de Química
+61;e7b306a3-9ba6-4b9b-8450-1902026f0996;Fracoes de fosforo no solo em sistema plantio direto sob aplicacao antecipada de fosfato soluvel;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+62;e7b306a3-9ba6-4b9b-8450-1902026f0996;Desenvolvimento e validacao do metodo da resina trocadora de anions em membrana para solo dos Campos Gerais;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+63;e7b306a3-9ba6-4b9b-8450-1902026f0996;Proteinas hidrolisadas como fonte de micronutrientes para o trigo submetido ao estresse hidrico;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+64;e7b306a3-9ba6-4b9b-8450-1902026f0996;Fontes alternativas de potassio para a aveia preta;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+65;e7b306a3-9ba6-4b9b-8450-1902026f0996;Aminoacidos hidrolisados e micronutrientes para a cevada submetida ao estresse hidrico;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+66;e7b306a3-9ba6-4b9b-8450-1902026f0996;Sintese e eficiencia agronomica de fertilizantes organominerais enriquecidos com argila potassica;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+67;e7b306a3-9ba6-4b9b-8450-1902026f0996;Fontes alternativas de potassio e resposta da cultura da cevada;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+68;e7b306a3-9ba6-4b9b-8450-1902026f0996;Manejo do fosforo no solo em sistema plantio direto;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+69;e7b306a3-9ba6-4b9b-8450-1902026f0996;Aminoacidos hidrolisados e micronutrientes para o milho submetido ao estresse hidrico;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+70;e7b306a3-9ba6-4b9b-8450-1902026f0996;Sintese e eficiencia de fertilizantes organominerais enriquecidos com argila potassica para a cultura do milho;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+71;e7b306a3-9ba6-4b9b-8450-1902026f0996;Sintese e eficiencia agronomica de fertilizantes organominerais enriquecidos com argila potassica para o feijoeiro;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+72;e7b306a3-9ba6-4b9b-8450-1902026f0996;Aminoacidos hidrolisados como alternativa para mitigar o estresse hidrico do trIgo cultivado em solo argiloso;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+73;e7b306a3-9ba6-4b9b-8450-1902026f0996;Fontes alternativas de potassio e respota da cultura de milho;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+74;e7b306a3-9ba6-4b9b-8450-1902026f0996;Fontes alternativas de potassio e resposta da cultura do feijoeiro;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+75;5200d8e7-0336-423f-9345-e75f996fcc06;nan;2019;Departamento de Matemática e Estatística
+76;5200d8e7-0336-423f-9345-e75f996fcc06;ANALISE DE TENDENCIA EM SERIES TEMPORAIS DE PRECIPITACAO DA REGIAO DOS CAMPOS GERAIS DO ESTADO DO PARANA;2020;Departamento de Matemática e Estatística
+77;5200d8e7-0336-423f-9345-e75f996fcc06;Estudo da influencia do ENOS no regime de precipitacao na regiao dos Campos Gerais do estado do Parana;2021;Departamento de Matemática e Estatística
+78;5200d8e7-0336-423f-9345-e75f996fcc06;Analise dos dados de concorrencia no vestibular nos cursos da UEPG por cota de 2014 a 2021;2021;Departamento de Matemática e Estatística
+79;5200d8e7-0336-423f-9345-e75f996fcc06;A POLITICA DE COTAS DA UEPG: CONCORRENCIA NOS VESTIBULARES E MATRICULAS NOS CURSOS POR COTA DO PERIODO 2014 A 2021;2022;Departamento de Matemática e Estatística
+80;1ba9ece9-7bab-425e-ad7c-672fb5558e31;IMPLEMENTACAO DE ALGORITMO DE DEEP LEARNING PARA CONTAGEM DE ARVORES EM SIPA;2019;Departamento de Informática
+81;1ba9ece9-7bab-425e-ad7c-672fb5558e31;NOVO MODULO DE SOFTWARE DE DETERMINACAO DE CLASSES DE PRODUTIVIDADE BASEADO EM DEEP LEARNING E AMBIENTE MOBILE;2019;Departamento de Informática
+82;1ba9ece9-7bab-425e-ad7c-672fb5558e31;Abordagem One-Few Shot Learning para o diagnostico de cancer de colo do utero;2022;Departamento de Informática
+83;1ba9ece9-7bab-425e-ad7c-672fb5558e31;Estudo de fatores de risco associados ao cancer de colo cervical por meio de tecnicas de Aprendizado de Maquina;2022;Departamento de Informática
+84;1ba9ece9-7bab-425e-ad7c-672fb5558e31;RECONHECIMENTO DE PADROES DE PRODUTIVIDADE DE MILHO COM A ABORDAGEM DE FEW-SHOT LEARNING;2022;Departamento de Informática
+85;1ba9ece9-7bab-425e-ad7c-672fb5558e31;ASSOCIACAO DE DADOS ESPECTRAIS E TECNICAS DE APRENDIZADO DE MAQUINA PARA ESTIMATIVA DO TEOR DE CARBONO ORGANICO TOTAL NO SOLO;2023;Departamento de Informática
+86;1ba9ece9-7bab-425e-ad7c-672fb5558e31;CLASSIFICACAO AUTOMATICA DE IMAGENS CELULARES EM BASE DE DADOS DESBALANCEADA;2023;Departamento de Informática
+87;162b173b-b237-4a8a-9088-e23b89576809;AVALIACAO DA ATIVIDADE ANTIFUNGICA DO EPICARPO DE MACAS NA SUPERFICIE DE QUEIJOS SEMIDUROS;2019;Departamento de Engenharia de Alimentos
+88;162b173b-b237-4a8a-9088-e23b89576809;AVALIACAO DO PROCESSO DE MATURACAO DE QUEIJOS SEMIDUROS ADICIONADOS DE ESPECIARIAS;2019;Departamento de Engenharia de Alimentos
+89;162b173b-b237-4a8a-9088-e23b89576809;ESTABELECIMENTO DE UM PROTOCOLO DE FABRICACAO DE REFRIGERANTE NATURAL DE MACA COM ADICAO DE VINAGRE E KOMBUCHA DE MACA;2019;Departamento de Engenharia de Alimentos
+90;162b173b-b237-4a8a-9088-e23b89576809;AVALIACAO DO EFEITO DE DIFERENTES METODOS DE CONSERVACAO NA QUALIDADE E TEMPO DE PRATELEIRA DE UM NOVO PROTOCOLO DE FABRICACAO DE SIDRA;2020;Departamento de Engenharia de Alimentos
+91;162b173b-b237-4a8a-9088-e23b89576809;IMPLANTACAO DE METODO ANALITICO PARA ATESTAR O TRATAMENTO TERMICO DO LEITE EM QUEIJOS SEMI-DUROS ARTESANAIS;2020;Departamento de Engenharia de Alimentos
+92;162b173b-b237-4a8a-9088-e23b89576809;"IMPACTO DA IMOBILIZACAO DE COGUMELOS DURANTE A FERMENTACAO DA SIDRA: CINETICA DE FERMENTACAO; COMPOSTOS BIOATIVOS E QUALIDADE SENSORIAL";2021;Departamento de Engenharia de Alimentos
+93;162b173b-b237-4a8a-9088-e23b89576809;AVALIACAO DA ANALISE DE FOSFATASE ALCALINA EM QUEIJOS SEMI-DUROS ARTESANAIS;2021;Departamento de Engenharia de Alimentos
+94;162b173b-b237-4a8a-9088-e23b89576809;IMPACTO DE DIFERENTES METODOS DE CONSERVACAO NA ESTABILIDADE MICROBIOLOGICA E NA QUALIDADE SENSORIAL DE SIDRAS;2021;Departamento de Engenharia de Alimentos
+95;162b173b-b237-4a8a-9088-e23b89576809;Avaliacao fisico-quimica e sensorial de licores de maca maturados com chips de madeira de diferentes origens botanicas;2021;Departamento de Engenharia de Alimentos
+96;162b173b-b237-4a8a-9088-e23b89576809;DESENVOLVIMENTO DE UMA NOVA DRY CIDER: PADRONIZACAO DO TEOR FENOLICO, POTENCIAL FUNCIONAL, COR, ADSTRINGENCIA E AMARGOR;2023;Departamento de Engenharia de Alimentos
+97;162b173b-b237-4a8a-9088-e23b89576809;DESENVOLVIMENTO DE UMA NOVA DRY CIDER: PADRONIZACAO DA CINETICA DE FERMENTACAO E DA FORMACAO DE AROMAS FRUTADOS;2023;Departamento de Engenharia de Alimentos
+98;430d1420-a5e8-43f3-81e2-76ed88550355;Complexos de Inclusao Nistatina-(a,b,g)-Ciclodextrina: um Estudo Teorico feito via Metodos Semi Empiricos;2020;Departamento de Física
+99;430d1420-a5e8-43f3-81e2-76ed88550355;Estudo Teorico, Via Metodos Semi-empiricos, da Estrutura Eletronica de Polimeros Condutores Baseados no Boro;2021;Departamento de Física
+100;201baed6-2318-44b6-8f07-75f80f75f87c;CINETICA DE FERMENTACAO DA KOMBUCHA: AVALIACAO DOS COMPOSTOS BIOATIVOS;2019;Departamento de Engenharia de Alimentos
+101;201baed6-2318-44b6-8f07-75f80f75f87c;OTIMIZACAO DO PROCESSO DE SECAGEM DE BAGACO DE MACA PARA OBTENCAO DE COMPOSTOS BIOATIVOS;2019;Departamento de Engenharia de Alimentos
+102;201baed6-2318-44b6-8f07-75f80f75f87c;AVALIACAO DO POTENCIAL TECNOLOGICO DO ULTRASSOM NO DESENVOLVIMENTO DE BEBIDA A PARTIR DE BAGACO DE MACA;2020;Departamento de Engenharia de Alimentos
+103;201baed6-2318-44b6-8f07-75f80f75f87c;APLICACAO DE EXTRATO FENOLICO DE BRACTEAS ESTEREIS DE Araucaria angustifolia NO PROCESSAMENTO DE CERVEJA;2020;Departamento de Engenharia de Alimentos
+104;201baed6-2318-44b6-8f07-75f80f75f87c;DESENVOLVIMENTO DE BEBIDA FERMENTADA POR MICRORGANISMOS DA KOMBUCHA COM EXTRATO DE FLORES DE IPE;2021;Departamento de Engenharia de Alimentos
+105;201baed6-2318-44b6-8f07-75f80f75f87c;APTIDAO TECNOLOGICA DO EXTRATO FENOLICO DE BRACTEAS ESTEREIS DE Araucaria angustifolia;2021;Departamento de Engenharia de Alimentos
+106;201baed6-2318-44b6-8f07-75f80f75f87c;IPE AMARELO (Handroanthus albus L.) COMO ALTERNATIVA DE SUBSTRATO PARA A FERMENTACAO DE KOMBUCHA;2022;Departamento de Engenharia de Alimentos
+107;201baed6-2318-44b6-8f07-75f80f75f87c;Desenvolvimento de bebida fermentada com microrganismos da kombucha a base de erva-mate e pitanga preta;2022;Departamento de Engenharia de Alimentos
+108;201baed6-2318-44b6-8f07-75f80f75f87c;OTIMIZACAO DA EXTRACAO DE COMPOSTOS BIOATIVOS DE Tropaeolum majus L. UTILIZANDO PLANEJAMENTO DE MISTURAS;2023;Departamento de Engenharia de Alimentos
+109;201baed6-2318-44b6-8f07-75f80f75f87c;DESENVOLVIMENTO DE BEBIDA LACTEA FERMENTADA COM MICRORGANISMOS DA KOMBUCHA;2023;Departamento de Engenharia de Alimentos
+110;35b30c42-8af1-486a-a696-696f7ad0b72d;A CONSTRUCAO GEOGRAFICA DO TEMPO EM ARTIGOS PUBLICADOS NA REVISTA GEOFORUM (2001-2002);2019;Departamento de Geociências
+111;35b30c42-8af1-486a-a696-696f7ad0b72d;O jogo GeoGuessr e as paisagens geograficas: experiencias espaciais;2020;Departamento de Geociências
+112;6f3420dc-4281-4019-b672-5e3f13caec88;Parcelamento da adubacao nitrogenada em alface;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+113;6f3420dc-4281-4019-b672-5e3f13caec88;BIOCONTROLE DE RHIZOCTONIA SOLANI POR Trichoderma spp. NA PRODUCAO DE ALFACE.;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+114;6f3420dc-4281-4019-b672-5e3f13caec88;USO DE Trichoderma spp NO CONTROLE DE Sclerotinia sclerotiorum NA PRODUCAO DE MUDAS DE CHICORIA.;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+115;6f3420dc-4281-4019-b672-5e3f13caec88;EFEITO DE Trichoderma harzianum NA ABSORCAO DE BORO E PROMOCAO DE CRESCIMENTO EM COUVE-FLOR.;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+116;6f3420dc-4281-4019-b672-5e3f13caec88;PRODUCAO DE MICROVERDES EM DIFRENTES TIPOS DE SUBSTRATOS;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+117;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;AVALIACAO DA REDUCAO DA DEMANDA QUIMICA DE OXIGENIO EM EFLUENTE TRATADO EM UM REATOR DE LEITO ESTRUTURADO;2019;Departamento de Engenharia de Alimentos
+118;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;AVALIACAO DA FORMA DO NITROGENIO NA RELACAO C/N NO PROCESSO DE NITRIFICACAO E DESNITRIFICACAO SIMULTANEA DE EFLUENTES;2019;Departamento de Engenharia de Alimentos
+119;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;REMOCAO DE NITRATO DE AGUA DE DRENAGEM AGRICOLA UTILIZANDO REATOR BIOLOGICO COM DIFERENTES MEIOS SUPORTES;2020;Departamento de Engenharia de Alimentos
+120;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;AVALIACAO ECOTOXICOLOGICA DE AGUAS RESIDUARIAS MUNICIPAIS DE UMA ESTACAO DE TRATAMENTO DE ESGOTO UTILIZANDO BULBOS DE Allium cepa;2020;Departamento de Engenharia de Alimentos
+121;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;INFLUENCIA DA RECIRCULACAO E AERACAO NO PROCESSO DE NITRIFICACAO E DESNITRIFICACAO SIMULTANEAS EM UM REATOR DE LEITO EMPACOTADO;2020;Departamento de Engenharia de Alimentos
+122;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;Avaliacao de dois reatores de bancada com suporte de espuma e aeracao intermitente na remocao de DQO e nitrogenio total de esgoto domestico;2021;Departamento de Engenharia de Alimentos
+123;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;Avaliacao da producao de metano na biodigestao anaerobia de efluente e subprodutos alimenticios;2021;Departamento de Engenharia de Alimentos
+124;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;Remocao de nitrogenio total e DQO no tratamento de esgoto sanitario em reator de leito empacotado com aeracao intermitente em escala piloto;2022;Departamento de Engenharia de Alimentos
+125;8e06505a-fdb1-4d6f-941c-d6d904ce1fa0;Porcelana silicosa como suporte para crescimento e fixacao de microrganismos para tratamento de efluentes;2023;Departamento de Engenharia de Alimentos
+126;deb4359f-8b80-4da0-abde-caecb76fe911;A matematica como uma linguagem: Um estudo a partir da resolucao de exercicios na Olimpiada de Matematica/UEPG;2019;Departamento de Matemática e Estatística
+127;deb4359f-8b80-4da0-abde-caecb76fe911;PANORAMA DAS TENDENCIAS TEMATICAS DO USO DE INTELIGENCIA ARTIFICIAL NA EDUCACAO;2019;Departamento de Matemática e Estatística
+128;deb4359f-8b80-4da0-abde-caecb76fe911;Educacao em tempos de pandemia: percepcoes dos discentes;2020;Departamento de Matemática e Estatística
+129;deb4359f-8b80-4da0-abde-caecb76fe911;Educacao em tempos de pandemia: o que dizem os graduandos sobre o ensino remoto.;2020;Departamento de Matemática e Estatística
+130;deb4359f-8b80-4da0-abde-caecb76fe911;O ENSINO REMOTO PODE FUTURAMENTE SUBSTITUIR AS AULAS PRESENCIAIS? UMA ANALISE A PARTIR DAS PERCEPCOES DE ACADEMICOS E PROFESSORES DE CIENCIAS;2021;Departamento de Matemática e Estatística
+131;deb4359f-8b80-4da0-abde-caecb76fe911;A PERCEPCAO DOS PROFESSORES DO PARANA SOBRE A OU NAO PARTICIPACAO DOS ALUNOS NAS AULAS REMOTAS;2021;Departamento de Matemática e Estatística
+132;deb4359f-8b80-4da0-abde-caecb76fe911;EDUCACAO EM TEMPOS DE PANDEMIA: PERCEPCOES DE ACADEMICOS SOBRE OS IMPACTOS DA PANDEMIA E POS-PANDEMIA NO CONTEXTO UNIVERSITARIO;2021;Departamento de Matemática e Estatística
+133;deb4359f-8b80-4da0-abde-caecb76fe911;ENSINO REMOTO EMERGENCIAL: PERCEPCOES DE ACADEMICOS SOBRE SUA APRENDIZAGEM;2021;Departamento de Matemática e Estatística
+134;1022b935-19ad-4307-84bd-3037aa5e8485;Propriedades fisicas e espectroscopicas de vidros teluretos dopados com Sm2O3;2020;Departamento de Física
+135;1022b935-19ad-4307-84bd-3037aa5e8485;Investigacao das propriedades estruturais e espectroscopicas de vidros teluretos dopados com Nd2O3;2020;Departamento de Física
+136;1022b935-19ad-4307-84bd-3037aa5e8485;VALIDACAO DO DESEMPENHO DE NANOPARTICULAS POLIMERICAS CONTENDO TACROLIMUS EM PERMEACAO TRANSDERMICA UTILIZANDO ESPECTROSCOPIA FOTOACUSTICA;2020;Departamento de Física
+137;1022b935-19ad-4307-84bd-3037aa5e8485;AVALIACAO EX VIVO DE NANOPARTICULAS POLIMERICAS CONTENDO ACIDO URSOLICO POR ESPECTROSCOPIA RAMAN;2020;Departamento de Física
+138;1022b935-19ad-4307-84bd-3037aa5e8485;ESTUDO DAS PROPRIEDADES OPTICAS E ESPECTROSCOPICAS DE VIDROS TELURETOS DOPADOS COM ND2O3;2022;Departamento de Física
+139;1022b935-19ad-4307-84bd-3037aa5e8485;CARACTERIZACAO ESTRUTURAL, TERMICA E OPTICA DE VIDROS TELURETOS DOPADOS COM CR2O3;2022;Departamento de Física
+140;2594ad18-06c9-4158-ac5e-454c097a0c8d;Umidade do solo, eficiencia de adubacao e produtividade da cultura da soja (Glycine max L.) em Ponta Grossa, PR;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+141;2594ad18-06c9-4158-ac5e-454c097a0c8d;"""Umidade do solo, nutricao mineral e resposta ecofisiologica da soja (Glycine max L.) sob cultivo protegido""";2020;Departamento de Ciências do Solo e Engenharia Agrícola
+142;2594ad18-06c9-4158-ac5e-454c097a0c8d;"""Consumo hidrico relativo, nutricao mineral e componentes de rendimento da soja sob ambiente protegido""";2021;Departamento de Ciências do Solo e Engenharia Agrícola
+143;2594ad18-06c9-4158-ac5e-454c097a0c8d;"""Consumo hidrico relativo, nutricao mineral e resposta ecofisiologica da soja sob ambiente protegido""";2021;Departamento de Ciências do Solo e Engenharia Agrícola
+144;2594ad18-06c9-4158-ac5e-454c097a0c8d;IMPACTO DE BIOESTIMULANTES ASSOCIADO A STATUS DE AGUA NO SOLO SOBRE O DESEMPENHO FITOTECNICO DA SOJA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+145;2594ad18-06c9-4158-ac5e-454c097a0c8d;IMPACTO DE BIOESTIMULANTES ASSOCIADO A STATUS DE AGUA NO SOLO SOBRE AS RESPOSTAS ECOFISIOLOGICAS DA SOJA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+146;c06f6c70-08d7-499a-9b5e-57fab14d3c01;Estudo Sobre Multiestagio de Envelhecimento da Liga AA 7050;2020;Departamento de Engenharia de Materiais
+147;c06f6c70-08d7-499a-9b5e-57fab14d3c01;INVESTIGACAO DA LIGA AA2024 SUBMETIDA COM TRATAMENTO DE MULTIESTAGIO DE ENVELHECIMENTO;2020;Departamento de Engenharia de Materiais
+148;c06f6c70-08d7-499a-9b5e-57fab14d3c01;Caracterizacao Microestrutural de Solda Dissimilar por FSW;2021;Departamento de Engenharia de Materiais
+149;c06f6c70-08d7-499a-9b5e-57fab14d3c01;Junta Hibrida por FSW uma Caracterizacao Mecanica e Microestrutural;2023;Departamento de Engenharia de Materiais
+150;1aa43c4a-36cb-4a56-af0d-5831dc9520b6;CARACTERIZACAO DE GOETHITA E DE CAULINITA POR ESPECTROSCOPIAS E DIFRACAO DE RAIOS X;2019;Departamento de Física
+151;1aa43c4a-36cb-4a56-af0d-5831dc9520b6;COMPOSICAO MINERAL DA FRACAO ARGILA DE AMOSTRAS DE UM LATOSSOLO PELO METODO DE RIETVELD COM DADOS DE DIFRACAO DE RAIOS X;2019;Departamento de Física
+152;1aa43c4a-36cb-4a56-af0d-5831dc9520b6;USO DO METODO DE RIETVELD NA QUANTIFICACAO DE AMOSTRAS COMPOSTAS POR GOETHITA E CAULINITA;2020;Departamento de Física
+153;c6357472-7bd8-40cd-8c41-2e709dc6006c;ESTUDO DA DENSIDADE ELETRONICA DO SISTEMA TiO2 DOPADO COM NIOBIO UTILIZANDO O METODO DE RIETVELD COMBINADO COM O METODO DA MAXIMA ENTROPIA;2019;Departamento de Física
+154;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""Sintese e caracterizacao de polieletrolitos do tipo silsesquioxano""";2022;Departamento de Química
+155;c6357472-7bd8-40cd-8c41-2e709dc6006c;ANALISE ESTRUTURAL E MICROESTRUTURAL DE BIOMATERIAIS BASEADOS EM FOSFATO DE CALCIO E POR DIFRACAO DE RAIOS X;2019;Departamento de Física
+156;c6357472-7bd8-40cd-8c41-2e709dc6006c;ANALISE ESTRUTURAL E MICROESTRUTURAL DE SISTEMAS CERAMICOS BASEADOS EM CCTO UTILIZANDO DIFRACAO DE RAIOS X E O METODO DE RIETVELD;2020;Departamento de Física
+157;c6357472-7bd8-40cd-8c41-2e709dc6006c;ANALISE ESTRUTURAL E MICROESTRUTURAL DE SISTEMAS CERAMICOS BASEADOS EM TiO2 UTILIZANDO DIFRACAO DE RAIOS X, O METODO DE RIETVELD E O GRAFICO DE WILLIAMSON & HALL;2021;Departamento de Física
+158;c6357472-7bd8-40cd-8c41-2e709dc6006c;DESENVOLVIMENTO DE UM SOFTWARE PARA DETERMINACAO DE TAMANHO DE CRISTALITO E MICRODEFORMACOES UTILIZANDO O GRAFICO DE WILLIAMSON-HALL A PARTIR DE DADOS DE DIFRACAO DE RAIOS X;2022;Departamento de Física
+159;e234ad24-31c5-41b5-9ee2-719a95106ae4;Exposicao Museologica e Geoeducacao no Museu de Ciencias Naturais da Universidade Estadual de Ponta Grossa;2020;Departamento de Geociências
+160;e234ad24-31c5-41b5-9ee2-719a95106ae4;Plano de Conservacao Preventiva do Acervo Geocientifico do Museu de Ciencias Naturais da Universidade Estadual de Ponta Grossa;2020;Departamento de Geociências
+161;e234ad24-31c5-41b5-9ee2-719a95106ae4;ACERVO PETROLOGICO DO MUSEU DE CIENCIAS NATURAIS DA UEPG;2022;Departamento de Geociências
+162;e234ad24-31c5-41b5-9ee2-719a95106ae4;ACERVO GEMOLOGICO DO MUSEU DE CIENCIAS NATURAIS DA UEPG;2022;Departamento de Geociências
+163;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;Supressao de sincronizacao neuronal devido a perturbacao externa;2020;Departamento de Matemática e Estatística
+164;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;CARACTERIZACAO DOS DISPAROS NEURONAIS NO MODELO INTEGRA-E-DISPARA;2020;Departamento de Matemática e Estatística
+165;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;Caracterizacao dos disparos neuronais no modelo integra-e-dispara exponencial com adaptacao em uma rede global;2021;Departamento de Matemática e Estatística
+166;b9b48ada-965d-40b0-9a26-52e5ec5e0e65;Analise dos disparos neuronais no modelo Hindmarsh-Rose;2022;Departamento de Matemática e Estatística
+167;521a1473-6389-447e-8c91-614d42483bd1;"""INTRODUCAO AO EFEITO CASIMIR DINAMICO""";2020;Departamento de Física
+168;53cfea56-4863-4123-911d-523697703ccd;Robotica Livre - aplicacao de sistemas roboticos como ferramenta didatica;2019;Departamento de Informática
+169;53cfea56-4863-4123-911d-523697703ccd;Avaliacao de estruturas de chassi que podem ser aplicadas a suporte de robos, com desenvolvimento adaptacao de funcionalidades utilizando impressao 3D;2019;Departamento de Informática
+170;53cfea56-4863-4123-911d-523697703ccd;Desenvolvimento e avaliacao de sistemas eletronicos para controle de Espacos Inteligentes - Smart Spaces por controle de voz;2020;Departamento de Informática
+171;7da64eee-0969-4db2-a80a-a5d1e7502808;AVALIACAO DA ATIVIDADE ANTIMICROBIANA DE 4-BROMOETOXI E 4-BROMOBUTOXICHALCONA;2019;Departamento de Química
+172;7da64eee-0969-4db2-a80a-a5d1e7502808;SINTESE E CARACTERIZACAO ESPECTROSCOPICA DE AMIDO MODIFICADO COM EMPREGO DE ACIDO CLOROSSULFONICO;2019;Departamento de Química
+173;7da64eee-0969-4db2-a80a-a5d1e7502808;AMIDO CATIONICO: SINTESE E CARACTERIZACAO ESPECTROSCOPICA;2019;Departamento de Química
+174;7da64eee-0969-4db2-a80a-a5d1e7502808;SINTESE E CARACTERIZACAO DE HIDROGEIS pH-RESPONSIVOS BASEADOS EM POLISSACARIDEOS PARA LIBERACAO CONTROLADA DE RIFAMPICINA;2019;Departamento de Química
+175;7da64eee-0969-4db2-a80a-a5d1e7502808;MODIFICACAO QUIMICA DE AMIDO DE BATATA COM EMPREGO DE UM AGENTE SULFATANTE;2020;Departamento de Química
+176;7da64eee-0969-4db2-a80a-a5d1e7502808;SINTESE, CARACTERIZACAO E AVALIACAO ANTIOXIDANTE DA 3-NITROFURANO CHALCONA;2020;Departamento de Química
+177;7da64eee-0969-4db2-a80a-a5d1e7502808;MICROCAPSULAS DE AMIDO AMINADO COM POTENCIAL USO EM SISTEMAS DE LIBERACAO MODIFICADA DE FARMACOS;2020;Departamento de Química
+178;7da64eee-0969-4db2-a80a-a5d1e7502808;SINTESE E CARACTERIZACAO ESPECTROSCOPICA DO COMPLEXO METALICO COM 4-HIDROXICHALCONA;2021;Departamento de Química
+179;7da64eee-0969-4db2-a80a-a5d1e7502808;SINTESE E CARACTERIZACAO ESPECTROSCOPICA DA 5-HIDROXIMETILFURFURAL PARA PRODUCAO DE FURANOCHALCONAS;2022;Departamento de Química
+180;7da64eee-0969-4db2-a80a-a5d1e7502808;OBTENCAO E AVALIACAO BIOLOGICA DE DERIVADOS NITRADOS DE FURANOCHALCONAS;2022;Departamento de Química
+181;a5f7583a-36e4-46cf-b77c-286ef5bd7763;CARACTERIZACAO TERMICA, MECANICA E MORFOLOGICA DE NANOCOMPOSITOS BIODEGRADAVEIS DE PLA-PHB-CNC;2019;Departamento de Engenharia de Materiais
+182;a5f7583a-36e4-46cf-b77c-286ef5bd7763;OTIMIZACAO DO PROCESSO DE OBTENCAO DE NANOCELULOSE VIA TAGUCHI;2019;Departamento de Engenharia de Materiais
+183;a5f7583a-36e4-46cf-b77c-286ef5bd7763;COMPOSITO BIODEGRADAVEL DE BLENDA PBAT-PLA-RESIDUO DE BORRA DE CAFE;2019;Departamento de Engenharia de Materiais
+184;a5f7583a-36e4-46cf-b77c-286ef5bd7763;PROCESSAMENTO E CARACTERIZACAO DE BLENDA PLA/PBAT REFORCADA COM CELULOSE NANOCRISTALINA PARA APLICACAO EM MANUFATURA ADITIVA FFF;2020;Departamento de Engenharia de Materiais
+185;a5f7583a-36e4-46cf-b77c-286ef5bd7763;Otimizacao via Metodo de Taguchi Ortogonal das condicoes de impressao 3D FDM na precisao dimensional de pecas produzidas a partir de filamentos amorfos e semicristalinos;2020;Departamento de Engenharia de Materiais
+186;a5f7583a-36e4-46cf-b77c-286ef5bd7763;DESENVOLVIMENTO DE FILAMENTOS PARA IMPRESSAO 3D COM ACAO ANTIBACTERIANA E ANTIVIRAL;2020;Departamento de Engenharia de Materiais
+187;a5f7583a-36e4-46cf-b77c-286ef5bd7763;Producao e Caracterizacao de Hidrogeis de PVA-Nanocelulose para aplicacoes medicas-farmaceuticas;2021;Departamento de Engenharia de Materiais
+188;a5f7583a-36e4-46cf-b77c-286ef5bd7763;AVALIACAO DA INFLUENCIA DOS PARAMETROS DE IMPRESSAO NA CRISTALINIDADE DE PECAS IMPRESSAS DE PP E NYLON;2021;Departamento de Engenharia de Materiais
+189;a5f7583a-36e4-46cf-b77c-286ef5bd7763;Producao de filamentos de impressao 3D a partir de capsulas reciclaveis de cafe;2021;Departamento de Engenharia de Materiais
+190;a5f7583a-36e4-46cf-b77c-286ef5bd7763;DESENVOLVIMENTO DE NANOPARTICULAS MICROBIOCIDAS PARA PRODUCAO DE FILAMENTOS DE IMPRESSAO 3D;2021;Departamento de Engenharia de Materiais
+191;a5f7583a-36e4-46cf-b77c-286ef5bd7763;COMPORTAMENTO REOLOGICO DE TINTAS DE REVESTIMENTO DE PAPEL CARTAO;2022;Departamento de Engenharia de Materiais
+192;a5f7583a-36e4-46cf-b77c-286ef5bd7763;AVALIACAO DA RECICLABILIDADE DE FILAMENTOS DE IMPRESSAO 3D DE POLIPROPILENO: APLICACAO DA LIGNINA COMO AGENTE ANTIOXIDANTE;2022;Departamento de Engenharia de Materiais
+193;a5f7583a-36e4-46cf-b77c-286ef5bd7763;DESENVOLVIMENTO DE CARGAS POROSAS PARA AUMENTO DE OPACIDADE EM TINTAS COUCHE PARA REVESTIMENTO DE PAPEL CARTAO;2022;Departamento de Engenharia de Materiais
+194;a5f7583a-36e4-46cf-b77c-286ef5bd7763;DESENVOLVIMENTO DE FILAMENTOS DE PP MODIFICADOS PARA MELHORIA DE ADESAO A MESA DE IMPRESSAO;2022;Departamento de Engenharia de Materiais
+195;a5f7583a-36e4-46cf-b77c-286ef5bd7763;DESENVOLVIMENTO DE FILAMENTOS PARA IMPRESSAO 3D MICROBIOCIDAS A BASE DE DIOXIDO DE TITANIO;2022;Departamento de Engenharia de Materiais
+196;63976e0d-b2d7-4048-98d7-970ea9f3989e;EDUCACAO MUSEAL E O MUSEU DE CIENCIAS NATURAIS DA UEPG;2022;Departamento de Geociências
+197;17e52d1a-90f2-490a-89ae-64070b46bbfc;CARACTERIZACAO DO CAMPO EXPERIMENTAL DE ESTUDOS GEOTECNICOS DE PONTA GROSSA E PESQUISA SOBRE OS SITIOS EXPERIMENTAIS EXISTENTES NO BRASIL;2020;Departamento de Engenharia Civil
+198;17e52d1a-90f2-490a-89ae-64070b46bbfc;INVESTIGACAO DAS VARIACOES DO PERFIL DE TEMPERATURA, NIVEL DAGUA E CONDICOES DE COMPRESSIBILIDADE DO SOLO DO CAMPO EXPERIMENTAL DE ESTUDOS GEOTECNICOS DE PONTA GROSSA (CEEG-PG);2021;Departamento de Engenharia Civil
+199;17e52d1a-90f2-490a-89ae-64070b46bbfc;Estudo de misturas solo-lodo empregando residuo de tratamento de agua proveniente de estacoes de tratamento e estacao piloto de tratamento de lodo;2022;Departamento de Engenharia Civil
+200;17e52d1a-90f2-490a-89ae-64070b46bbfc;ESTUDO DO COMPORTAMENTO MECANICO DE MISTURAS SOLO-LODO ATRAVES DE ENSAIOS DE RESISTENCIA A COMPRESSAO SIMPLES E ADENSAMENTO;2022;Departamento de Engenharia Civil
+201;17e52d1a-90f2-490a-89ae-64070b46bbfc;Investigacao da condutividade hidraulica de misturas solo e lodo de estacao de tratamento de agua visando aplicacao em camadas impermeabilizantes;2022;Departamento de Engenharia Civil
+202;17e52d1a-90f2-490a-89ae-64070b46bbfc;ESTUDO MECANICO DA ADICAO DE LODO DE ESTACAO DE TRATAMENTO DE AGUA EM SOLO PARA USO EM BARREIRAS MINERAIS MISTAS COM GEOSSINTETICOS;2023;Departamento de Engenharia Civil
+203;17e52d1a-90f2-490a-89ae-64070b46bbfc;CARACTERIZACAO GEOTECNICA E ANALISE NUMERICA DA ESTABILIDADE DE TALUDES DE ATERRO SANITARIO NA REGIAO DE PONTA GROSSA - PR;2023;Departamento de Engenharia Civil
+204;17e52d1a-90f2-490a-89ae-64070b46bbfc;CARACTERIZACAO GEOTERMICA DE SOLO RESIDUAL ATRAVES DE ENSAIOS DE CAMPO E MODELAGEM NUMERICA EM ESTACAS E VALAS TROCADORAS DE CALOR;2023;Departamento de Engenharia Civil
+205;29c10238-92b0-4f30-ad64-cba12bbab88d;Relacao campo cidade no municipio de Ponta Grossa - PR: Os territorios relacionais ambientais;2019;Departamento de Geociências
+206;29c10238-92b0-4f30-ad64-cba12bbab88d;Relacao campo cidade nos campos gerais: os grupos agroecologicos e sua caracterizacao;2020;Departamento de Geociências
+207;29c10238-92b0-4f30-ad64-cba12bbab88d;Estrutura e formacao dos municipios de Jaguariaiva e Wenceslau Bras: uma relacao campo - cidade;2021;Departamento de Geociências
+208;29c10238-92b0-4f30-ad64-cba12bbab88d;Relacao campo cidade nos campos gerais: As politicas publicas no contexto da agroecologia nos municipios de Ponta Grossa e Castro, nos Campos Gerais paranaense;2021;Departamento de Geociências
+209;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;ENZIMAS EXOGENAS NA NUTRICAO DE SUINOS: UMA ABORDAGEM META-ANALITICA;2019;Departamento de Zootecnia
+210;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;USO DE GLUTAMINA E ANALOGOS NA INTEGRIDADE INTESTINAL DE LEITOES POS-DESMAME E CRECHE;2019;Departamento de Zootecnia
+211;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;Recuperacao e curva de crescimento de leitoes de baixa viabilidade;2020;Departamento de Zootecnia
+212;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;Utilizacao da analise estatistica para avaliacao de matrizes reprodutoras em uma granja suinicola;2020;Departamento de Zootecnia
+213;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;Enriquecimento ambiental para leitoes em creche: uma analise sistematica;2020;Departamento de Zootecnia
+214;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;INTERACOES NUTRICIONAIS DE ZINCO E COBRE EM LEITOES EM CRECHE;2021;Departamento de Zootecnia
+215;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;EFEITO DE MINERAIS ORGANICOS E INORGANICOS SOBRE A INTEGRIDADE E SAUDE INTESTINAL DE LEITOES EM CRECHE;2021;Departamento de Zootecnia
+216;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;"""ANALISE SISTEMATICA DO USO DA COLINA EM DIETA DE SUINOS EM CRESCIMENTO E TERMINACAO""";2022;Departamento de Zootecnia
+217;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;OLEOS ESSENCIAIS E FUNCIONAIS PARA LEITOES LACTENTES E EM CRECHE;2022;Departamento de Zootecnia
+218;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;"""Viabilidade economica no uso de medicacao via agua ou racao na producao de suinos""";2022;Departamento de Zootecnia
+219;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;SUPLEMENTACAO DE COLINA PARA SUINOS EM CRESCIMENTO E TERMINACAO;2022;Departamento de Zootecnia
+220;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;HISTOLOGIA E MORFOLOGIA DO JEJUNO E ILEO DE LEITOES EM CRECHE ALIMENTADOS COM DIETAS CONTENDO PLASMA SANGUINEO DESIDRATADO;2023;Departamento de Zootecnia
+221;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;ANALISE DE FATORES QUE INFLUENCIAM NO DESEMPENHO PRODUTIVO E REPRODUTIVO EM GRANJAS SUINICOLAS;2023;Departamento de Zootecnia
+222;86053276-8b9d-4e62-94d9-1cbcbb1d1f07;PARAMETROS HISTOMORFOMETRICOS DO DUODENO DE LEITOES EM CRECHE ALIMENTADOS COM DIETAS CONTENDO PLASMA SANGUINEO DESIDRATADO;2023;Departamento de Zootecnia
+223;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""Eletrodos de carbono ceramico SiO2/C modificados com nanoparticulas de ouro para aplicacao como sensores eletroquimicos""";2019;Departamento de Química
+224;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""Construcao e caracterizacao de filmes LbL de nanoparticulas metalicas estabilizadas em polieletrolito do tipo silsesquioxano e oxido de grafeno reduzido""";2019;Departamento de Química
+225;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;ESTUDO DA DEGRADACAO DE CORANTES TEXTEIS ATRAVES DAS MEMBRANAS DE ACETATO DE CELULOSE OBTIDAS DE FILTROS DE CIGARROS CONTRABANDEADOS;2019;Departamento de Química
+226;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;PREPARACAO DE COMPOSITOS CuO/ARGILA E ESTUDO DE SEU DESEMPENHO FOTOCATALITICO NA DEGRADACAO DE AZOCORANTES;2019;Departamento de Química
+227;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""DETECCAO DE BIOMARCADORES NEUROATIVOS UTILIZANDO ELETRODOS MODIFICADOS LbL DE POLIANILINA E OXIDO DE GRAFENO REDUZIDO""";2019;Departamento de Química
+228;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""OBTENCAO E APLICACAO DE MEMBRANAS MODIFICADAS A PARTIR DE FILTROS DE CIGARRO""";2020;Departamento de Química
+229;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""SINTESE DE NANOPARTICULAS DE METAIS NOBRES EMPREGANDO EXTRATOS DE GARCINIA""";2020;Departamento de Química
+230;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;DESENVOLVIMENTO DE ELETRODO DE CARBONO MODIFICADO PARA PRODUCAO DE H 2 O 2 IN SITU;2020;Departamento de Química
+231;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""SINTESE DE NANOPARTICULAS DE METAIS NOBRES EMPREGANDO EXTRATOS DE GARCINIA E APLICACAO NA CONSTRUCAO DE ELETRODOS""";2021;Departamento de Química
+232;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""CONSTRUCAO DE ELETRODOS DE PASTA DE GRAFENO MODIFICADOS COM NANOPARTICULAS METALICAS ESTABILIZADAS COM EXTRATOS VEGETAIS""";2021;Departamento de Química
+233;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""DESENVOLVIMENTO DE ELETRODO DE CARBONO MODIFICADO PARA DEGRADACAO FOTOELETROCATALITICA DE AZOCORANTE""";2021;Departamento de Química
+234;36eea99d-a8e5-4e75-a1c6-5a49b30bbb22;"""PREPARACAO E CARACTERIZACAO DE ELETRODOS DE PASTA DE CARBONO (EPC) MODIFICADOS COM NANOPARTICULAS DE OURO ESTABILIZADAS PELA GARCINIA CONCHICHINESIS E OXIDO DE GRAFENO REDUZIDO""";2022;Departamento de Química
+235;18abb0ac-7793-4891-9be7-9a80eae55b50;ANALISE DE PROPRIEDADES ESPECTROSCOPICAS DE NOVOS SISTEMAS FOTOSSENBILIZADORES;2019;Departamento de Química
+236;18abb0ac-7793-4891-9be7-9a80eae55b50;PRODUCAO DE ESPUMAS VITREAS PARA DEGRADACAO DE CORANTES;2019;Departamento de Química
+237;18abb0ac-7793-4891-9be7-9a80eae55b50;OBTENCAO E CARACTERIZACAO DE UM BIOMATERIAL VISANDO REMEDIACAO DA SENSIBILIDADE DENTAL;2020;Departamento de Química
+238;18abb0ac-7793-4891-9be7-9a80eae55b50;OBTENCAO E AVALIACAO DA ATIVIDADE ANTIBACTERIANA DE COMPOSITOS DE FOSFATO DE CALCIO E BIOPOLIMEROS;2020;Departamento de Química
+239;18abb0ac-7793-4891-9be7-9a80eae55b50;EFEITO DA UTILIZACAO DE GEIS CLAREADORES ACOPLADOS APOS UMA SEMANA DA MANIPULACAO: MUDANCA DE COR, PENETRACAO DE PEROXIDO DE HIDROGENIO E PROPRIEDADES FISICO-QUIMICAS;2021;Departamento de Química
+240;18abb0ac-7793-4891-9be7-9a80eae55b50;MATERIAIS HIBRIDOS DE FOSFATO DE CALCIO E BIOPOLIMEROS: OBTENCAO E CARACTERIZACAO;2021;Departamento de Química
+241;18abb0ac-7793-4891-9be7-9a80eae55b50;EFEITO DE DIFERENTES TECNICAS DE CLAREAMENTO COM PEROXIDO DE HIDROGENIO 6%: ANALISE DA PENETRACAO DE PEROXIDO DE HIDROGENIO E DA EFICACIA CLAREADORA;2022;Departamento de Química
+242;18abb0ac-7793-4891-9be7-9a80eae55b50;AVALIACAO DAS PROPRIEDADES FOTO-FISICAS DE METALO PORFIRINAS VISANDO APLICACAO EM TERAPIA FOTODINAMICA;2022;Departamento de Química
+243;369f720e-e8d0-4166-b9d0-d59fd44fb69e;Estudo do oleo essencial das cascas dos frutos de Garcinia cochinchinensis;2019;Departamento de Química
+244;369f720e-e8d0-4166-b9d0-d59fd44fb69e;Obtencao de nanoparticulas de prata a partir do extrato aquoso de Garcinia cochinchinensis;2020;Departamento de Química
+245;369f720e-e8d0-4166-b9d0-d59fd44fb69e;COMPARACAO DA VERDURA QUIMICA E DA VIABILIDADE DAS SINTESES DO SALICILATO DE METILA E SALICILATO DE ETILA PARA FINS DIDATICOS;2021;Departamento de Química
+246;369f720e-e8d0-4166-b9d0-d59fd44fb69e;Avaliacao do potencial de adsorcao de corante preto reativo 5 por folhas de Thuja orientalis;2022;Departamento de Química
+247;2eac3bf0-95f6-444f-a7b8-0010130e3d5b;POTENCIAL DE BACTERIAS ENDOFITICAS ISOLADAS DE PLANTAS DO PARANA NO CONTROLE DE PATOGENOS DE SEMENTES DE SOJA EM CONDICOES DE LABORATORIO E CASA DE VEGETACAO.;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+248;2eac3bf0-95f6-444f-a7b8-0010130e3d5b;ESTUDO DAS BACTERIAS ENDOFITICAS ISOLADAS DE PLANTAS DO PARANA NO CONTROLE DE DOENCAS RADICULARES DA CULTURA DO FEIJAO;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+249;2eac3bf0-95f6-444f-a7b8-0010130e3d5b;AVALIACAO DE BACTERIAS ISOLADAS DE SOLOS NO ESTADO DO PARANA NO CONTROLE DE PATOGENOS DO SOLO NA CULTURA DO MILHO.;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+250;2eac3bf0-95f6-444f-a7b8-0010130e3d5b;AVALIACAO DO POTENCIAL DE CONTROLE DE BACTERIAS ENDOFITICAS E DO SOLO NAS DOENCAS DA PARTE AEREA DA CULTURA DA SOJA;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+251;550235d1-7453-44cc-88bb-32b545bd5e5e;"""Avaliacao da metodologia Check-all-that-apply (CATA) pelo metodo tradicional e comparativo""";2019;Departamento de Engenharia de Alimentos
+252;550235d1-7453-44cc-88bb-32b545bd5e5e;"""Avaliacao Sensorial de Produtos Alimenticios utilizando o Software Sensomaker""";2019;Departamento de Engenharia de Alimentos
+253;550235d1-7453-44cc-88bb-32b545bd5e5e;Avaliacao da percepcao e comportamento dos consumidores sobre queijos finos pela tecnica de Associacao de Palavras;2020;Departamento de Engenharia de Alimentos
+254;550235d1-7453-44cc-88bb-32b545bd5e5e;COMPORTAMENTO DO CONSUMIDOR DIANTE DE DIFERENTES ESTIMULOS EM EMBALAGENS;2021;Departamento de Engenharia de Alimentos
+255;550235d1-7453-44cc-88bb-32b545bd5e5e;AVALIACAO DA QUALIDADE SENSORIAL DE ACHOCOLATADOS;2022;Departamento de Engenharia de Alimentos
+256;550235d1-7453-44cc-88bb-32b545bd5e5e;AVALIACAO DA QUALIDADE DE BEBIDAS ACHOCOLATADAS;2023;Departamento de Engenharia de Alimentos
+257;b90590e6-9bf2-4854-b50b-f2b499dc2d54;ANALISE ESTATISTICA DE DADOS DE PRODUCAO CIENTIFICA DO SETOR DE CIENCIAS EXATAS E NATURAIS DA UEPG;2022;Departamento de Matemática e Estatística
+258;cb159a59-9add-40f4-8e6e-3314b1638dfa;AVALIACAO DE SISTEMAS DE MEMORIAS DISTRIBUIDAS COMPARTILHADAS (DSM) PARA USO EM CLUSTER DE BAIXO CONSUMO;2019;Departamento de Informática
+259;c7cb28c0-d64a-48a4-9756-91da92d98aa1;Estudo de oleos essenciais de folhas de pitangueira, Eugenia uniflora L., visando encontrar e classificar especimes de varios quimiotipos;2019;Departamento de Química
+260;c7cb28c0-d64a-48a4-9756-91da92d98aa1;Oleos essenciais de folhas de Eugenia uniflora: composicao e atividade antifungica;2020;Departamento de Química
+261;b82f51ad-6f50-449d-9749-eb129df63e62;OBTENCAO DE PIGMENTOS INORGANICOS A PARTIR DA RECICLAGEM DE PILHAS DO TIPO ZINCO-CARBONO EXAURIDAS;2019;Departamento de Química
+262;b82f51ad-6f50-449d-9749-eb129df63e62;Pigmentos inorganicos obtidos a partir de oxidos extraidos de pilhas exauridas;2019;Departamento de Química
+263;b82f51ad-6f50-449d-9749-eb129df63e62;Desenvolvimento de espumas vitreas a partir de residuos de vidro e de pilhas;2019;Departamento de Química
+264;b82f51ad-6f50-449d-9749-eb129df63e62;Avaliacao da capacidade de troca ionica de zeolitas;2020;Departamento de Química
+265;b82f51ad-6f50-449d-9749-eb129df63e62;DESENVOLVIMENTO DE ESPUMAS VITREAS PARA APLICACOES AMBIENTAIS;2020;Departamento de Química
+266;b82f51ad-6f50-449d-9749-eb129df63e62;Obtencao de zeolitas aplicadas para purificacao de biogas;2021;Departamento de Química
+267;b82f51ad-6f50-449d-9749-eb129df63e62;SINTESE DE BIOCHAR A PARTIR DE SERRAGEM DE PINUS PARA ADSORCAO DE CONTAMINANTES EMERGENTES;2022;Departamento de Química
+268;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;"""Politicas territoriais de desenvolvimento: o planejamento em foco no municipio de Ponta Grossa-PR.""";2019;Departamento de Geociências
+269;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;"""Redes Geograficas: a relacao do lugar-mundo das industrias pontagrossenses - Heineken e Madero""";2019;Departamento de Geociências
+270;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;A relacao do lugar-mundo das industrias pontagrossesnes - o protagonismo da Heineken no periodod da covid-19;2020;Departamento de Geociências
+271;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;Impactos da Covid-19 na politicas territoriais de desenvolvimento: a industria no municipio de Ponta Grossa-PR;2020;Departamento de Geociências
+272;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;Setores da industria ponta-grossense e sua relacao com o Sistema S;2022;Departamento de Geociências
+273;6f2228e0-59be-4096-8b2c-ff0b97c5acc4;"""Transporte da producao industrial: estudos de casos em Ponta Grossa-PR""";2022;Departamento de Geociências
+274;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;PEGADA HIDRICA PARA A CULTURA DO TRIGO NA REGIAO DOS CAMPOS GERAIS;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+275;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;TEMPERATURA-BASE E GRAUS-DIAS PARA CULTIVARES DE TRIGO CULTIVADOS EM DIFERENTES LOCALIDADES;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+276;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;BALANCO DE AGUA NO SOLO EM SISTEMA PLANTIO DIRETO COM PRATICA MECANICA DE CONSERVACAO DO SOLO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+277;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;CURVA DE RETENCAO DE AGUA NO SOLO EM AREA DE PLANTIO DIRETO COM E SEM TERRACOS AGRICOLAS;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+278;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;INFILTRACAO APARENTE DE AGUA EM LATOSSOLO SUBMETIDO A DIFERENTES MANEJOS;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+279;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;VAZAO E PRODUCAO DE SEDIMENTOS EM MICROBACIA HIDROGRAFICA RURAL NO MUNICIPIO DE PONTA GROSSA, PARANA;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+280;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;MONITORAMENTO DA UMIDADE DO SOLO E DESENVOLVIMENTO DAS PLANTAS CULTIVADAS EM ENCOSTA COM PRATICAS CONSERVACIONISTAS DE SOLO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+281;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;CARACTERISTICAS HIDRAULICAS DO ESCOAMENTO SUPERFICIAL EM LATOSSOLO MANEJADO COM PRATICAS CONSERVACIONISTA: ESTUDO COM CHUVA SIMULADA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+282;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;MONITORAMENTO DO DESENVOLVIMENTO E RENDIMENTO DAS PLANTAS CULTIVADAS EM ENCOSTA COM PRATICAS CONSERVACIONISTAS DE SOLO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+283;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;PARAMETROS HIDROLOGICOS DA MICROBACIA RURAL LAJEADO DA ONCA, MUNICIPIO DE PONTA GROSSA-PR;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+284;0cca409f-520c-4839-a1f2-3b5ad8b3d4ec;PROPRIEDADES DO ESCOAMENTO SUPERFICIAL DURANTE CHUVA SIMULADA EM SISTEMAS DE MANEJO DO SOLO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+285;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CRESCIMENTO RADICULAR E PRODUCAO DE TRIGO EM RESPOSTA A CALAGEM SUPERFICIAL E ADUBACAO COM FOSFATO MONOAMONICO E ENXOFRE ELEMENTAR EM SISTEMA PLANTIO DIRETO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+286;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;PRODUCAO DE SOJA INFLUENCIADA PELA CO-INOCULACAO DE Azospirillum brasilense ASSOCIADA AO USO DE GESSO E A ADUBACAO NITROGENADA EM SISTEMA PLANTIO DIRETO DE LONGA DURACAO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+287;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CO-INOCULACAO DE Azospirillum brasilense E USO DE GESSO NA AMENIZACAO DOS EFEITOS DE ESTRESSE HIDRICO E ACIDEZ NO SUBSOLO EM PLANTAS DE SOJA;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+288;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;RESPOSTA DA SOJA A CALAGEM NA SUPERFICIE E A ADUBACAO COM FOSFATO MONOAMONICO E ENXOFRE ELEMENTAR EM UMA SUCESSAO TRIGO-SOJA SOB PLANTIO DIRETO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+289;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;INOCULACAO DE Azospirillum b r asilense E USO DE GESSO NA AMENIZACAO DOS EFEITOS DE ESTRESSE HIDRICO E ACIDEZ NO SUBSOLO EM PLANTAS DE MILHO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+290;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;INOCULACAO DE Azospirillum brasilense, USO DE GESSO E ADUBACAO NITROGENADA NA SUCESSAO TRIGO-SOJA EM SISTEMA PLANTIO DIRETO DE LONGA DURACAO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+291;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;ABSORCAO DE NUTRIENTES E RENDIMENTO DE GRAOS DE TRIGO CONSIDERANDO A CALAGEM SUPERFICIAL E ADUBACAO COM FOSFATO MONOAMONICO E ENXOFRE ELEMENTAR EM SISTEMA PLANTIO DIRETO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+292;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;NOVA TECNOLOGIA PARA A MELHORIA DO AMBIENTE RADICULAR NO SUBSOLO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+293;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;NUTRICAO E RENDIMENTO DE GRAOS DE TRIGO INFLUENCIADOS PELA ADUBACAO FOSFATADA E APLICACAO DE GESSO EM PLANTIO DIRETO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+294;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;INOCULACAO DE Azospirillum brasilense E USO DE GESSO NA AMENIZACAO DOS EFEITOS DE ESTRESSE HIDRICO E ACIDEZ NO SUBSOLO EM PLANTAS DE TRIGO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+295;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;EFICIENCIA DA APLICACAO SUPERFICIAL DE CORRETIVOS NA AMENIZACAO DA ACIDEZ DO SOLO E NO RENDIMENTO DE GRAOS DE MILHO EM PLANTIO DIRETO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+296;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;INOCULACAO DE Azospirillum brasilense, USO DE GESSO E EFICIENCIA DA ADUBACAO NITROGENADA NA PRODUCAO DE MILHO EM PLANTIO DIRETO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+297;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;USO DE POLIALITA NA MELHORIA DO AMBIENTE RADICULAR NO SUBSOLO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+298;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;POLIALITA NA AMENIZACAO DA TOXICIDADE POR ALUMINIO EM PLANTIO DIRETO;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+299;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;NUTRICAO E PRODUCAO DE TRIGO CONSIDERANDO A APLICACAO SUPERFICIAL DE CORRETIVOS DA ACIDEZ DO SOLO EM SISTEMA PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+300;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CALAGEM SUPERFICIAL E ADUBACAO POTASSICA NA PRODUCAO DE TRIGO E SOJA EM SISTEMA PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+301;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CORRECAO DA ACIDEZ DO SOLO E DESEMPENHO DA SOJA EM RESPOSTA A APLICACAO SUPERFICIAL DE CORRETIVOS AGRICOLAS EM SISTEMA PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+302;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;SUBSTITUICAO DE CLORETO DE POTASSIO POR POLIHALITA GRANULADA PARA PRODUCAO DE TRIGO E SOJA EM SISTEMA PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+303;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;USO DE POLIHALITA ASSOCIADO COM A CALAGEM SUPERFICIAL NO APORTE DE CARBONO EM SISTEMA PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+304;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;APORTE DE CARBONO COM O USO DE POLIHALITA EM PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+305;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;PRODUCAO DE BIOMASSA E EXTRACAO DE NUTRIENTES PELA AVEIA PRETA SUBMETIDA A APLICACAO SUPERFICIAL DE CORRETIVOS DA ACIDEZ DO SOLO EM SISTEMA PLANTIO DIRETO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+306;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CALAGEM SUPERFICIAL E ADUBACAO POTASSICA NA PRODUCAO DE MILHO SILAGEM EM SISTEMA PLANTIO DIRETO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+307;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;CORRECAO DA ACIDEZ DO SOLO E RESPOSTA DO MILHO A APLICACAO SUPERFICIAL DE CORRETIVOS AGRICOLAS EM SISTEMA PLANTIO DIRETO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+308;3bcbb6ac-c42a-4307-9d94-bb626a70afdb;SUBSTITUICAO DE CLORETO DE POTASSIO POR POLIHALITA GRANULADA PARA PRODUCAO DE MILHO SILAGEM EM SISTEMA PLANTIO DIRETO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+309;9686974c-79c6-408e-bfdf-542fc26f0992;PRODUCAO DE CIMENTOS GEOPOLIMERICOS PARA REPARO E MITIGACAO DA REACAO ALCALI-AGREGADO EM ESTRUTURAS DE CONCRETO DE CIMENTO PORTLAND;2019;Departamento de Engenharia Civil
+310;9686974c-79c6-408e-bfdf-542fc26f0992;INFLUENCIA DAS CARACTERISTICAS DOS AGREGADOS GRAUDO E MIUDO NO DESEMPENHO DO CONCRETO PERMEAVEL;2019;Departamento de Engenharia Civil
+311;9686974c-79c6-408e-bfdf-542fc26f0992;Desenvolvimento das reacoes alcali agregado em pastas de cimento contendo silica ativa e agregado reativo;2019;Departamento de Engenharia Civil
+312;9686974c-79c6-408e-bfdf-542fc26f0992;CARACTERIZACAO DOS MATERIAIS CONSTITUINTES NA FORMACAO DE CIMENTO DE FOSFATO DE ALUMINIO;2019;Departamento de Engenharia Civil
+313;9686974c-79c6-408e-bfdf-542fc26f0992;Utilizacao de cinza volante para producao de geopolimeros e mitigacao da reacao alcali-agregado (RAA);2020;Departamento de Engenharia Civil
+314;9686974c-79c6-408e-bfdf-542fc26f0992;Desenvolvimento de compositos geopolimericos contendo agregados potencialmente reativos e pastas de cimento com adicoes minerais;2020;Departamento de Engenharia Civil
+315;9686974c-79c6-408e-bfdf-542fc26f0992;Influencia do teor de agregado miudo na producao de pecas de concreto permeavel;2020;Departamento de Engenharia Civil
+316;9686974c-79c6-408e-bfdf-542fc26f0992;Eficiencia de sistemas de protecao superficial de concretos frente ao ataque externo por sulfato de sodio;2021;Departamento de Engenharia Civil
+317;9686974c-79c6-408e-bfdf-542fc26f0992;Utilizacao de cinza proveniente de queima de madeira em caldeira de cerealista como adicoes minerais em concretos de cimento Portland nao estruturais;2021;Departamento de Engenharia Civil
+318;9686974c-79c6-408e-bfdf-542fc26f0992;Monitoramento da permeabilidade de pecas de concreto permeavel sujeitas a colmatacao;2021;Departamento de Engenharia Civil
+319;9686974c-79c6-408e-bfdf-542fc26f0992;Adicao de celulose nanofibrilada em matrizes cimenticias: Efeito em propriedades de pastas de cimento e na reacao alcali-agregado;2022;Departamento de Engenharia Civil
+320;9686974c-79c6-408e-bfdf-542fc26f0992;Influencia do material do eletrodo no ensaio de migracao de sulfatos em concreto;2022;Departamento de Engenharia Civil
+321;9686974c-79c6-408e-bfdf-542fc26f0992;Caracterizacao de condutividade eletrica e termica em matriz de cimento Portland com adicao de grafeno e nanotubos de carbono;2022;Departamento de Engenharia Civil
+322;dbf23d27-2e86-4f10-b123-68c17e82ecf8;INCORPORACAO DE ACIDO FITICO EM AMIDO DE MANDIOQUINHA-SALSA (Arracacia xanthorrhiza Bancroft);2019;Departamento de Química
+323;dbf23d27-2e86-4f10-b123-68c17e82ecf8;INCORPORACAO DE COMPOSTOS FENOLICOS POR ULTRASSOM EM AMIDO DE ARROZ ORGANICO;2021;Departamento de Química
+324;dbf23d27-2e86-4f10-b123-68c17e82ecf8;EXTRACAO E MODIFICACAO FISICA DO AMIDO DO CAROCO DA AMENDOA DA MANGA PALMER (Mangifera Indica);2022;Departamento de Química
+325;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;DEGRADACAO DE TRICLOSAN E TRICLOCARBAN UTILIZANDO BiFeO3 COMO FOTOCATALISADOR HETEROGENEO E RADIACAO VISIVEL;2019;Departamento de Química
+326;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;MODIFICACAO DO BAGACO DE CANA DE ACUCAR COM FOTOCATALISADORES PARA DEGRADACAO DE POLUENTES;2019;Departamento de Química
+327;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;DEGRADACAO DE ATRAZINA UTILIZANDO FOTOCATALISE HETEROGENEA;2019;Departamento de Química
+328;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;DEGRADACAO DE ATRAZINA UTILIZANDO PROCESSO FOTO-FENTON;2020;Departamento de Química
+329;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;DEGRADACAO DE ATRAZINA UTILIZANDO PROCESSOS DE OXIDACAO AVANCADA;2021;Departamento de Química
+330;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;DESENVOLVIMENTO DE FOTOANODO UTILIZANDO HETEROJUNCOES g-C3N4/ZnCr2O4 PARA APLICACAO NA DEGRADACAO DE AZOCORANTE POR FOTOELETROCATALISE;2022;Departamento de Química
+331;8e577d02-cafd-44b8-93ad-3e0e8ed8ee8c;AVALIACAO DO PROCESSO DE EXTRACAO PARA DETERMINACAO DE ATRAZINA EM AMOSTRAS DE AGUA E SOLO;2022;Departamento de Química
+332;f5fe7225-a721-42ed-80cb-ee4642dfe911;EFEITO DA ADICAO DE COGUMELOS Agaricus bisporus NO PROCESSAMENTO DE ALIMENTOS CARNEOS;2019;Departamento de Engenharia de Alimentos
+333;f5fe7225-a721-42ed-80cb-ee4642dfe911;Viabilidade de cultivo de cogumelos shimeji (Pleurotus ostreatus) em subprodutos de microcervejaria;2020;Departamento de Engenharia de Alimentos
+334;f5fe7225-a721-42ed-80cb-ee4642dfe911;COMPARACAO DO POTENCIAL ANTIOXIDANTE DE COGUMELOS COMERCIAIS;2020;Departamento de Engenharia de Alimentos
+335;f5fe7225-a721-42ed-80cb-ee4642dfe911;DESENVOLVIMENTO DE PROTOTIPO DE RACAO EXTRUSADA PARA PETS A PARTIR DE SUBPRODUTOS AGROINDUSTRIAIS ENRIQUECIDOS COM SPIRULINA;2021;Departamento de Engenharia de Alimentos
+336;f5fe7225-a721-42ed-80cb-ee4642dfe911;APROVEITAMENTO DE SUBPRODUTOS DO PROCESSAMENTO DE MANDIOCA E PALMITO PUPUNHA PARA DESENVOLVIMENTO DE SOPAS DESIDRATADAS ENRIQUECIDAS COM Spirulina;2021;Departamento de Engenharia de Alimentos
+337;f5fe7225-a721-42ed-80cb-ee4642dfe911;DESENVOLVIMENTO DE PAES DE SORGO BRANCO E SUBPRODUTOS DE PALMITO PUPUNHA COM MICROALGAS RICAS EM CAROTENOIDES;2022;Departamento de Engenharia de Alimentos
+338;f5fe7225-a721-42ed-80cb-ee4642dfe911;DESENVOLVIMENTO DE BISCOITOS SEM GLUTEN COM SORGO BRANCO E SUBPRODUTOS DE PALMITO PUPUNHA E LARANJA POR SUPERFICIE DE RESPOSTA;2022;Departamento de Engenharia de Alimentos
+339;f5fe7225-a721-42ed-80cb-ee4642dfe911;ESTUDOS DE APLICACAO DE SORGO BRANCO, SUBPRODUTOS DE PALMITO PUPUNHA E MICROALGAS FOTOSSINTETIZANTES EM MACARRAO SEM GLUTEN;2022;Departamento de Engenharia de Alimentos
+340;f5fe7225-a721-42ed-80cb-ee4642dfe911;ELABORACAO DE PAES ISENTOS DE GLUTEN A BASE DE SORGO BRANCO E SUBPRODUTOS DE PALMITO PUPUNHA E SOJA;2022;Departamento de Engenharia de Alimentos
+341;f5fe7225-a721-42ed-80cb-ee4642dfe911;DESENVOLVIMENTO DE MACARRAO ISENTO DE GLUTEN A PARTIR DE SORGO BRANCO E SUBPRODUTOS DE PALMITO PUPUNHA E MANDIOCA;2022;Departamento de Engenharia de Alimentos
+342;f5fe7225-a721-42ed-80cb-ee4642dfe911;AVALIACAO SENSORIAL, DE VIDA UTIL E CUSTOS DE PAES ISENTOS DE GLUTEN PLANT BASED;2023;Departamento de Engenharia de Alimentos
+343;f5fe7225-a721-42ed-80cb-ee4642dfe911;ACEITACAO, VIDA UTIL E CUSTOS DE MACARRAO COMERCIAL SEM GLUTEN ELABORADO COM SORGO, SUBPRODUTOS DE PALMITO PUPUNHA, MANDIOCA E Dunaliela salina;2023;Departamento de Engenharia de Alimentos
+344;9e9f74cb-9453-4146-b6aa-8a4727045ca7;CARACTERIZACAO DE CINZAS E SUBPRODUTOS DE PROCESSOS INDUSTRIAIS QUANTO A POZOLANICIDADE COM O INTUITO DE UTILIZACAO COMO SUBSTITUICAO DE CIMENTO PORTLAND EM CONCRETOS E ARGAMASSAS;2021;Departamento de Engenharia Civil
+345;9e9f74cb-9453-4146-b6aa-8a4727045ca7;UTILIZACAO DE CINZAS E SUBPRODUTOS DE PROCESSOS INDUSTRIAIS COMO ADICOES EM CONCRETOS DE CIMENTO PORTLAND;2022;Departamento de Engenharia Civil
+346;9e9f74cb-9453-4146-b6aa-8a4727045ca7;UTILIZACAO DE AREIAS DE FUNDICAO DA EMPRESA HUBNER FUNDICAO - PG NA PRODUCAO DE ARTEFATOS DE CONCRETO PRE-MOLDADOS;2023;Departamento de Engenharia Civil
+347;2f974135-5a7d-49ee-abe0-a35ae9b040cb;USO DE TRATAMENTOS DE SUPERFICIE PARA REDUCAO DOS EFEITOS DA REACAO ALCALI-SILICA;2023;Departamento de Engenharia Civil
+348;14079c7a-1676-4cda-93c7-8e0644e9804e;ORGANIZACAO DO ACERVO TECNICO PALEONTOLOGICO IMPRESSO do PALEOZOICO DO LABORATORIO DE ESTRATIGRAFIA E PALEONTOLOGIA DA UEPG.;2019;Departamento de Geociências
+349;14079c7a-1676-4cda-93c7-8e0644e9804e;PROJETO PALEONTOLOGICO de SALVAMENTO NA AREA URBANA DE PONTA GROSSA - PR (DEVONIANO);2019;Departamento de Geociências
+350;14079c7a-1676-4cda-93c7-8e0644e9804e;ORGANIZACAO DO ACERVO TECNICO PALEONTOLOGICO IMPRESSO DO LABORATORIO DE ESTRATIGRAFIA E PALEONTOLOGIA DA UEPG (Segunda Fase).;2020;Departamento de Geociências
+351;14079c7a-1676-4cda-93c7-8e0644e9804e;Correlacao Estratigrafica da nova Secao Bosque Mistral com o arcabouco estratigrafico da regiao dos Campos Gerais, PR, Brasil.;2020;Departamento de Geociências
+352;14079c7a-1676-4cda-93c7-8e0644e9804e;ANALISE TAFONOMICA DE INVERTEBRADOS FOSSEIS E ICNOFOSSEIS DO DEVONIANO NO ESTADO DO PARANA EM ESTUDOS SOBRE O POTENCIAL DE HIDROCARBONETOS NA BACIA SEDIMENTAR DO PARANA;2020;Departamento de Geociências
+353;14079c7a-1676-4cda-93c7-8e0644e9804e;COLECAO DE FOSSEIS BOSQUE MISTRAL ORGANIZACAO E PROCESSAMENTO DA PORCAO MEDIANA DA SECAO;2021;Departamento de Geociências
+354;07dfe26d-2ae7-4eb7-ad04-7b0adef31fde;Hidrogeis de alginato aplicados para a liberacao controlada de fertilizantes;2022;Departamento de Química
+355;93e95675-0713-48d8-9d60-902d70582c1b;CAMINHADA ALEATORIAS E DIFUSAO NORMAL E ANOMALA;2020;Departamento de Física
+356;93e95675-0713-48d8-9d60-902d70582c1b;Equacao de Langevin, Difusao e Solucoes;2021;Departamento de Física
+357;93e95675-0713-48d8-9d60-902d70582c1b;Aspectos das equacoes de difusao e difusao anomala;2022;Departamento de Física
+358;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;CARACTERIZACAO DAS PROPRIEDADES FOTOLUMINESCENTES DE POS DE OXIDO DE FERRO SUBMETIDOS A TRATAMENTO TERMICO ASSISTIDO POR PRESSAO;2019;Departamento de Engenharia de Materiais
+359;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;Caracterizacao de espumas de vidro obtidas a partir de residuos de vidro plano e vidros de garrafa verde;2020;Departamento de Engenharia de Materiais
+360;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;Obtencao de espumas de vidro a partir de residuo de vidro plano e diferentes hidroxidos metalicos;2020;Departamento de Engenharia de Materiais
+361;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;OBTENCAO DE ESPUMAS DE VIDRO A PARTIR DE RESIDUO DE VIDRO PLANO E DIFERENTES AGENTES FORMADORES DE ESPUMA;2021;Departamento de Engenharia de Materiais
+362;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;OBTENCAO DE ESPUMAS DE VIDRO UTILIZANDO RESIDUOS DE VIDRO PLANO E VIDROS DE GARRAFAS DA INDUSTRIA DE BEBIDAS;2021;Departamento de Engenharia de Materiais
+363;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;RECICLAGEM DE RESIDUOS DE VIDRO PLANO PARA A OBTENCAO DE ESPUMAS DE VIDRO UTILIZANDO DIFERENTES HIDROXIDOS METALICOS;2021;Departamento de Engenharia de Materiais
+364;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;OBTENCAO DE ESPUMAS DE VIDRO A PARTIR DE RESIDUOS DE VIDRO PLANO UTILIZANDO HIDROXIDO DE CALCIO COMO AGENTE DE EXPANSAO;2022;Departamento de Engenharia de Materiais
+365;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;RECICLAGEM DE RESIDUOS DE VIDRO PLANO PARA A OBTENCAO DE ESPUMAS DE VIDRO: UM COMPARATIVO ENTRE HIDROXIDO DE SODIO E HIDROXIDO DE CALCIO COMO AGENTES DE EXPANSAO;2022;Departamento de Engenharia de Materiais
+366;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;ESPUMAS DE VIDRO OBTIDAS A PARTIR DE RESIDUOS DE VIDRO PLANO E VIDROS DE RECEPIENTES VERDES DA INDUSTRIA DE BEBIDAS COM A UTILIZACAO DE PLANEJAMENTOS EXPERIMENTAIS;2022;Departamento de Engenharia de Materiais
+367;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;RECICLAGEM DE RESIDUOS DE VIDRO PLANO PARA A OBTENCAO DE ESPUMAS DE VIDRO UTILIZANDO HIDROXIDO DE ALUMINIO COMO AGENTE DE EXPANSAO;2022;Departamento de Engenharia de Materiais
+368;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;OBTENCAO DE ESPUMAS DE VIDRO A PARTIR DE RESIDUOS DE VIDRO PLANO UTILIZANDO HIDROXIDO DE CALCIO COMO AGENTE DE EXPANSAO - PARTE 2;2023;Departamento de Engenharia de Materiais
+369;99bb3447-a7ef-4aa7-bf6a-b724ba00ec3d;RECICLAGEM DE RESIDUOS DE VIDRO PLANO PARA A OBTENCAO DE ESPUMAS DE VIDRO: UM COMPARATIVO ENTRE HIDROXIDO DE SODIO E HIDROXIDO DE CALCIO COMO AGENTES DE EXPANSAO - PARTE 2;2023;Departamento de Engenharia de Materiais
+370;0a544d7c-5502-402a-a68a-965731fb6c0f;REALIDADE AUMENTADA E REALIDADE VIRTUAL NO ENSINO DE MATEMATICA;2019;Departamento de Matemática e Estatística
+371;0a544d7c-5502-402a-a68a-965731fb6c0f;REALIDADE AUMENTADA NO ENSINO DE GEOMETRIA ESPACIAL;2020;Departamento de Matemática e Estatística
+372;0a544d7c-5502-402a-a68a-965731fb6c0f;COMBINANDO A MODELAGEM GEOMETRICA COM O SOFTWARE GEOGEBRA;2021;Departamento de Matemática e Estatística
+373;0a544d7c-5502-402a-a68a-965731fb6c0f;O Estudo de Calculo Diferencial e Integral com o uso do Software GeoGebra;2021;Departamento de Matemática e Estatística
+374;f27b572a-d948-4f65-9de3-0dd2ed7751be;Caminhadas Quanticas Nao Homogeneas;2019;Departamento de Matemática e Estatística
+375;f27b572a-d948-4f65-9de3-0dd2ed7751be;Fundamentos da Computacao e Informacao Quantica;2019;Departamento de Matemática e Estatística
+376;f27b572a-d948-4f65-9de3-0dd2ed7751be;ESTUDO DE CAVIDADES OPTOMECANICAS;2020;Departamento de Matemática e Estatística
+377;f27b572a-d948-4f65-9de3-0dd2ed7751be;ESTUDO DE CADEIAS DE SPINS;2020;Departamento de Matemática e Estatística
+378;f27b572a-d948-4f65-9de3-0dd2ed7751be;Emaranhamento em sistemas optomecanicos;2021;Departamento de Matemática e Estatística
+379;f27b572a-d948-4f65-9de3-0dd2ed7751be;Emaranhamento em cadeias de spin;2021;Departamento de Matemática e Estatística
+380;f27b572a-d948-4f65-9de3-0dd2ed7751be;Fluxo de polos em potenciais constantes por partes;2022;Departamento de Matemática e Estatística
+381;f27b572a-d948-4f65-9de3-0dd2ed7751be;Geracao de estados grafo em sistemas optomecanicos;2022;Departamento de Matemática e Estatística
+382;f27b572a-d948-4f65-9de3-0dd2ed7751be;Robustez e geracao de emaranhamentos em grafos de spin;2022;Departamento de Matemática e Estatística
+383;4c1dea7d-2c85-4799-97db-b71e48b57d74;DENSIDADE E POROSIDADE DE UM CAMBISSOLO SOB DIFERENTES SISTEMAS DE PREPARO E DOSES DE CALCARIO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+384;4c1dea7d-2c85-4799-97db-b71e48b57d74;EFEITO DO TERRACEAMENTO AGRICOLA NA REDUCAO DO ESCOAMENTO SUPERFICIAL E NA PRODUCAO DE SEDIMENTOS EM PLANTIO DIRETO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+385;4c1dea7d-2c85-4799-97db-b71e48b57d74;EROSAO HIDRICA EM DIFERENTES MANEJOS DO SOLO SOB CONDICAO DE CHUVA SIMULADA;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+386;4c1dea7d-2c85-4799-97db-b71e48b57d74;PERDAS DE SOLO E AGUA POR PROCESSOS EROSIVOS EM DIFERENTES MANEJOS NO PLANTIO DIRETO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+387;4c1dea7d-2c85-4799-97db-b71e48b57d74;ERODIBILIDADE E RAZAO DE PERDA DE SOLO EM DIFERENTES SISTEMAS DE MANEJO DE UM LATOSSOLO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+388;4c1dea7d-2c85-4799-97db-b71e48b57d74;DENSIDADE E POROSIDADE DO SOLO EM SISTEMA PLANTIO DIRETO COM E SEM TERRACEAMENTO NO MUNICIPIO DE PONTA GROSSA, PARANA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+389;4c1dea7d-2c85-4799-97db-b71e48b57d74;PERDAS DE NUTRIENTES DE PLANTAS VIA ESCOAMENTO SUPERFICIAL EM DIFERENTES MANEJOS AGRICOLAS;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+390;4c1dea7d-2c85-4799-97db-b71e48b57d74;USO DE PLANTAS DE COBERTURA E DA PRATICA MECANICA PARA DESCOMPACTACAO DO SOLO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+391;855f2602-c5b6-4eea-a49f-21476fc3ef1d;Resistencia a Flexao Biaxial de Selantes Vitroceramicos do sistema SrO-MgO-B2O3-SiO2 para Celulas Combustiveis;2021;Departamento de Física
+392;855f2602-c5b6-4eea-a49f-21476fc3ef1d;EFEITO DO TAMANHO DA TRINCA NA TENACIDADE A FRATURA DA VITROCERAMICA DE DISSILICATO DE LITIO;2022;Departamento de Física
+393;1679f571-7772-4d23-a9cf-be40267a33b7;Analise estrutural de superficies da superliga de niquel Hastelloy X modificadas por implantacao ionica de nitrogenio;2021;Departamento de Física
+394;1679f571-7772-4d23-a9cf-be40267a33b7;Analise da estratificacao de fases cristalinas em superficies nitretadas de uma superliga de niquel;2022;Departamento de Física
+395;18f51ae4-3e2d-4e4d-b42f-ecbaaca1c6bc;Catalogacao e digitalizacao do acervo de minerais e rochas do Laboratorio Didatico de Geologia da UEPG;2020;Departamento de Geociências
+396;96a5e9cf-e563-4047-bab2-5444a4ae2e1b;ESTUDO DO EFEITO DE UM SISTEMA FOTOVOLTAICO FLUTUANTE NA FLORACAO DE ALGAS;2021;Departamento de Engenharia Civil
+397;96a5e9cf-e563-4047-bab2-5444a4ae2e1b;Avaliacao da Qualidade da Agua na Represa Alagados;2022;Departamento de Engenharia Civil
+398;96a5e9cf-e563-4047-bab2-5444a4ae2e1b;ESTUDO HIDROLOGICO DA BACIA HIDROGRAFICA DA REPRESA ALAGADOS;2022;Departamento de Engenharia Civil
+399;858235b6-64a5-472f-be80-b39c5fd81fb7;CINETICA DA CONVERSAO BIOLOGICA DE NITROGENIO EM REATORES DE LEITO FIXO;2022;Departamento de Engenharia Civil
+400;858235b6-64a5-472f-be80-b39c5fd81fb7;CINETICA DA CONVERSAO BIOLOGICA DE CARBONO EM REATORES DE LEITO FIXO;2022;Departamento de Engenharia Civil
+401;858235b6-64a5-472f-be80-b39c5fd81fb7;AVALIACAO DA DISPONIBILIDADE DE CARBONO EM UM REATOR BIOLOGICO DE LEITO FIXO COM MEIO SUPORTE DE SABUGO DE MILHO EMPREGADO NA CONVERSAO DE NITRATO;2023;Departamento de Engenharia Civil
+402;858235b6-64a5-472f-be80-b39c5fd81fb7;AVALIACAO DO PROCESSO DE PARTIDA DE UM REATOR BIOLOGICO DE LEITO FIXO COM MEIO SUPORTE DE SABUGO DE MILHO;2023;Departamento de Engenharia Civil
+403;858235b6-64a5-472f-be80-b39c5fd81fb7;CONVERSAO BIOLOGICA DE CARBONO EM REATOR DE LEITO FIXO DE AGREGADO DE RESIDUO DE CONSTRUCAO E DEMOLICAO;2023;Departamento de Engenharia Civil
+404;95cd696e-296d-4874-bbd0-ff59f00f798e;CARACTERIZACAO DOS RESIDUOS SOLIDOS URBANOS DA CONSTRUCAO CIVIL NA BACIA DO ARROIO LAJEADO GRANDE, PONTA GROSSA, PR.;2020;Departamento de Geociências
+405;95cd696e-296d-4874-bbd0-ff59f00f798e;CARACTERIZACAO MORFOLOGICA DE SOLOS EM TALUDE DE CORTE NO MUNICIPIO DE BALSA NOVA, PARANA.;2022;Departamento de Geociências
+406;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Influencia de diferentes tipos de tratamento termico no conteudo de acucares na batata-doce (Ipomoea batatas L.);2019;Departamento de Engenharia de Alimentos
+407;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Desenvolvimento de formulacoes para cookies com maior valor nutricional utilizando farinhas de batatas doces;2019;Departamento de Engenharia de Alimentos
+408;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Aproveitamento de subproduto amilaceo do processamento de batata (Solanum tuberosum);2019;Departamento de Engenharia de Alimentos
+409;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Influencia do tratamento termico na acao das amilases da batata-doce (Ipomoea batatas L.) sob o conteudo de amido e acucares soluveis da raiz;2020;Departamento de Engenharia de Alimentos
+410;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;DESENVOLVIMENTO E CARACTERIZACAO DE FILMES BIODEGRADAVEIS A PARTIR DE DESCARTE DO PROCESSAMENTO DE BATATA;2020;Departamento de Engenharia de Alimentos
+411;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Obtencao de bioprodutos a partir de batata doce (Ipomoea batatas);2021;Departamento de Engenharia de Alimentos
+412;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Qualidade reologica de farinhas e amidos para panificacao;2021;Departamento de Engenharia de Alimentos
+413;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Avaliacao da qualidade de farinha de trigo e misturas para panificacao;2022;Departamento de Engenharia de Alimentos
+414;d9caea90-4de4-4eb3-9414-9d5d0128bbfd;Producao de bioetanol de 2a geracao a partir de subprodutos de batata-doce (Ipomoea batatas (L.) Lam.).;2023;Departamento de Engenharia de Alimentos
+415;caf49f3e-ead4-4a09-a337-bfaf04276538;Extracao e capacidade antioxidante de sementes de Citrus x limonia;2019;Departamento de Química
+416;caf49f3e-ead4-4a09-a337-bfaf04276538;Avaliacao da nfluencia geografica e botanica no teor de compostos fenolicos e atividade antioxidante do mel;2019;Departamento de Química
+417;caf49f3e-ead4-4a09-a337-bfaf04276538;Sintese e atividade antioxidante de derivados do acido p-cumarico;2019;Departamento de Química
+418;caf49f3e-ead4-4a09-a337-bfaf04276538;Sintese e atividade antioxidante de derivados da apocinina com potencial aplicacao no tratamento da doenca de Alzheimer;2019;Departamento de Química
+419;caf49f3e-ead4-4a09-a337-bfaf04276538;Avaliacao da atividade antioxidante de analogos da curcumina: Uma revisao bibliografica;2020;Departamento de Química
+420;caf49f3e-ead4-4a09-a337-bfaf04276538;Sintese, caracterizacao e atividade antioxidante de derivados do acido p-cumarico: Uma revisao bibliografica;2020;Departamento de Química
+421;caf49f3e-ead4-4a09-a337-bfaf04276538;METODOS DE SINTESE E DETERMINACAO DA ATIVIDADE ANTIOXIDANTE DE DERIVADOS ESTERES DE ACIDOS FENOLICOS;2021;Departamento de Química
+422;89865950-8215-41c2-87c2-0fd030950563;PREPARACAO DE OXIDOS DE TUNGSTENIO (WOx) ATRAVES DO REAPROVEITAMENTO DE SUCATAS DE TUNGSTENIO;2019;Departamento de Química
+423;89865950-8215-41c2-87c2-0fd030950563;DESENVOLVIMENTO PROTOCOLOS DE PREPARACAO E ANALISE DE PROTOTIPOS DE SUPERCAPACITORES INOVADORES E DE ALTO DESEMPENHO;2019;Departamento de Química
+424;89865950-8215-41c2-87c2-0fd030950563;PRODUCAO DE NANOPARTICULAS DE ZnO EM SOLVENTES ORGANICOS PARA A PRODUCAO DE FIBRAS POR ELETROFIACAO: PRODUCAO DE TECIDOS INTELIGENTES.;2020;Departamento de Química
+425;89865950-8215-41c2-87c2-0fd030950563;SINTESE DE WO3 PRODUZIDO A PARTIR DE RESIDUOS DE ELETRODOS DE SOLDA PARA A APLICACAO EM FOTOCATALISE;2020;Departamento de Química
+426;89865950-8215-41c2-87c2-0fd030950563;PREPARACAO E CARACTERIZACAO DE MATERIAIS A BASE DE NIOBIO: NOVOS MATERIAIS PARA APLICACAO EM ARMAZENAMENTO E ECONOMIA DE ENERGIA;2020;Departamento de Química
+427;89865950-8215-41c2-87c2-0fd030950563;PREPARACAO E ANALISE DE PROTOTIPOS DE SUPERCAPACITORES INOVADORES E DE ALTO DESEMPENHO BASEADOS NO COMPOSITO OXIDO DE GRAFENO/OXIDO DE NIOBIO.;2020;Departamento de Química
+428;89865950-8215-41c2-87c2-0fd030950563;DESENVOLVIMENTO DE GRADES DE WO3/OXIDO DE GRAFENO PARA A PRODUCAO DE H2 A PARTIR DA DECOMPOSICAO ELETROQUIMICA DA AGUA;2020;Departamento de Química
+429;89865950-8215-41c2-87c2-0fd030950563;OXIDO DE GRAFENO DOPADO COM OXIDO DE ZINCO: UM CATALIZADOR PARA A DEGRADACAO DE POLUENTES EMERGENTES;2021;Departamento de Química
+430;89865950-8215-41c2-87c2-0fd030950563;MATERIAIS BASEADOS NO USO DE OXIDO DE GRAFENO/OXIDO DE NIOBIO/DIOXIDO DE MANGANES APLICADOS NA CONFECCAO DE SUPERCAPACITORES;2021;Departamento de Química
+431;89865950-8215-41c2-87c2-0fd030950563;Aplicacao de Compositos Contendo Polimeros Condutores em Dispositivos Eletroquimicos para a Deteccao Moleculas;2022;Departamento de Química
+432;89865950-8215-41c2-87c2-0fd030950563;AVALIACAO DO SINERGISMO ENTRE GRAFENO E POLIANILINA VISANDO A APLICACAO EM SUPERCAPACITORES ELETROQUIMICOS;2022;Departamento de Química
+433;89865950-8215-41c2-87c2-0fd030950563;DESENVOLVIMENTO DE UM DISPOSITIVO ELETRONICO NAO INVASIVO PARA MEDICAO DE GLICOSE;2022;Departamento de Química
+434;a5660198-2a44-41c3-a972-9840469eee29;Operadores de diferenca de ordem nao inteira: implementacao numerica e aplicacoes a resolucao numerica de equacoes diferenciais parciais de ordem nao inteira;2022;Departamento de Matemática e Estatística
+435;610031fb-54ef-4d42-b1e2-9e9cb5043103;ESTUDOS ESTRUTURAIS POR MODELAGEM POR HOMOLOGIA E DOCKING DA ENZIMA 2-AMINO-4-HIDROXI-6-HIDROXIMETIL DIHIDROPTERIDINA PIROFOSFOQUINASE DE Acinetobacter baumannii;2019;Departamento de Química
+436;610031fb-54ef-4d42-b1e2-9e9cb5043103;MODELAGEM E ESTUDOS ESTRUTURAIS COMPUTACIONAIS DA PROTEINA 6-HIDROXIMETIL-7,8-DIHIDROPTERINA PIROFOSFOQUINASE DE Pseudomonas aeruginosa;2019;Departamento de Química
+437;610031fb-54ef-4d42-b1e2-9e9cb5043103;ESTUDOS ESTRUTURAIS POR MODELAGEM POR HOMOLOGIA E DOCKING DA LIPOPROTEINA DE MEMBRANA EXTERNA - LolB - DE Acinetobacter baumannii;2020;Departamento de Química
+438;610031fb-54ef-4d42-b1e2-9e9cb5043103;MODELAGEM E ESTUDOS ESTRUTURAIS COMPUTACIONAIS DA PROTEINA UDP-N-ACETILMURAMOIL-L-ALANIL-D-GLUTAMATO-2,6-DIAMINOPIMELATO LIGASE DE Pseudomonas aeruginosa;2020;Departamento de Química
+439;610031fb-54ef-4d42-b1e2-9e9cb5043103;ESTUDO ESTRUTURAL COMPUTACIONAL POR MODELAGEM POR HOMOLOGIA DA PROTEINA HIDROXI-ACIL GLUTATIONA HIDROLASE DE Homo sapiens;2020;Departamento de Química
+440;610031fb-54ef-4d42-b1e2-9e9cb5043103;EXPRESSAO HETEROLOGA E PURIFICACAO DA ENZIMA VALIL-tRNA SINTETASE DE Trypanosoma cruzi;2021;Departamento de Química
+441;cd6dbd63-0705-492b-a692-d25fadb82dac;Dinamica Estocastica do pendulo sob a acao de um pivo nao fixo;2019;Departamento de Matemática e Estatística
+442;cd6dbd63-0705-492b-a692-d25fadb82dac;Transicao de Sincronizacao e quimera em uma rede de mapas de Rulkov;2022;Departamento de Matemática e Estatística
+443;cd6dbd63-0705-492b-a692-d25fadb82dac;Efeitos catraca em mapas nao twist estendidos;2022;Departamento de Matemática e Estatística
+444;e607573f-977e-46d6-b59c-36dae83683f2;A producao cientifica geografica sobre as juventudes urbanas;2020;Departamento de Geociências
+445;e607573f-977e-46d6-b59c-36dae83683f2;A producao cientifica geografica sobre sexualidades juvenis;2021;Departamento de Geociências
+446;e607573f-977e-46d6-b59c-36dae83683f2;A producao cientifica geografica sobre as juventudes urbanas entre 1990-2000;2021;Departamento de Geociências
+447;9df777f7-f91d-4b81-931c-9ddf82cac9c4;ALGORITMO A* NA APRENDIZAGEM DE CLASSIFICADORES PROBABILISTICOS EM DADOS INCOMPLETOS;2023;Departamento de Informática
+448;0ae85330-9e49-4f4a-9039-53579b27639f;Analise do sal rosa do Himalaia via difratometria de raios X;2019;Departamento de Física
+449;0ae85330-9e49-4f4a-9039-53579b27639f;Analise comparativa de sal rosa do Himalaia via fluorescencia de raios - X;2022;Departamento de Física
+450;b986ecd5-f0dd-45a8-836a-ae20c739444b;FUNDAMENTOS MATEMATICOS DA MECANICA QUANTICA E TEORIA DA INFORMACAO QUANTICA;2019;Departamento de Matemática e Estatística
+451;b986ecd5-f0dd-45a8-836a-ae20c739444b;O problema do tempo de tunelamento em mecanica quantica;2020;Departamento de Matemática e Estatística
+452;b986ecd5-f0dd-45a8-836a-ae20c739444b;Investigacao de um analogo classico para o fenomeno de tunelamento em mecanica quantica;2021;Departamento de Matemática e Estatística
+453;71cc6138-140c-4a16-90f4-aae9e2766ebe;Estudo do comportamento dinamico do memristor;2022;Departamento de Matemática e Estatística
+454;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM BIOSSENSOR ELETROQUIMICO PARA DETECCAO DA PROTEINA PALMITOIL TIOESTERASE, ENVOLVIDA NA LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL1);2019;Departamento de Química
+455;5bc06995-6c73-4959-b6ed-dc2268beb275;DETERMINACAO DA ATIVIDADE BIOLOGICA DE CHALCONAS MODIFICADAS.;2019;Departamento de Química
+456;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM BIOSSENSOR PARA DETECCAO DO BIOMARCADOR DE CANCER DE MAMA ADAM-33;2019;Departamento de Química
+457;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM IMUNOSSENSOR ELETROQUIMICO PARA DIAGNOSTICO DE LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL1);2019;Departamento de Química
+458;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM SISTEMA ELETROQUIMICO PARA DETECAO DA PROTEINA TPP1 PARA DIAGNOSTICO DE LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL2);2019;Departamento de Química
+459;5bc06995-6c73-4959-b6ed-dc2268beb275;AVALIACAO DA INTERACAO DA PROTEINA PALMITOIL TIOESTERASE 1 (PPT1) COM ANTICORPO MONOCLONAL POR DETECCAO ELETROQUIMICA;2020;Departamento de Química
+460;5bc06995-6c73-4959-b6ed-dc2268beb275;DETECCAO E AVALIACAO DE INTERACAO ENZIMA-ANTICORPO ATRAVES DE IMUNOSSENSOR ELETROQUIMICO: POSSIVEL FERRAMENTA DE DIAGNOSTICO PARA DOENCA DA DEFICIENCIA DA ENZIMA ALFA-L-FUCOSIDASE;2020;Departamento de Química
+461;5bc06995-6c73-4959-b6ed-dc2268beb275;DETERMINACAO DA ATIVIDADE BIOLOGICA DE CHALCONAS HIDROXI, METOXI E NITRO SUBSTITUIDAS.;2020;Departamento de Química
+462;5bc06995-6c73-4959-b6ed-dc2268beb275;ESTUDO DA INTERACAO DA FUCOSIDADE HUMANA COM ANTICORPO MONOCLONAL POR TECNICAS ELETROQUIMICAS.;2020;Departamento de Química
+463;5bc06995-6c73-4959-b6ed-dc2268beb275;DETERMINACAO DA ATIVIDADE BIOLOGICA DE COMPLEXOS DE RUTENIO.;2021;Departamento de Química
+464;5bc06995-6c73-4959-b6ed-dc2268beb275;PROTEINA TPP1 PARA DIAGNOSTICO DE LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL2);2021;Departamento de Química
+465;5bc06995-6c73-4959-b6ed-dc2268beb275;AVALIACAO DA POTENCIAL DE CITOTOXIDADE IN VITRO DE COMPLEXOS DE RUTENIO EM LINHAGENS TUMORAIS;2022;Departamento de Química
+466;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM SISTEMA DE DETECCAO ELETROQUIMICA DA PROTEINA PALMITOIL TIOESTERASE 1: UMA SOLUCAO PARA DE DIAGNOSTICO PRECOCE DE LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL1);2022;Departamento de Química
+467;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UM SISTEMA ELETROQUIMICO PARA DETECCAO DA PROTEINA PPT1 PARA DIAGNOSTICO DE LIPOFUSCINOSE CEROIDE NEURONAL DO TIPO 1 (CNL1);2022;Departamento de Química
+468;5bc06995-6c73-4959-b6ed-dc2268beb275;Estudo de plataformas para o carreamento de sistema CRISPR/Cas9 visando a inativacao microRNAs relacionados ao cancer de prostata: uma proposta terapeutica.;2022;Departamento de Química
+469;5bc06995-6c73-4959-b6ed-dc2268beb275;DESENVOLVIMENTO DE UMA PLATAFORMA NANOHIBRIDA UTILIZANDO RESIDUO DE BAGACO DE CANA DE ACUCAR PARA A REMEDIACAO DA CONTAMINACAO DE METAIS PESADOS EM AGUAS ORIUNDAS DA LAGOA DA CONCEICAO.;2022;Departamento de Química
+470;4495dae5-0076-481a-86e7-8683bbb2b72c;QUIRALIDADE MICROSCOPICA E ANALOGIAS MECANICAS;2019;Departamento de Física
+471;4495dae5-0076-481a-86e7-8683bbb2b72c;MOMENTO ANGULAR EM MOVIMENTO BROWNIANO QUIRAL;2020;Departamento de Física
+472;4495dae5-0076-481a-86e7-8683bbb2b72c;COEFICIENTE DE DIFUSAO E MOVIMENTO BROWNIANO EM LIQUIDOS COM QUIRALIDADE.;2021;Departamento de Física
+473;4495dae5-0076-481a-86e7-8683bbb2b72c;FORCA DE SEGREGACAO ENTRE ENANTIOMETROS DE MATERIAIS GRANULARES QUIRAIS.;2021;Departamento de Física
+474;4495dae5-0076-481a-86e7-8683bbb2b72c;CARATER COLETIVO OU PAREADO DA SEGREGACAO ENTRE;2022;Departamento de Física
+475;b53fefa5-d23f-41a5-8877-e9b10e47e571;Sintese, caracterizacao e estudos de Langmuir de complexos de rutenio-areno contendo fosfinas e n-heterociclicos como ligantes;2019;Departamento de Química
+476;b53fefa5-d23f-41a5-8877-e9b10e47e571;AVALIACAO DO MECANISMO DE ACAO DE MOLECULAS NO ESTUDO DE DESENVOLVIMENTO DE POTENCIAIS FARMACOS;2020;Departamento de Química
+477;b53fefa5-d23f-41a5-8877-e9b10e47e571;SINTESE VERDE DE AuNPs ESTABILIZADAS EM POLISSACARIDEO PROVENIENTE DE ALGAS MARINHAS;2020;Departamento de Química
+478;b53fefa5-d23f-41a5-8877-e9b10e47e571;ESTUDO EXPERIMENTAL E TEORICO DA ATIVIDADE ANTIBACTERIANA IN VITRO DE COMPLEXOS DE RUTENIO-ARENO CONTENDO LIGANTE PIRIDINICO;2021;Departamento de Química
+479;b53fefa5-d23f-41a5-8877-e9b10e47e571;ESTUDO DE FILMES NANOESTRUTURADOS DE CALIXARENOS PELA TECNICA DE LANGMUIR;2021;Departamento de Química
+480;b53fefa5-d23f-41a5-8877-e9b10e47e571;"""SINTESE DE LIGANTE FOSFINA E SUA COORDENACAO AO FRAGMENTO RUTENIO-ARENO PARA AVALIACAO NO MEIO BIOLOGICO""";2022;Departamento de Química
+481;b53fefa5-d23f-41a5-8877-e9b10e47e571;"""SINTESE, CARACTERIZACAO, ESTUDO ELETROQUIMICO E BIOLOGICO DE COMPLEXOS DE RUTENIO-ARENO COM LIGANTE ORGANOFOSFORADO""";2022;Departamento de Química
+482;b53fefa5-d23f-41a5-8877-e9b10e47e571;"""Nanohibrido de biochar e nanoparticulas de ouro: sintese e aplicacao no desenvolvimento de sensores eletroquimicos""";2022;Departamento de Química
+483;d55bc2ee-402e-4ce4-8315-6d8233945f9a;CARACTERIZACAO DAS ATUACOES TORNADICAS DO DIA 19/11/2015 NOS MUNICIPIOS DE MONTE ALEGRE E TREZE TILIAS, ESTADO DE SANTA CATARINA E MARECHAL CANDIDO RONDON ESTADO DO PARANA.;2020;Departamento de Geociências
+484;d55bc2ee-402e-4ce4-8315-6d8233945f9a;CARACTERIZACAO DA ATUACAO DE TEMPESTADE SEVERA OCORRIDA NO MUNICIPIO DE PONTA GROSSA;2020;Departamento de Geociências
+485;d55bc2ee-402e-4ce4-8315-6d8233945f9a;CATALOGACAO DE ATUACOES TORNADICAS REGISTRADAS NO PARANA DE 2010 A 2015;2021;Departamento de Geociências
+486;d55bc2ee-402e-4ce4-8315-6d8233945f9a;OCORRENCIAS DE TORNADOS NO BRASIL NO PERIODO DE 1975 a 2018;2022;Departamento de Geociências
+487;1f0cfb04-640e-4617-a67c-d731af756131;O TEATRO DE TEMATICA CIENTIFICA PELO BRASIL: PRODUCAO DE MATERIAL DIGITAL;2021;Departamento de Química
+488;1f0cfb04-640e-4617-a67c-d731af756131;NUCLEACAO DE GRUPOS DE ENSINO E PESQUISA NO CAMPO DA EDUCACAO QUIMICA NO ESTADO DO PARANA;2022;Departamento de Química
+489;1f0cfb04-640e-4617-a67c-d731af756131;HISTORIAS DE MULHERES CIENTISTAS DA UEPG POR MEIO DA ARTE-CIENCIA;2022;Departamento de Química
+490;8b4280a0-366a-45f7-84cf-7ea150549355;SOLUCOES ANALITICAS PARA EQUACOES DIFERENCIAIS;2019;Departamento de Matemática e Estatística
+491;8b4280a0-366a-45f7-84cf-7ea150549355;OSCILACOES MECANICAS EM SISTEMAS LINERAES;2020;Departamento de Matemática e Estatística
+492;a583f28b-ba17-41bd-abc9-201dd0408185;ESTUDO DO FRESADO PARA PRODUCAO DE MISTURAS DO TIPO PRE-MISTURADO A FRIO UTILIZANDO LIGANTE DO TIPO EMULSAO ASFALTICA PARA PRODUCAO DE MISTURAS PARA SEREM UTILIZADAS COMO REVESTIMENTO DE PAVIMENTOS URBANOS;2019;Departamento de Engenharia Civil
+493;95788a1f-329d-40c8-982a-433c407c78a9;ANALISE DE CURVA DE RESISTENCIA A FRATURA DE PAPEL CARTAO;2022;Departamento de Engenharia de Materiais
+494;95788a1f-329d-40c8-982a-433c407c78a9;ANALISE MICROESTRUTURAL E DE PROPRIEDADES DE ACO INOXIDAVEL SUPERDUPLEX;2022;Departamento de Engenharia de Materiais
+495;45a02357-c9a3-459b-ada1-46cd2a45d9f1;Interacao Atomo-Fotons pelo modelo de Jaynes-Cummigs;2019;Departamento de Física
+496;45a02357-c9a3-459b-ada1-46cd2a45d9f1;Simulacao Computacional de Polimeros;2020;Departamento de Física
+497;fe781da1-2bc9-47f8-92eb-be886a4e4276;AVALIACAO REPRODUTIVA DE TRES GERACOES DE FEMEAS BOVINAS DA RACA PURUNA;2021;Departamento de Zootecnia
+498;fe781da1-2bc9-47f8-92eb-be886a4e4276;ESTUDO RETROSPECTIVO DO EMPREGO DA INSEMINACAO ARTIFICIAL EM REBANHO BOVINO DE CORTE;2021;Departamento de Zootecnia
+499;fe781da1-2bc9-47f8-92eb-be886a4e4276;INFLUENCIA DA ORDEM DE PARTO NA COMPOSICAO E NA QUALIDADE DO LEITE DE FEMEAS BOVINAS DA RACA PURUNA;2022;Departamento de Zootecnia
+500;fe781da1-2bc9-47f8-92eb-be886a4e4276;EFEITO DA ORDEM DE PARTO NO PERFIL METABOLICO DE FEMEAS BOVINAS DA RACA PURUNA;2022;Departamento de Zootecnia
+501;fe781da1-2bc9-47f8-92eb-be886a4e4276;INFLUENCIA DA ORDEM DE PARTO DA MATRIZ NO DESEMPENHO PRODUTIVO DE BEZERROS PURUNA DO NASCIMENTO AO DESMAME;2022;Departamento de Zootecnia
+502;fe781da1-2bc9-47f8-92eb-be886a4e4276;INFLUENCIA DA IDADE E DO PERFIL METABOLICO DE OVELHAS ILE DE FRANCE E TEXEL NO PESO AO NASCIMENTO DE CORDEIROS;2022;Departamento de Zootecnia
+503;4471fb38-01c4-4e30-94f5-6766b9914fa6;BIORREDUCAO DE CHALCONAS UTILIZANDO CEPAS FUNGICAS PRODUTORAS DE ENZIMAS REDUTASES;2019;Departamento de Química
+504;708f8228-850e-4644-8a17-311c7e231d9d;METODOLOGIAS ATIVAS NO ENSINO DE MATEMATICA;2019;Departamento de Matemática e Estatística
+505;708f8228-850e-4644-8a17-311c7e231d9d;RECURSOS EDUCACIONAIS ABERTOS NA FORMACAO DO LICENCIANDO EM MATEMATICA;2022;Departamento de Matemática e Estatística
+506;90a7eaa0-a7a7-44f7-9e07-5e340bc71f67;Analise de textura em imagens para deteccao de trincas em pavimentos;2019;Departamento de Informática
+507;90a7eaa0-a7a7-44f7-9e07-5e340bc71f67;Utilizacao de imagens para deteccao de defeitos em pavimentos rodoviarios;2019;Departamento de Informática
+508;90a7eaa0-a7a7-44f7-9e07-5e340bc71f67;Identificacao de especies de plantas por meio de aprendizado de maquina;2022;Departamento de Informática
+509;52cc1694-e304-4872-8a52-5a9ea0c64c2a;AVALIACAO DA BIODEGRADACAO DE POLIMEROS PEROXIDADOS;2019;Departamento de Engenharia de Materiais
+510;52cc1694-e304-4872-8a52-5a9ea0c64c2a;DESENVOLVIMENTO DE TELA BIOCOMPATIVEL PARA PERITONIOSTOMIAS;2019;Departamento de Engenharia de Materiais
+511;52cc1694-e304-4872-8a52-5a9ea0c64c2a;DESENVOLVIMENTO DE SISTEMA PRO-DEGRADANTE PARA BIODEGRADACAO DE POLIMEROS;2019;Departamento de Engenharia de Materiais
+512;52cc1694-e304-4872-8a52-5a9ea0c64c2a;PROCESSO INOVADOR PARA EXTRACAO DE LIGNINA A PARTIR DE BIOMASSA;2019;Departamento de Engenharia de Materiais
+513;52cc1694-e304-4872-8a52-5a9ea0c64c2a;BLENDAS POLIMERICAS E POLIPROPILENO E POLIESTIRENO COMPATIBILIZADAS PELA REACAO DE FRIEDEL-CRAFTS;2020;Departamento de Engenharia de Materiais
+514;52cc1694-e304-4872-8a52-5a9ea0c64c2a;CARACTERIZACAO REOLOGICA E MECANICA DE MISTURAS DE LIGNINA ORGANOSOLV E CONCRETO;2020;Departamento de Engenharia de Materiais
+515;52cc1694-e304-4872-8a52-5a9ea0c64c2a;INOVACAO NO PROCESSO PARA EXTRACAO DE LIGNINA A PARTIR DE BIOMASSA;2020;Departamento de Engenharia de Materiais
+516;bd658081-899d-4100-b2ef-9bcd7af07019;REFORMA TRABALHISTA EM PONTA GROSSA: DESENVOLVIMENTO EM PERIODO DE CRISE;2019;Departamento de Geociências
+517;bd658081-899d-4100-b2ef-9bcd7af07019;ANALISE DE ECONOMIA REGIONAL: COMPARANDO AS ECONOMIAS DOS ESTADOS DE SANTA CATARINA E PARANA;2020;Departamento de Geociências
+518;46b81405-e002-4e32-b000-2d81fdffc6ed;VOLUMES DE CALDA NA PULVERIZACAO DE AGROQUIMICOS EM TRIGO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+519;46b81405-e002-4e32-b000-2d81fdffc6ed;PLANTAS DE MILHO E ADUBACAO EM FUNCAO DA FERTILIDADE DO SOLO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+520;46b81405-e002-4e32-b000-2d81fdffc6ed;ESTRATEGIAS NO CONTROLE DE DOENCAS FUNGICAS NAS PLANTAS DE SOJA;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+521;46b81405-e002-4e32-b000-2d81fdffc6ed;ADUBACAO FOSFATADA NA SOJA EM SEMENTES E SULCO DE SEMEADURA;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+522;46b81405-e002-4e32-b000-2d81fdffc6ed;ARMAZENAMENTO DE GRAOS DE SOJA SEM E COM DEFEITOS;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+523;46b81405-e002-4e32-b000-2d81fdffc6ed;PONTAS DE PULVERIZACOES NA APLICACAO DE FUNGICIDAS NA CULTURA DO MILHO COM VANT;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+524;46b81405-e002-4e32-b000-2d81fdffc6ed;DILUENTES NA PULVERIZACAO DE AGROQUIMICOS EM SOJA;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+525;46b81405-e002-4e32-b000-2d81fdffc6ed;VOLUMES DE CALDA NA PULVERIZACAO DE HERBICIDA COM DRONE PARA O CONTROLE DE BUVA NA COLHEITA DO TRIGO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+526;5d4a2131-789b-4444-ad1c-48a37e6cd17d;CARACTERIZACAO DE SOLO DA AMAZONIA ORIENTAL POR FLUORESCENCIA DE RAIOS X;2019;Departamento de Física
+527;5d4a2131-789b-4444-ad1c-48a37e6cd17d;Caracterizacao de meios porosos baseada na analise de imagens tridimensionais de microtomografia computadorizada de raios X;2021;Departamento de Física
+528;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;Investigacao da digestibilidade in vitro de amido de banana verde modificado por HMT combinado com acido latico;2019;Departamento de Engenharia de Alimentos
+529;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;Caracterizacao termica, morfologica e estrutural de amido de mangarito sob tratamento por Heat-moisture treatment;2020;Departamento de Engenharia de Alimentos
+530;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;MODIFICACAO DE AMIDO DE MILHO (Zea mays) POR DRY HEAT TREATMENT: INVESTIGACAO DAS PROPRIEDADES TECNOLOGICAS;2021;Departamento de Engenharia de Alimentos
+531;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;ESTUDO DAS PROPRIEDADES DO AMIDO DE BANANA VERDE MODIFICADO POR DRY HEAT TREATMENT;2022;Departamento de Engenharia de Alimentos
+532;f80b03ed-dccf-4d95-b41e-b5b3a4a42655;PRODUCAO E CARACTERIZACAO DE FILMES BIODEGRADAVEIS UTILIZANDO AMIDO DE FEIJAO MODIFICADO POR DRY HEAT TREATMENT (DHT);2023;Departamento de Engenharia de Alimentos
+533;6dd6d1fa-8d81-41b8-b527-ab51446666ec;ESTUDO DO COMPORTAMENTO MECANICO DE BLOCOS EM SOLO-CIMENTO E RESIDUOS DE CONSTRUCAO E DEMOLICAO EM FUNCAO DA RELACAO VAZIO/CIMENTO;2023;Departamento de Engenharia Civil
+534;b9b3728b-c458-429e-8b87-70fbcddaf9c1;AS TRANSFORMACOES NA INTEGRACAO DAS TDIC NA FORMACAO INICIAL DE PROFESSORES DE MATEMATICA NO PARANA;2019;Departamento de Matemática e Estatística
+535;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;DETERMINACAO DE PARAMETROS ESTELARES A PARTIR DE CURVAS DE LUZ DE BINARIAS ECLIPSANTES;2020;Departamento de Geociências
+536;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;DETERMINACAO DE PARAMETROS FISICOS DE CANDIDATOS A EXOPLANETAS OBSERVADOS PELO SATELITE CoRoT;2020;Departamento de Geociências
+537;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;REPRODUCAO E ANALISE DE CURVAS DE LUZ DE BINARIAS ECLIPSANTES UTILIZANDO SOFTWARE PHOEBE;2021;Departamento de Geociências
+538;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;ANALISE DE CANDIDATOS A EXOPLANETAS OBSERVADOS PELO SATELITE CoRoT ATRAVES DO SOFTWARE PHOEBE;2021;Departamento de Geociências
+539;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;DETERMINACAO DE PARAMETROS ESPECTRAIS DE ESTRELAS B;2022;Departamento de Geociências
+540;f6501f0e-45dc-45c7-80c3-9ad91c6576ae;Analise fotometrica e espectroscopica do candidato a exoplaneta CoRoT 104848249;2022;Departamento de Geociências
+541;c91e3246-e6e6-4895-a7c9-0c8e20826eb1;HAHN-BANACH E A EXTENSAO DE FUNCIONAIS LINEARES;2019;Departamento de Matemática e Estatística
+542;c91e3246-e6e6-4895-a7c9-0c8e20826eb1;Teoremas do Valor Medio e Introducao as Equacoes Funcionais;2020;Departamento de Matemática e Estatística
+543;c91e3246-e6e6-4895-a7c9-0c8e20826eb1;Introducao a geometria fractal via iteracoes de funcoes complexas;2021;Departamento de Matemática e Estatística
+544;c91e3246-e6e6-4895-a7c9-0c8e20826eb1;Sobre o teorema de Flett e suas variacoes;2022;Departamento de Matemática e Estatística
+545;e22d7344-aeb2-403c-9cf2-9b9119e39384;NITRETACAO A PLASMA DE LIGAS RESISTENTES A CAVITACAO DEPOSITADAS SOBRE ACO INOXIDAVEL MARTENSITICO ASTM A743-CA6NM;2019;Departamento de Engenharia de Materiais
+546;e22d7344-aeb2-403c-9cf2-9b9119e39384;ESTUDO TERMODINAMICO DE COMPOSICOES E MICROESTRUTURAS DE ACOS MARAGING ISENTOS DE COBALTO;2020;Departamento de Engenharia de Materiais
+547;e22d7344-aeb2-403c-9cf2-9b9119e39384;DESENVOLVIMENTO DE MODELO DE DIFUSAO DE HIDROGENIO EM ACOS INOXIDAVEIS A PARTIR DE CELULA ELETROQUIMICA;2020;Departamento de Engenharia de Materiais
+548;e22d7344-aeb2-403c-9cf2-9b9119e39384;INFLUENCIA DA FRACAO DE MARTENSITA PRIMARIA NA MICROESTRUTURA E TENACIDADE AO IMPACTO DE UM FERRO NODULAR FUCO TEMPERADO E PARTICIONADO;2021;Departamento de Engenharia de Materiais
+549;e22d7344-aeb2-403c-9cf2-9b9119e39384;CARACTERIZACAO DE COMPOSITOS DE LIGAS DE TITANIO COM REFORCO DE CARBETO DE TITANIO;2021;Departamento de Engenharia de Materiais
+550;e22d7344-aeb2-403c-9cf2-9b9119e39384;TRANSFORMACOES DE FASES EM ACOS DE ALTO MANGANES LAMINADOS A FRIO;2022;Departamento de Engenharia de Materiais
+551;e22d7344-aeb2-403c-9cf2-9b9119e39384;CARACTERIZACAO MICROESTRUTURAL DE ACOS AVANCADOS DE ALTO MANGANES;2022;Departamento de Engenharia de Materiais
+552;e22d7344-aeb2-403c-9cf2-9b9119e39384;DESENVOLVIMENTO DE FERRAMENTAL PARA ENSAIOS DE ESTAMPABILIDADE EM FOLHAS METALICAS FINAS;2022;Departamento de Engenharia de Materiais
+553;e22d7344-aeb2-403c-9cf2-9b9119e39384;SINTESE E CARACTERIZACAO DE UM ACO DE ALTO MANGANES PRODUZIDO POR MOAGEM DE ALTA ENERGIA;2023;Departamento de Engenharia de Materiais
+554;3500ec17-38b8-4ffc-90c4-84a5f40ada50;A GEOGRAFIA DAS RELIGIOES AFRO-BRASILEIRAS NO ESPACO URBANO DE PONTA GROSSA, PARANA;2019;Departamento de Geociências
+555;3500ec17-38b8-4ffc-90c4-84a5f40ada50;A VALORIZACAO DA LIDERANCA FEMININA NAS RELIGIOES AFRO-BRASILEIRAS NA CIDADE DE PONTA GROSSA, PARANA;2019;Departamento de Geociências
+556;3500ec17-38b8-4ffc-90c4-84a5f40ada50;AS ABORDAGENS SOBRE GENERO NAS PUBLICACOES DA GEOGRAFIA URBANA NO BRASIL;2019;Departamento de Geociências
+557;3500ec17-38b8-4ffc-90c4-84a5f40ada50;AS TEMATICAS DE RACIALIDADE E ETNICIDADE COMO COMPOSITORAS DOS PROJETOS POLITICOS DOS CURSOS DE LICENCIATURAS DAS IES PUBLICAS DO ESTADO DO PARANA;2020;Departamento de Geociências
+558;3500ec17-38b8-4ffc-90c4-84a5f40ada50;ESPACIALIDADES E PERFORMATIVIDADE DO SAGRADO FEMININO: O GRUPO YEBA BELO NA CIDADE DE PONTA GROSSA, PARANA;2020;Departamento de Geociências
+559;3500ec17-38b8-4ffc-90c4-84a5f40ada50;AS TEMATICAS DA RELIGIAO E ESPIRITUALIDADE COMO COMPONENTES DA PRODUCAO GEOGRAFICA BRASILEIRA PUBLICADAS NOS PERIODICOS GEOGRAFICOS NACIONAIS;2020;Departamento de Geociências
+560;3500ec17-38b8-4ffc-90c4-84a5f40ada50;A CONSTRUCAO DA GEOGRAFIA DO FEMINICIDIO NO BRASIL A PARTIR DO WEBJORNALISMO NO ANO DE 2020;2020;Departamento de Geociências
+561;3500ec17-38b8-4ffc-90c4-84a5f40ada50;A Existencia de Homens em Situacao de Rua na Composicao da Geografia Urbana de Curitiba, Parana;2021;Departamento de Geociências
+562;3500ec17-38b8-4ffc-90c4-84a5f40ada50;A GEOGRAFIA DA VULNERABILIDADE SOCIAL CONSTITUINTE DOS MUNICIPIOS DE CERRO AZUL E DOUTOR ULYSSES, NO ESTADO DO PARANA;2022;Departamento de Geociências
+563;3500ec17-38b8-4ffc-90c4-84a5f40ada50;AS TEMATICAS DAS COMUNIDADES URBANAS E RURAIS NA COMPOSICAO DA PRODUCAO GEOGRAFICA BRASILEIRA;2022;Departamento de Geociências
+564;215a558b-b373-46f8-8fbf-80c599964ce5;ESTUDO DE SOFTWARES DE SIMULACAO DE PROCESSO DE FABRICACAO DE CERVEJA;2022;Departamento de Engenharia de Alimentos
+565;ca7d3577-8213-4df3-b1a5-727a5d6599d7;"""Grupoides em Combinatoria""";2020;Departamento de Matemática e Estatística
+566;46a432c5-91b7-4ee4-b4fc-2618de8e99a2;INTERFERENCIA DE PROTOTIPOS ESTRUTURAIS EM ESCOAMENTOS LIVRES COM USO DE TRACADORES ELETROLITICOS;2020;Departamento de Engenharia Civil
+567;46a432c5-91b7-4ee4-b4fc-2618de8e99a2;PROTOTIPAGEM DE DISPOSITIVOS ESTRUTURAIS E DESENVOLVIMENTO DE BANCADA DE ENSAIOS HIDRODINAMICOS;2020;Departamento de Engenharia Civil
+568;f2d9731c-f044-4487-b143-ea99af870305;Introducao aos Espacos Metricos;2019;Departamento de Matemática e Estatística
+569;f2d9731c-f044-4487-b143-ea99af870305;Introducao a Analise Conjunta de Fatores baseada em Escolhas com Aplicacao;2022;Departamento de Matemática e Estatística
+570;3063eb52-726c-410a-94cc-f4f4e589f2c4;HIDROLISADOS PROTEICOS OBTIDOS POR VIA ENZIMATICA;2019;Departamento de Engenharia de Alimentos
+571;558d7e3a-5380-4cf2-ab8e-37618d66832f;ADITIVOS ANTIOXIDANTES PARA BIODIESEL;2021;Departamento de Química
+572;558d7e3a-5380-4cf2-ab8e-37618d66832f;Antioxidantes de Extratos de I. batatas L. Lam para biodiesel;2022;Departamento de Química
+573;2c5406e3-ca1c-4925-a542-1ad4eee43ca0;MORFOPEDOGENESE na perspectiva das interacoes no processo de erosivos, infiltracao e contaminacao na FLORESTA NACIONAL DE PIRAI DO SUL;2019;Departamento de Geociências
+574;2c5406e3-ca1c-4925-a542-1ad4eee43ca0;FEICOES EROSIVAS EM CULTIVO DE CANA-DE-ACUCAR NO MUNICIPIO DE UMUARAMA E XAMBRE: CAUSAS E CONSEQUENCIAS;2019;Departamento de Geociências
+575;2c5406e3-ca1c-4925-a542-1ad4eee43ca0;RECLASSIFICACAO DO AMBIENTE FLUVIAL NO ESPACO URBANO DE PONTA GROSSA- PR: um novo olhar;2019;Departamento de Geociências
+576;016be3b2-e36f-430b-8a84-7fdb47b9de0b;BACIA DE EVAPOTRANSPIRACAO PARA O TRATAMENTO DE AGUAS NEGRAS DOMESTICAS;2020;Departamento de Engenharia Civil
+577;016be3b2-e36f-430b-8a84-7fdb47b9de0b;BIODEGRADACAO DE AGUAS CINZAS DOMESTICAS EM TANQUE BIOLOGICO DE EVAPOTRANSPIRACAO EM ESCALA PILOTO;2021;Departamento de Engenharia Civil
+578;016be3b2-e36f-430b-8a84-7fdb47b9de0b;PRODUTO ECOLOGICO E SEGURO DE LODO DE ESGOTO DE USO AGRICOLA: SMART SLUDGE - CONCEPCAO E DESENVOLVIMENTO;2021;Departamento de Engenharia Civil
+579;016be3b2-e36f-430b-8a84-7fdb47b9de0b;CARACTERIZACAO E AVALIACAO DE BIOSSOLIDO DE ESTACAO DE TRATAMENTO DE ESGOTO PARA USOS MULTIPLOS;2022;Departamento de Engenharia Civil
+580;016be3b2-e36f-430b-8a84-7fdb47b9de0b;ACOMPANHAMENTO DA DEGRADACAO DE BIOSSOLIDO GRANULADO EM SOLO;2022;Departamento de Engenharia Civil
+581;016be3b2-e36f-430b-8a84-7fdb47b9de0b;APRIMORAMENTO DE BIOSSOLIDO GRANULADO;2022;Departamento de Engenharia Civil
+582;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;INFLUENCIA DA ESTACAO DO ANO NA CARGA PARASITARIA DE MATRIZES SUINAS CRIADAS EM SISTEMA INTENSIVO DE CRIACAO AO AR LIVRE/SISCAL;2019;Departamento de Zootecnia
+583;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;CRIACAO DE TENEBRIOS (Tenebrio Molitor) E DESENVOLVIMENTO DE FARINHA PROTEICA PARA UTILIZACAO NA ALIMENTACAO ANIMAL;2019;Departamento de Zootecnia
+584;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;CARACTERIZACAO FENOTIPICA E MORFOMETRICA DE SUINOS CRIADOS NA FAZENDA ESCOLA CAPAO DA ONCA;2020;Departamento de Zootecnia
+585;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;USO DE OLEOS ESSENCIAIS NA DIETA INICIAL DE FRANGOS DE CORTE;2020;Departamento de Zootecnia
+586;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;VARIABILIDADE FENOTIPICA EM SUINOS DA RACA MOURA: CARACTERISTICAS QUALITATIVAS E ZOOMETRICAS;2021;Departamento de Zootecnia
+587;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;MORFOMETRIA INTESTINAL DE FRANGOS DE CORTESUPLEMENTADOS COM OLEOS ESSENCIAIS NA FASE INICIAL;2021;Departamento de Zootecnia
+588;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;EFEITO DE OLEOS ESSENCIAIS NO DESEMPENHO DE FRANGOS DE CORTE;2022;Departamento de Zootecnia
+589;7052a95c-9228-4cb6-b9ba-10a0dfdecae0;EZOOGNOSIA DOS SUINOS DA RACA MOURA DA FAZENDA ESCOLA CAPAO DA ONCA;2023;Departamento de Zootecnia
+590;162d8b24-754b-4da7-9e94-05ef6cc3d887;Framework para Padrao de Metadados;2019;Departamento de Informática
+591;162d8b24-754b-4da7-9e94-05ef6cc3d887;Aplicacao De Blockchain em Sistema Informatizado voltado para o Agronegocio;2019;Departamento de Informática
+592;162d8b24-754b-4da7-9e94-05ef6cc3d887;Especificacao e Sistematizacao de um Ambiente de Informacoes Agronomicas;2019;Departamento de Informática
+593;162d8b24-754b-4da7-9e94-05ef6cc3d887;Desenvolvimento de um Sensor para Classificacao de Graos;2020;Departamento de Informática
+594;162d8b24-754b-4da7-9e94-05ef6cc3d887;Tecnologia para o plantio de soja confinada em ambiente subterraneo;2021;Departamento de Informática
+595;162d8b24-754b-4da7-9e94-05ef6cc3d887;PROCESSO DE INDEXACAO DE IMAGENS DE DOENCAS EM PLANTAS;2022;Departamento de Informática
+596;162d8b24-754b-4da7-9e94-05ef6cc3d887;GERACAO AUTOMATICA DE METADADOS A PARTIR DE IMAGENS DE CULTURAS AGRICOLAS;2022;Departamento de Informática
+597;e08c91a9-26f5-4795-941c-c9db3f3e5c85;ESTUDO DA VIABILIDADE DE ADAPTACAO DAS SINTESES DO AAS E DO SALICILATO DE METILA COM VISTAS A ATENDER AOS PRINCIPIOS DA QUIMICA VERDE;2019;Departamento de Química
+598;e08c91a9-26f5-4795-941c-c9db3f3e5c85;AVALIACAO DA VERDURA QUIMICA DAS SINTESES DO SALICILATO DE METILA E DA ACETANILIDA;2020;Departamento de Química
+599;e08c91a9-26f5-4795-941c-c9db3f3e5c85;SINTESE DO SALICILATO DE METILA EM MICRO-ONDAS DOMESTICO: AVALIACAO PARA UMA PROPOSTA DE ENSINO;2022;Departamento de Química
+600;e08c91a9-26f5-4795-941c-c9db3f3e5c85;AVALIACAO DA VERDURA DOS METODOS SINTETICOS PARA OBTENCAO DO SALICILATO DE ETILA PARA APLICACAO NO ENSINO DE QUIMICA;2022;Departamento de Química
+601;e971602b-e274-47ac-a1e0-e3650827797f;Avaliacao de amostras comerciais de azeite de oliva por tecnicas espectroscopicas, teor de compostos fenolicos e atividade antioxidante;2019;Departamento de Engenharia de Alimentos
+602;e971602b-e274-47ac-a1e0-e3650827797f;CARACTERIZACAO TERMICA E AVALIACAO DA QUALIDADE DE AMOSTRAS COMERCIAIS DE AZEITE DE OLIVA;2019;Departamento de Engenharia de Alimentos
+603;e971602b-e274-47ac-a1e0-e3650827797f;ELABORACAO DE CERVEJA ARTESANAL ESTILO AMERICAN PALE ALE ADICIONADA DE CASCAS DE ARACA (Psidium cattleianum);2020;Departamento de Engenharia de Alimentos
+604;e971602b-e274-47ac-a1e0-e3650827797f;Avaliacao da qualidade e da estabilidade oxidativa de biscoitos de polvilho elaborados com oleogel;2021;Departamento de Engenharia de Alimentos
+605;e971602b-e274-47ac-a1e0-e3650827797f;OLEOGEL COMO SUBSTITUTO DE GORDURA DE PALMA EM PRODUTO TIPO;2022;Departamento de Engenharia de Alimentos
+606;e971602b-e274-47ac-a1e0-e3650827797f;SISTEMA BIFASICO HIDROGEL-OLEOGEL E SUA APLICACAO EM IOGURTE;2022;Departamento de Engenharia de Alimentos
+607;e971602b-e274-47ac-a1e0-e3650827797f;UTILIZACAO DE GEIS MISTOS COMO SUBSTITUTOS DE GORDURA EM EMULSOES CARNEAS;2023;Departamento de Engenharia de Alimentos
+608;e971602b-e274-47ac-a1e0-e3650827797f;ESTUDO DA SUBSTITUICAO TOTAL E/OU PARCIAL DA GORDURA DE ORIGEM LACTEA POR GEIS MISTOS EM QUEIJOS PROCESSADOS;2023;Departamento de Engenharia de Alimentos
+609;8de913a0-d0f2-4444-b242-0216fbe8ddd1;USO DE Trichoderma no CONTROLE DE ANTRACNOSE NA CULTURA DO FEIJAO;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+610;8de913a0-d0f2-4444-b242-0216fbe8ddd1;INDUCAO DE FASEOLINA EM DIFERENTES CULTIVARES DE FEIJAO.;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+611;8de913a0-d0f2-4444-b242-0216fbe8ddd1;CONTROLE BIOLOGICO DA ANTRACNOSE NO FEIJAO A CAMPO;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+612;8de913a0-d0f2-4444-b242-0216fbe8ddd1;Protecao contra antracnose em feijao por Trichoderma spp.;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+613;8de913a0-d0f2-4444-b242-0216fbe8ddd1;Tratamento de sementes para inducao de resistencia em plantulas de feijao com Trichoderma spp.;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+614;8de913a0-d0f2-4444-b242-0216fbe8ddd1;Tratamento de sementes para controle de Colletotrichum lindemuthianum em plantulas de feijao com Trichoderma spp.;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+615;8de913a0-d0f2-4444-b242-0216fbe8ddd1;BIOCONTROLE DE Sclerotinia sclerotiorum POR ESPECIES DE Trichoderma EM ALFACE;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+616;8de913a0-d0f2-4444-b242-0216fbe8ddd1;INDUCAO DE FASEOLINA EM HIPOCOTILOS DE FEIJAO POR PRODUTOS ALTERNATIVOS;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+617;8de913a0-d0f2-4444-b242-0216fbe8ddd1;EFEITO DE PRODUTOS ALTERNATIVOS NO CRESCIMENTO DE Pseudocercospora griseola in vitro;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+618;8de913a0-d0f2-4444-b242-0216fbe8ddd1;PROTECAO CONTRA MANCHA ANGULAR NA CULTURA DO FEIJAO, A CAMPO, COM PRODUTOS ALTERNATIVOS;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+619;8de913a0-d0f2-4444-b242-0216fbe8ddd1;LEVANTAMENTO DE DOENCAS FUNGICAS NA CULTURA DO TREMOCO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+620;8de913a0-d0f2-4444-b242-0216fbe8ddd1;INDUCAO DE RESISTENCIA A MANCHA ANGULAR POR PRODUTOS ALTERNATIVOS APLICADOS EM PLANTAS DE FEIJAO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+621;8de913a0-d0f2-4444-b242-0216fbe8ddd1;PRODUTOS ALTERNATIVOS PROTEGEM A CULTURA DO FEIJAO CONTRA A MANCHA ANGULAR?;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+622;789f7900-a040-4f29-83b6-2398b0793135;Propriedades antioxidantes como ferramentas de caracterizacao de PANCs, Calendula suffruticosa Vahl como modelo;2020;Departamento de Química
+623;789f7900-a040-4f29-83b6-2398b0793135;Atividades antioxidantes e bioatividades como caracterizacao de batata-doce (Ipomoea batatas L.);2021;Departamento de Química
+624;789f7900-a040-4f29-83b6-2398b0793135;POTENCIAIS APLICACOES DE Dioscorea bulbifera L.;2022;Departamento de Química
+625;87376d6e-e57a-490f-915b-fdd7aefbceb8;Simulacao numerica por elementos finitos da solidificacao de acos inoxidaveis;2019;Departamento de Matemática e Estatística
+626;87376d6e-e57a-490f-915b-fdd7aefbceb8;Estudo da resistencia a corrosao pelas tecnicas eletroquimicas do aco inoxidavel fundidas da classe CF-8M;2019;Departamento de Matemática e Estatística
+627;bf475de6-e67c-40df-b2d5-55a3e0170353;ESTABILIDADE DE AGREGADOS INFLUENCIADO POR DIFERENTES FORMAS DE PREPARO E DOSES DE CALCARIO EM UM CAMBISSOLO HAPLICO ALUMINICO;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+628;bf475de6-e67c-40df-b2d5-55a3e0170353;RESISTENCIA DO SOLO EM ESCALA DE ENCOSTA E SUB-BACIA HIDROGRAFICA EM AREAS CULTIVADAS NO SISTEMA PLANTIO DIRETO;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+629;bf475de6-e67c-40df-b2d5-55a3e0170353;DISTRIBUICAO ESPACIAL DA AGREGACAO DE SOLOS CULTIVADOS EM PLANTIO DIRETO EM NIVEL DE ENCOSTA E SUB-BACIA HIDROGRAFICA;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+630;bf475de6-e67c-40df-b2d5-55a3e0170353;Argila dispersa em agua influenciada pela textura e materia organica do solo na bacia do Ribeirao da Onca, Ponta Grossa, Parana.;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+631;bf475de6-e67c-40df-b2d5-55a3e0170353;CAPACIDADE DE USO E TAXA DE ADEQUACAO DE USO DAS TERRAS DA BACIA DO RIBEIRAO DA ONCA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+632;bf475de6-e67c-40df-b2d5-55a3e0170353;LEVANTAMENTO DE SOLOS DA BACIA DO RIBEIRAO DA ONCA, PONTA GROSSA, PARANA;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+633;bf475de6-e67c-40df-b2d5-55a3e0170353;DINAMICA TEMPORAL DA DENSIDADE DO SOLO E DO GRAU DE COMPACTACAO EM AREA CULTIVADA SOB PLANTIO DIRETO TERRACEADO;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+634;bf475de6-e67c-40df-b2d5-55a3e0170353;FUNCOES DE PEDOTRANSFERENCIA PARA ESTIMATIVA DA ESTABILIDADE DE AGREGADOS NA MICROBACIA DO RIBEIRAO DA ONCA, PONTA GROSSA, PARANA;2023;Departamento de Ciências do Solo e Engenharia Agrícola
+635;b98dcf1f-cbfe-41e2-a258-c65397d1a78b;AGENCIAMENTOS DA AGROBIODIVERSIDADE DE COMUNIDADES RURAIS TRADICIONAIS DA REGIAO DA SERRA DAS ALMAS-PR, EM CONTEXTO DE IMPLANTACAO DE UM NOVO MODELO TECNOLOGICO AGROFLORESTAL;2019;Departamento de Geociências
+636;b98dcf1f-cbfe-41e2-a258-c65397d1a78b;"""SABERES AGROECOLOGICOS LOCAIS E CIENTIFICOS: TECENDO RELACOES POR MEIO DE SISTEMAS AGROFLORESTAIS EM COMUNIDADES RURAIS TRADICIONAIS DA REGIAO DA SERRA DAS ALMAS-PR""";2020;Departamento de Geociências
+637;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;COMPATIBILIDADE ENTRE RIZOBACTERIAS E INSETICIDAS PARA O CONTROLE QUIMICO DE CIGARRINHAS DO MILHO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+638;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;INFESTACAO DE Dalbulus maidis (HEMIPTERA: CICADELLIDAE) EM PLANTAS DE MILHO INOCULADAS COM RIZOBACTERIAS;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+639;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;USO DE BIOINOCULANTES COMO INDUTORES DE RESISTENCIA A PULGOES DO TRIGO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+640;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;BIOINOCULACAO DA SOJA PARA INDUCAO DE RESISTENCIA AO PERCEVEJO-MARROM Euschistus heros (HEMIPTERA: PENTATOMIDAE);2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+641;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;USO DE DRONES NA APLICACAO DE INSETICIDAS PARA O CONTROLE DE CIGARRINHAS DO MILHO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+642;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;ASSOCIACAO DE ACEFATO E Isaria fumosorosea PARA O CONTROLE DE Dalbulus maidis EM MILHO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+643;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;EFICACIA DE Metarhizium anisopliae EM Rachiplusia nu;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+644;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;ASSOCIACAO DE METOMIL E Isaria fumosorosea PARA O CONTROLE DE Dalbulus maidis EM MILHO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+645;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;MANEJO MICROBIOLOGICO DE Rachiplusia nu EM SOJA;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+646;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;APLICACAO DE DESALOJANTE COM INSETICIDAS BIOLOGICOS NO MANEJO DE CIGARRINHAS DO MILHO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+647;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;APLICACAO DE DESALOJANTE ASSOCIADO A METOMIL NO MANEJO DE CIGARRINHA DO MILHO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+648;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;Associacao de Metomil e Isaria fumosorosea no manejo de cigarrinha do milho;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+649;6e13e3ea-ace5-4cee-ac9a-66e1f98e0cab;ASSOCIACAO QUIMICA E BIOLOGICA NO MANEJO DE CIGARRINHA DO MILHO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+650;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UM BRONZE;2019;Departamento de Engenharia de Materiais
+651;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;AVALIACAO DE NOVA ROTA PARA AUMENTO DE RESISTENCIA MECANICA E DUCTILIDADE DE LIGAS AERONAUTICAS DE TiAlV;2019;Departamento de Engenharia de Materiais
+652;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;DEFORMACAO CRIOGENICA DE UM BRONZE EM DIFERENTES TAXAS;2020;Departamento de Engenharia de Materiais
+653;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UM LATAO COMERCIAL;2020;Departamento de Engenharia de Materiais
+654;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;AVALIACAO DE NOVA ROTA PARA AUMENTO DE RESISTENCIA MECANICA E DUCTILIDADE DE LIGAS AERONAUTICAS DE AA7050;2020;Departamento de Engenharia de Materiais
+655;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA ESTAMPABILIDADE CRIOGENICA DE UMA CHAPA DE LATAO COMERCIAL;2021;Departamento de Engenharia de Materiais
+656;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA ESTAMPABILIDADE CRIOGENICA DE UMA CHAPA DE BRONZE COMERCIAL;2021;Departamento de Engenharia de Materiais
+657;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;DEFORMACAO CRIOGENICA DE UM BRONZE EM DIFERENTES TAXAS - CONTINUACAO;2021;Departamento de Engenharia de Materiais
+658;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE LIGAS AERONAUTICAS DE AA7050;2021;Departamento de Engenharia de Materiais
+659;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA ESTAMPABILIDADE CRIOGENICA DE UMA CHAPA DE LATAO COMERCIAL - CONTINUACAO;2022;Departamento de Engenharia de Materiais
+660;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA ESTAMPABILIDADE CRIOGENICA DE UMA CHAPA DE BRONZE COMERCIAL - CONTINUACAO;2022;Departamento de Engenharia de Materiais
+661;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UM ACO INOXIDAVEL FERRITICO AISI 430;2022;Departamento de Engenharia de Materiais
+662;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UM ACO INOXIDAVEL AUSTENITICO AISI 304;2022;Departamento de Engenharia de Materiais
+663;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UMA LIGA TiAlV - Continuacao;2022;Departamento de Engenharia de Materiais
+664;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;DESENVOLVIMENTO DE NANOPARTICULAS MICROBIOCIDAS A BASE DE NIOBIO PARA PRODUCAO DE FILAMENTOS DE IMPRESSAO 3D;2022;Departamento de Engenharia de Materiais
+665;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA ESTAMPABILIDADE CRIOGENICA DE UMA CHAPA DE ACO INOXIDAVEL AISI 430;2023;Departamento de Engenharia de Materiais
+666;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UM ACO INOXIDAVEL SUPERDUPLEX 2507;2023;Departamento de Engenharia de Materiais
+667;64fcb2e3-bae6-4577-9e47-39f6ccd8df7d;ESTUDO DA DEFORMACAO CRIOGENICA DE UMA LIGA DE TITANIO GRAU 1;2023;Departamento de Engenharia de Materiais
+668;d82b9c49-c73e-49f9-b42e-7a1d7f48fba6;ESTUDO DO COMPORTAMENTO FISICO-MECANICO DOS AGREGADOS RECICLADOS TRATADOS COM CARBONATACAO;2020;Departamento de Engenharia Civil
+669;d82b9c49-c73e-49f9-b42e-7a1d7f48fba6;ESTUDO DO RESIDUO DE PO DE CERAMICA VERMELHA COMO AGENTE MITIGADOR DO ATAQUE EXTERNO POR SULFATOS;2021;Departamento de Engenharia Civil
+670;d82b9c49-c73e-49f9-b42e-7a1d7f48fba6;ANALISE DO IMPACTO AMBIENTAL DA INCORPORACAO DE AGREGADO MIUDO RECICLADO EM MISTURAS DE CONCRETO PERMEAVEL;2022;Departamento de Engenharia Civil
+671;a7c2b47e-76fa-42ab-a998-b40c88c56aa3;DESENVOLVIMENTO DE METODOLOGIA ANALITICA PARA DETERMINACAO DE CHUMBO EM AMOSTRAS AQUOSAS UTILIZANDO SOFTWARE LIVRE FOTOMETRIX;2022;Departamento de Química
+672;700fd8fd-4b63-4b15-8fe2-121567748d80;POTENCIAL REGIONAL DE SORGO SACARINO PARA PRODUCAO DE BIOCOMBUSTIVEL;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+673;700fd8fd-4b63-4b15-8fe2-121567748d80;ANALISE DE CRESCIMENTO DE PLANTAS DE BATATA-DOCE PARA PRODUCAO DE BIOCOMBUSTIVEL;2019;Departamento de Ciências do Solo e Engenharia Agrícola
+674;700fd8fd-4b63-4b15-8fe2-121567748d80;CARACTERIZACAO MORFOLOGICA DE GENOTIPOS DE BATATA-DOCE;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+675;700fd8fd-4b63-4b15-8fe2-121567748d80;RENDIMENTO DE ETANOL DE SORGO SACARINO DE VARIEDADES EM FUNCAO DE ESTADIOS FENOLOGICOS;2020;Departamento de Ciências do Solo e Engenharia Agrícola
+676;700fd8fd-4b63-4b15-8fe2-121567748d80;POTENCIAL PRODUTIVO DE ACESSO DE BATATA-DOCE;2021;Departamento de Ciências do Solo e Engenharia Agrícola
+677;700fd8fd-4b63-4b15-8fe2-121567748d80;RENDIMENTO DE ETANOL DE SORGO SACARINO;2022;Departamento de Ciências do Solo e Engenharia Agrícola
+678;700fd8fd-4b63-4b15-8fe2-121567748d80;DETERMINACAO DE AMIDO EM GENOTIPOS DE BATATA-DOCE (Ipomoea batatas L.);2022;Departamento de Ciências do Solo e Engenharia Agrícola
+679;0ae13898-f8d6-4bff-9625-9fad6e8a8abc;INCORPORACAO DE LACTULOSE POR ULTRASOM NO AMIDO DE ARROZ ORGANICO;2019;Departamento de Engenharia de Alimentos
+680;0ae13898-f8d6-4bff-9625-9fad6e8a8abc;Modificacoes Fisicas e Analises Termica e Fisico Quimica do Amido da Semente Mirabilis jalapa;2020;Departamento de Engenharia de Alimentos
+681;0ae13898-f8d6-4bff-9625-9fad6e8a8abc;INCORPORACAO DA LACTULOSE NO AMIDO DA SEMENTE DE Mirabilis jalapa;2021;Departamento de Engenharia de Alimentos
+682;0ae13898-f8d6-4bff-9625-9fad6e8a8abc;APLICACAO DE AMIDO DO CAROCO DA AMENDOA DE MANGA PALMER (MANGIFERA INDICA L.) EM BISCOITOS TIPO SEQUILHOS;2022;Departamento de Engenharia de Alimentos
+683;50833fdd-8dcc-448c-b454-376b301da0e7;ANALISE DAS COMUNIDADES MICROBIANAS ENVOLVIDAS NO CICLO DO NITROGENIO EM SOLO ALAGADO POR USINA HIDRELETRICA;2019;Departamento de Química
+684;50833fdd-8dcc-448c-b454-376b301da0e7;INFLUENCIA DO BIOCHAR E DA INOCULACAO EM PROMOVER O DESENVOLVIMENTO INICIAL DAS PLANTULAS DE GRAMINEAS;2019;Departamento de Química
+685;50833fdd-8dcc-448c-b454-376b301da0e7;Avaliacao da quimiotaxia de Azospirillum brasilense em resposta a exsudatos radiculares de plantas;2020;Departamento de Química
+686;50833fdd-8dcc-448c-b454-376b301da0e7;Otimizacao do uso de Azospirillum brasilense no sulco de semeadura;2021;Departamento de Química
+687;50833fdd-8dcc-448c-b454-376b301da0e7;INTERACAO DE DIFERENTES POPULACOES DE Azospirillum brasilense COMPLEXADAS EM HIDROGEL COM GRAMINEAS;2022;Departamento de Química
+688;50833fdd-8dcc-448c-b454-376b301da0e7;TEORES DE GLOMALINA COMO INDICADOR DE QUALIDADE DO SOLO EM SISTEMA PLANTIO DIRETO E TERRACEMENTO AGRICOLA;2022;Departamento de Química
+689;50833fdd-8dcc-448c-b454-376b301da0e7;CARACTERIZACAO BIOQUIMICA DE BACTERIAS ISOLADAS DE AREAS CONTAMINADAS POR PETROLEO;2022;Departamento de Química
+690;10d23bc9-4c53-4be4-9030-dcb45c90f196;IMPACTO DA TEMPERATURA DA SUPERFICIE CORPOREA DE FEMEAS BOVINAS NA REPRODUCAO E NA PRODUCAO DE LEITE;2019;Departamento de Zootecnia
+691;10d23bc9-4c53-4be4-9030-dcb45c90f196;EFEITO DO USO DE OLEO FUNCIONAL NA DIETA DE CORDEIROS;2019;Departamento de Zootecnia
+692;10d23bc9-4c53-4be4-9030-dcb45c90f196;RELACAO DA CONCENTRACAO DE INSULINA NO COLOSTRO DE FEMEAS BOVINAS COM METABOLITOS PLASMATICOS E ANALISE PARASTOLOGICA EM BEZERROS;2020;Departamento de Zootecnia
+693;10d23bc9-4c53-4be4-9030-dcb45c90f196;RELACAO DA CONCENTRACAO DE INSULINA NO COLOSTRO DE FEMEAS BOVINAS COM METABOLITOS PLASMATICOS, DESEMPENHO EM BEZERROS;2020;Departamento de Zootecnia
+694;10d23bc9-4c53-4be4-9030-dcb45c90f196;DESEMPENHO DE BOVINOS E INFECCOES A ECTOPARASITAS FRENTE A DIVERSIFICACAO NO ECOSSISTEMA PASTAGEM: SOBRESSEMEADURA E ASSOCIACAO COM ARVORES;2020;Departamento de Zootecnia
+695;10d23bc9-4c53-4be4-9030-dcb45c90f196;AVALIACAO SANGUINEA NO CONTROLE DA VERMINOSE OVINA;2021;Departamento de Zootecnia
+696;10d23bc9-4c53-4be4-9030-dcb45c90f196;CONTAMINACAO AMBIENTAL POR LARVAS INFECTANTES DE NEMATODEOS GASTRINTESTINAIS EM AREA PASTEJADA POR OVELHAS TRATADAS COM BIOVERM(r): AVALIACAO ATRAVES DA COLETA DE PASTO;2021;Departamento de Zootecnia
+697;10d23bc9-4c53-4be4-9030-dcb45c90f196;CONTROLE DE NEMATODEOS GASTRINTESTINAIS EM OVELHAS TRATADAS COM BIOVERM;2021;Departamento de Zootecnia
+698;10d23bc9-4c53-4be4-9030-dcb45c90f196;CONTAMINACAO AMBIENTAL POR LARVAS INFECTANTES DE NEMATODEOS GASTRINTESTINAIS EM AREA PASTEJADA POR OVELHAS TRATADAS COM BIOVERM PLUS(r): AVALIACAO ATRAVES DA UTILIZACAO DE CORDEIROS TRACADORES;2022;Departamento de Zootecnia
+699;10d23bc9-4c53-4be4-9030-dcb45c90f196;DESEMPENHO DE OVELHAS SUBMETIDAS OU NAO A MAMADA CONTROLADA;2023;Departamento de Zootecnia
+700;10d23bc9-4c53-4be4-9030-dcb45c90f196;AVALIACAO DA CONTAMINACAO AMBIENTAL DE PASTOS OCUPADOS POR OVINOS SUBMETIDOS OU NAO A MAMADA CONTROLADA;2023;Departamento de Zootecnia
+701;10d23bc9-4c53-4be4-9030-dcb45c90f196;INFECCAO POR NEMATODEOS GASTRINTESTINIAS DE CORDEIROS SUBMETIDOS OU NAO A MAMADA CONTROLADA;2023;Departamento de Zootecnia
+702;b879c8d6-cee0-400e-bfd6-644f4d54537b;AVALIACAO DO RISCO DE BASE DO BOI GORDO NAS PRINCIPAIS REGIOES PRODUTORAS DO PARANA;2019;Departamento de Zootecnia
+703;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;AVALIACAO DO EFEITO DA TEMPERATURA DE COZIMENTO DA MASSA E TEMPO DE ESTOCAGEM EM CAMARA FRIA NA MATURACAO DE QUEIJOS COM FERMENTACAO PROPIONICA;2019;Departamento de Engenharia de Alimentos
+704;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;AVALIACAO DOS EFEITOS DA TEMPERATURA DE SECAGEM NAS CARACTERISTICAS DE FOLHAS DE ORA-PRO-NOBIS (Pereskia aculeata Mill.);2020;Departamento de Engenharia de Alimentos
+705;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;UTILIZACAO DE FARINHA DE BAGACO DE MALTE COMO INGREDIENTE EM BEBIDA LACTEA NAO FERMENTADA;2021;Departamento de Engenharia de Alimentos
+706;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;COMPOSTOS BIOATIVOS E COMPOSICAO NUTRICIONAL DE PLANTAS ALIMENTICIAS NAO CONVENCIONAIS;2022;Departamento de Engenharia de Alimentos
+707;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;AVALIACAO DO EFEITO DE COBERTURAS BIODEGRADAVEIS NAS CARACTERISTICAS FISICO-QUIMICAS E DE TEXTURA DE QUEIJO SEMI-DURO;2022;Departamento de Engenharia de Alimentos
+708;34c9c0d4-d939-4e5a-8ba0-d84ca0aa19cd;AVALIACAO DO POTENCIAL TECNOLOGICO DE AMIDOS DE FONTES NAO CONVENCIONAIS COMO ESPESSANTES EM BEBIDA LACTEA NAO FERMENTADA;2023;Departamento de Engenharia de Alimentos
+709;3d6ea327-a206-469a-a74c-737b4e62fc06;Identificacao e analise de genes diferencialmente expressos durante a maturacao de melao amarelo relacionados ao metabolismo de auxinas;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+710;3d6ea327-a206-469a-a74c-737b4e62fc06;Transcritomica do melao (Cucumis melo) vr. Amarelo, em diferentes estagios de amadurecimento, visando a compreensao da degradacao de parede celular no fruto.;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+711;3d6ea327-a206-469a-a74c-737b4e62fc06;INFLUENCIA DA DENSIDADE DE PLANTAS DE BATATA CV. ATLANTIC SOB DIFERENTES METODOS DE MICROPROPAGACAO;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+712;3d6ea327-a206-469a-a74c-737b4e62fc06;EFEITO DE AGENTES GELIFICANTES E DA SUBSTITUICAO PARCIAL DO AGAR NA PRODUCAO IN VITRO DE PLANTAS DE BATATA;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+713;3d6ea327-a206-469a-a74c-737b4e62fc06;ANALISE DA EXPRESSAO DOS GENES FATOR DE RESPOSTA A AUXINA 1 (ARF) E DO INDOL-3-ACIDO ACETICO AMIDO SINTETASE GH3.5-LIKE E SUA IMPLICACAO NA MATURACAO DO MELAO;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+714;3d6ea327-a206-469a-a74c-737b4e62fc06;INFLUENCIA DO USO DE FERTILIZANTE DE LIBERACAO CONTROLADA NA QUALIDADE MORFOLOGICA DE MUDAS DE MIRTILO CV. CLIMAX;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+715;3d6ea327-a206-469a-a74c-737b4e62fc06;ANALISE DA EXPRESSAO DOS GENES POLIGALACTURONASE-1 NAO-CATALITICA SUBUNIDADE BETA (MELO3C010662) E a-GALACTOSIDASE (MELO3C010698) E SUA IMPLICACAO NA MATURACAO DO MELAO;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+716;3d6ea327-a206-469a-a74c-737b4e62fc06;CONSERVACAO IN VITRO DE LUPULO (Humulus lupulus) - CV. CASCADE E NUGGET SOB CONDICOES DE CRESCIMENTO LENTO;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+717;3d6ea327-a206-469a-a74c-737b4e62fc06;Criacao de um Modelo de Predicao de qualidade de vinhos com uso de e-nose;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+718;3d6ea327-a206-469a-a74c-737b4e62fc06;EXPRESSAO GENICA DE PROTEINA RESPONSIVA A AUXINA (AUX/IAA) NO AMADURECIMENTO DE MELAO AMARELO NAO - CLIMATERICO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+719;3d6ea327-a206-469a-a74c-737b4e62fc06;DIFERENTES CONCENTRACOES DE ACIDO INDOL BUTIRICO NO ENRAIZAMENTO DE ESTACAS DE CULTIVARES DE MIRTILO DE CLIMA QUENTE PROVENINTES DE RESGATE VEGETATIVO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+720;3d6ea327-a206-469a-a74c-737b4e62fc06;INFLUENCIA DE DIFERENTES TELADOS NO CULTIVO PROTEGIDO DE Clivia miniata (AMARYLLIDACEAE);2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+721;3d6ea327-a206-469a-a74c-737b4e62fc06;Eficiencia das estirpes Azospirillum brasiliense ab-v5 e HM053 no desenvolvimento e producao de morango (Fragaria x ananassa, Duch. cv. Florida Festival);2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+722;3d6ea327-a206-469a-a74c-737b4e62fc06;EFEITO DO ACIDO ABSCISICO NA QUALIDADE POS - COLHEITA DE FRUTOS DE MELAO CLIMATERICO (Cucumis melo L.) cv. GAUCHO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+723;3d6ea327-a206-469a-a74c-737b4e62fc06;Analise da a expressao a nivel transcricional de genes CmXYL e CmXTH1 de parede celular envolvidos no amadurecimento de frutos de melao amarelo.;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+724;3d6ea327-a206-469a-a74c-737b4e62fc06;EMBRIOGENESE SOMATICA INDIRETA A PARTIR DE EMBRIOES ZIGOTICOS DA CLIVIA MINIATA;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+725;3d6ea327-a206-469a-a74c-737b4e62fc06;Avaliacao do desempenho de sementes aditivadas de melao;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+726;3d6ea327-a206-469a-a74c-737b4e62fc06;POTENCIAL DO USO DE DIFERENTES ESTIRPES DE AZOSPIRILLUM BRASILENSE NO DESENVOLVIMENTO E PRODUCAO DE MORANGUEIROS;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+727;3d6ea327-a206-469a-a74c-737b4e62fc06;Analise da expressao a nivel transcricional de genes CmXYL e CmXTH1 de parede celular envolvidos no amadurecimento de frutos de melao amarelo;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+728;3d6ea327-a206-469a-a74c-737b4e62fc06;APLICACAO DE UM BIORREATOR DE IMERSAO TEMPORARIA EM MICROPROPAGACAO DE Clivia miniata;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+729;3d6ea327-a206-469a-a74c-737b4e62fc06;Analise de metabolomica atraves da tecnica de RMN aplicada ao amadurecimento de meloes climatericos e nao-climatericos;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+730;3d6ea327-a206-469a-a74c-737b4e62fc06;RALEIO COM TIOSSULFATO DE AMONIO NO PESSEGUEIRO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+731;3d6ea327-a206-469a-a74c-737b4e62fc06;ANALISE DA EXPRESSAO DE GENES DA VIA DE TRANSDUCAO DE SINAL DE AUXINA NA MATURACAO DE MELAO NAO - CLIMATERICO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+732;a5795099-8061-42e1-937f-fce31fbdbd47;DESEMPENHO AGRONOMICO DE GENOTIPOS MELHORADOS DE SOJA;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+733;a5795099-8061-42e1-937f-fce31fbdbd47;EXPRESSAO DE GENES DE TOLERANCIA AO ALUMINIO EM LINHAGENS MELHORADAS DE TRIGO;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+734;a5795099-8061-42e1-937f-fce31fbdbd47;SELECAO DE GENOTIPOS ADAPTADOS PARA A PRODUCAO DE MILHO VERDE;2019;Departamento de Fitotecnia e Fitossanidade/DEFITO
+735;a5795099-8061-42e1-937f-fce31fbdbd47;CARACTERIZACAO DA TOLERANCIA AO ESTRESSE POR CALOR EM LINHAGENS DE TRIGO;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+736;a5795099-8061-42e1-937f-fce31fbdbd47;AVALIACAO DA QUALIDADE INDUSTRIAL DE LINHAGENS DE TRIGO ADAPTADAS A REGIAO DOS CAMPOS GERAIS;2020;Departamento de Fitotecnia e Fitossanidade/DEFITO
+737;a5795099-8061-42e1-937f-fce31fbdbd47;PROSPECCAO DE FONTES DE TOLERANCIA AO CALOR EM GENOTIPOS DE TRIGO SUBMETIDOS A SAFRA DE VERAO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+738;a5795099-8061-42e1-937f-fce31fbdbd47;PROSPECCAO DA EFICIENCIA DO USO DE NITROGENIO EM LINHAGENS DE MILHO TROPICAL;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+739;a5795099-8061-42e1-937f-fce31fbdbd47;ESTIMACAO DE PARAMETROS GENETICOS EM LINHAGENS MELHORADAS DE TRIGO;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+740;a5795099-8061-42e1-937f-fce31fbdbd47;APTIDAO DE PROGENIES DE MEIO-IRMAOS PARA PRODUCAO DE MILHO VERDE;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+741;a5795099-8061-42e1-937f-fce31fbdbd47;QUALIDADE TECNOLOGICA DA FARINHA DE LINHAGENS DE TRIGO MELHORADAS E ADAPTADAS A REGIAO DOS CAMPOS GERAIS;2021;Departamento de Fitotecnia e Fitossanidade/DEFITO
+742;a5795099-8061-42e1-937f-fce31fbdbd47;QUALIDADE INDUSTRIAL DA FARINHA DE LINHAGENS MELHORADAS DE TRIGO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+743;a5795099-8061-42e1-937f-fce31fbdbd47;DESEMPENHO AGRONOMICO DE CULTIVARES DE SOJA NA REGIAO DOS CAMPOS GERAIS;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+744;a5795099-8061-42e1-937f-fce31fbdbd47;SELECAO DE FONTES DE TOLERANCIA AO ALUMINIO EM GERMOPLASMA DE LINHAGENS MELHORADAS DE TRIGO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+745;a5795099-8061-42e1-937f-fce31fbdbd47;RENDIMENTO INDUSTRIAL DE FARINHA BRANCA DE LINHAGENS MELHORADAS DE TRIGO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+746;a5795099-8061-42e1-937f-fce31fbdbd47;EFEITO DA INOCULACAO COM Azospirillum brasilense EM LINHAGENS MELHORADAS DE TRIGO;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+747;a5795099-8061-42e1-937f-fce31fbdbd47;APTIDAO DE PROGENIES DE MEIOS-IRMAOS DE MILHO SUPERDOCE PARA PRODUCAO DE MILHO VERDE;2022;Departamento de Fitotecnia e Fitossanidade/DEFITO
+748;a5795099-8061-42e1-937f-fce31fbdbd47;POTENCIAL PRODUTIVO E QUALIDADE DA FARINHA DE LINHAGENS MELHORADAS DE TRIGO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+749;a5795099-8061-42e1-937f-fce31fbdbd47;COINOCULACAO DE GENOTIPOS DE SOJA COM Azospirillum brasilense NA REGIAO DOS CAMPOS GERAIS;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+750;a5795099-8061-42e1-937f-fce31fbdbd47;ANALISE DIALELICA ENTRE GENOTIPOS DE TRIGO CONTRASTANTES PARA TOLERANCIA AO ALUMINIO;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+751;a5795099-8061-42e1-937f-fce31fbdbd47;SIMILARIDADE GENETICA DE ACESSOS DE BATATA-DOCE ATRAVES DO MARCADOR AFLP;2023;Departamento de Fitotecnia e Fitossanidade/DEFITO
+752;1503236d-7e51-4168-b4da-e7629944f231;ESTRESSE OXIDATIVO, ANTIOXIDANTES E CORONAVIRUS: UM LEVANTAMENTO BIBLIOGRAFICO;2020;Departamento de Química
+753;1503236d-7e51-4168-b4da-e7629944f231;LEVANTAMENTO ETNOFARMACOLOGICO E AVALIACAO DA ATIVIDADE ANTIOXIDANTE DE ESPECIES VEGETAIS POPULARMENTE UTILIZADAS NA REGIAO DE PONTA GROSSA;2022;Departamento de Química
+754;4456ee89-47bb-465a-b5cf-99bc0adb7289;Avaliacao da linguagem python nas primeiras etapas do processamento digital de imangens;2019;Departamento de Informática
+755;4456ee89-47bb-465a-b5cf-99bc0adb7289;Analise comparativa entre duas metodologias de irrigacao;2019;Departamento de Informática
+756;4456ee89-47bb-465a-b5cf-99bc0adb7289;Sistema de controle de pressao para experimentos de ruptura das anastomoses colonicas em ratos;2019;Departamento de Informática
+757;4456ee89-47bb-465a-b5cf-99bc0adb7289;Sistemas digital de medida de pressao de ruptura da anastomoses colonicas em ratos;2019;Departamento de Informática
+758;4456ee89-47bb-465a-b5cf-99bc0adb7289;Construcao de sistema de aquisicao de sinais de eletromiografia;2020;Departamento de Informática
+759;4456ee89-47bb-465a-b5cf-99bc0adb7289;ANALISE E COMPARACAO DE SINAIS OBTIDOS COM DIFERENTES CIRCUITOS DE ELETROMIOGRAFIA;2021;Departamento de Informática
+760;4456ee89-47bb-465a-b5cf-99bc0adb7289;CARACTERIZACAO DO SISTEMA DIGITAL DE MEDIDA DE PRESSAO DE RUPTURA DAS ANASTOMOSES COLONICAS EM RATOS;2021;Departamento de Informática
+761;4456ee89-47bb-465a-b5cf-99bc0adb7289;Desenvolvimento de rede siamesa para segmentacao de imagens de raizes lavadas simuladas;2023;Departamento de Informática
+762;4456ee89-47bb-465a-b5cf-99bc0adb7289;Aquisicao de imagens: comparacao de imagens obtidas com dois sistemas de aquisicao diferentes;2023;Departamento de Informática
+763;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;PROPRIEDADES VARISTORAS DO CaCu3Ti4O12 DOPADO COM OXIDOS MISTOS;2019;Departamento de Química
+764;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;Sintese e caracterizacao de fosfatos de calcio substituidos com fluor para remediacao da sensibilidade dentaria;2019;Departamento de Química
+765;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;SINTESE E CARACTERIZACAO DE HIDROXIDOS DUPLOS LAMELARES;2019;Departamento de Química
+766;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;SINTESE, CARACTERIZACAO E APLICACAO DE HIDROXIDOS DUPLOS LAMELARES DE BORO INCORPORADOS A FERTILIZANTES;2020;Departamento de Química
+767;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;SINTESE E CARACTERIZACAO DE TITANATO DE COBRE E CALCIO SUPORTADO;2020;Departamento de Química
+768;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;PRODUCAO DE BIOCHAR PARA APLICACAO COMO ADSORVENTE DE POLUENTES HIDRICOS;2020;Departamento de Química
+769;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;PRODUCAO DE ANTIOXIDANTES A PARTIR DE RESIDUOS AGROFLORESTAIS;2020;Departamento de Química
+770;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;BIOCOMPOSITO BASEADO EM FOSFATO DE CALCIO APLICADO PARA TRATAMENTO DE HIPERSENSIBILIDADE DENTARIA;2021;Departamento de Química
+771;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;PRODUCAO DE ZnMn2O4 VISANDO SUA UTILIZACAO COMO CATALISADOR;2021;Departamento de Química
+772;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;MATERIAIS FUNCIONAIS PARA NUTRICAO DE PLANTAS;2022;Departamento de Química
+773;b00f4a6d-9a2d-4a99-b6d1-2521e6663c89;PRODUCAO DE BIOCHAR FUNCIONAL;2022;Departamento de Química
+774;bedf1975-a11d-4e86-b56d-08dacbe4c3d2;PROJETO DE EDUCACAO AMBIENTAL NO LAGO DE OLARIAS COM A UTILIZACAO DE UM IQA DIDATICO;2019;Departamento de Química
+775;bedf1975-a11d-4e86-b56d-08dacbe4c3d2;DEGRADACAO DE ATRAZINA UTILIZANDO PROCESSOS AVANCADOS DE OXIDACAO;2020;Departamento de Química
+776;bedf1975-a11d-4e86-b56d-08dacbe4c3d2;PERCEPCOES E PERFIL SOCIOECONOMICO DE CATADORES DE RECICLAVEIS ORGANIZADOS EM ASSOCIACOES NO MUNICIPIO DE PONTA GROSSA - PR;2021;Departamento de Química
+777;b0a518be-a8e1-4cd0-88c1-cafb8ca33234;DETERMINACAO DO TIPO DE CAFE E DE POSSIVEIS ADULTERACOES ATRAVES DA AUTOMODULACAO ESPACIAL DE FASE DE UM FEIXE LASER;2019;Departamento de Física
+778;b0a518be-a8e1-4cd0-88c1-cafb8ca33234;UTILIZACAO DE NANOFLUIDOS PLASMONICOS PARA A DETERMINACAO DA CONCENTRACAO MICELAR CRITICA DO SDS;2020;Departamento de Física
+779;b0a518be-a8e1-4cd0-88c1-cafb8ca33234;SINTESE E CARACTERIZACAO DE NANOPARTICULAS DE NIOBIO (Nb2O5) DISPERSAS EM MEIO AQUOSO;2022;Departamento de Física
+780;5f84e90f-0aa4-45fd-a4d4-75a1852df4ff;INVESTIGACAO DFT SOBRE AS SUPERFICIES (100), (010) E (001) DO WO3;2019;Departamento de Química
+781;5f84e90f-0aa4-45fd-a4d4-75a1852df4ff;INVESTIGACAO TEORICA SOBRE TiS2 e TiSe2 DOPADOS COM Fe;2019;Departamento de Química
+782;5f84e90f-0aa4-45fd-a4d4-75a1852df4ff;SIMULACAO DAS SUPERFICIES (001) E (110) DO TiSe2;2020;Departamento de Química
+783;b34650c7-d7d2-4033-82c0-3c9ffededbf4;Preparacao e caracterizacao de compositos alcali-ativados a partir da reciclagem de vidro plano.;2019;Departamento de Engenharia de Materiais
+784;b34650c7-d7d2-4033-82c0-3c9ffededbf4;Influencia de variaveis de processamento sobre as propriedades fisicas e mecanicas de placas geopolimericas convencionais;2019;Departamento de Engenharia de Materiais
+785;b34650c7-d7d2-4033-82c0-3c9ffededbf4;Desenvolvimento de ceramicas quimicamente ligadas para sistemas de construcao a seco.;2020;Departamento de Engenharia de Materiais
+786;b34650c7-d7d2-4033-82c0-3c9ffededbf4;Inovacao e Sustentabilidade: Fabricacao de Cimentos Geopolimericos a partir da Reciclagem de Vidros.;2020;Departamento de Engenharia de Materiais
+787;b34650c7-d7d2-4033-82c0-3c9ffededbf4;PRODUCAO E CARACTERIZACAO DE AGREGADO LEVE A PARTIR DA RECICLAGEM DE VIDROS PARA EMPREGO NA CONSTRUCAO CIVIL;2020;Departamento de Engenharia de Materiais
+788;58340b2e-0407-48c7-b043-bb37d35563f0;O SOFTWARE IRAMUTEQ NO ENSINO DE CIENCIAS: DO BASICO AO AVANCADO, ELABORACAO DE MATERIAL TECNICO SOB A PERSPECTIVA DESTA AREA DE CONHECIMENTO;2019;Departamento de Física
+789;58340b2e-0407-48c7-b043-bb37d35563f0;OFICINAS DE ROBOTICA COMO FERRAMENTA FACILITADORA NO ENSINO DE CIENCIAS;2020;Departamento de Física
+790;58340b2e-0407-48c7-b043-bb37d35563f0;ANALISE DOCUMENTAL COM USO DO SOFWARE IRAMUTEQ;2022;Departamento de Física
+791;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;DESENVOLVIMENTO DE CONTRA ELETRODOS DE CuO-BIOCARVAO NANOESTRUTURADOS APLICADOS NA ELETROOXIDACAO DE HERBICIDA;2019;Departamento de Química
+792;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;APROVEITAMENTO DE RESIDUOS DE BIOMASSA PIROLISADOS PARA O DESENVOLVIMENTO DE MATERIAIS FOTOELETROATIVOS;2019;Departamento de Química
+793;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;DESENVOLVIMENTO DE UM CATALISADOR A BASE DE Si E Fe PARA APLICACAO NO PROCESSO FENTON LIKE DE DEGRADACAO DE ATRAZINA;2020;Departamento de Química
+794;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;SINTESE, CARACTERIZACAO E APLICACAO DE OXIDOS METALICOS EM ESTUDOS ELETROQUIMICOS;2020;Departamento de Química
+795;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;ESTUDO DO POTENCIAL DE MATERIAIS A BASE DE CARBONO PARA SUA UTILIZACAO COMO SUPERCAPACITOR;2020;Departamento de Química
+796;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;CONSTRUCAO E CARACTERIZACAO DE UM SENSOR ELETROQUIMICO DE BAIXO CUSTO PARA IDENTIFICACAO DE CONTAMINANTES ALIMENTARES;2020;Departamento de Química
+797;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;DESENVOLVIMENTO DE UM NANOHIBRIDO FORMADO POR BIOCHAR E NANOPARTICULAS METALICAS PARA POTENCIAL BIOSSENSOR;2021;Departamento de Química
+798;76f686a5-ccc4-4fd8-8cec-ebf6c716daa0;TECNOLOGIA PARA O TRATAMENTO DE AGUA: UMA VISAO SOBRE MATERIAIS E PROCESSOS PARA SISTEMAS INTEGRADOS;2021;Departamento de Química
+799;282b8532-b815-4419-812e-211f5ffa78c0;Quantificacao das Fracoes por Tamanho de Particulas do Solo;2019;Departamento de Física
+800;282b8532-b815-4419-812e-211f5ffa78c0;Aplicacao da Tecnica de Espectroscopia de Infravermelho nas Fracoes Fisica do Solo;2019;Departamento de Física
+801;282b8532-b815-4419-812e-211f5ffa78c0;CARACTERIZACAO DE AMOSTRA DE SOLO POR ESPECTROSCOPIA DE FLUORESCENCIA DE RAIO X;2020;Departamento de Física
+802;282b8532-b815-4419-812e-211f5ffa78c0;CARACTERIZACAO DAS FRACOES POR TAMANHO DE PARTICULAS DO SOLO POR ESPECTROSCOPIA DE FLUORESCENCIA DE RAIO X POR DISPERSAO DE COMPRIMENTO DE ONDA;2021;Departamento de Física
+803;51f4c31b-2179-4525-9c0a-2856a38da57c;Desempenho produtivo, retencao de minerais, parametros sanguineos e excrecao de nitrogenio e fosforo em alevinos de tilapia do Nilo alimentados com dietas contendo ingredientes vegetais suplementadas com fitase liquida;2019;Departamento de Zootecnia
+804;51f4c31b-2179-4525-9c0a-2856a38da57c;Desempenho produtivo e padrao de atividade de enzimas digestivas de alevinos e juvenis de tilapias vermelha da Florida (Oreochromis mossambicus x O. hornorum) e tilapias GIFT (O. niloticus);2020;Departamento de Zootecnia
+805;51f4c31b-2179-4525-9c0a-2856a38da57c;DESEMPENHO, ATIVIDADE DE ENZIMAS DIGESTIVAS E PARAMETROS SANGUINEOS EM TILAPIAS DO NILO ALIMENTADAS COM DIETAS A BASE GRAOS SECOS DE DESTILARIA COM SOLUVEIS DE MILHO COM SUPLEMENTACAO DE XILANASE E b-GLUCANASE;2021;Departamento de Zootecnia
+806;3007e817-c05b-47d1-bf3f-fd52df622657;Avaliacao da Presenca de Especies Metalicas em Alface (Lactuca sativa): Implantacao de Metodo de Determinacao de Cadmio por Espectrometria Atomica;2019;Departamento de Química
+807;3007e817-c05b-47d1-bf3f-fd52df622657;OBTENCAO DE BIOCHAR ATIVADO COM ZINCO A PARTIR DA PIROLISE DA CASCA DE PINHAO PARA USO COMO SORVENTE DE ESPECIES METALICAS;2020;Departamento de Química
+808;3007e817-c05b-47d1-bf3f-fd52df622657;AVALIACAO DA PRESENCA DE COBRE E COMPOSTOS FENOLICOS EM INFUSOES E DECOCCAO DE Hibiscos sabdariffa L.;2020;Departamento de Química
+809;3007e817-c05b-47d1-bf3f-fd52df622657;"""DETERMINACAO DE METAIS TRACO EM ALFACE OBTIDA DE DIFERENTES FORMAS DE CULTIVO""";2021;Departamento de Química
+810;3007e817-c05b-47d1-bf3f-fd52df622657;EMPREGO DE BIOCHAR OBTIDO COM CASCA DE PINHAO EM PROCESSOS SORTIVOS DE ESPECIES MEALICAS;2021;Departamento de Química
+811;3007e817-c05b-47d1-bf3f-fd52df622657;ESTUDO DA BIOACESSIBILIDADE DE COBRE E CADMIO EM ALFACE;2022;Departamento de Química
+812;3007e817-c05b-47d1-bf3f-fd52df622657;PREPARO E USO DE BIOCHAR DE CASCA DE PINHAO EM MATRIZ DE HIDROGEL PARA USO COMO FASE LIGANTE DE ESPECIES METALICAS;2022;Departamento de Química
+813;3007e817-c05b-47d1-bf3f-fd52df622657;BIOACESSIBILIDADE DE ESPECIES METALICAS EM CHA DE HORTELA (MENTHA SPICATA L.);2022;Departamento de Química
+814;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;PARAMETROS GENETICOS ESTIMADOS VIA ssGBLUP PARA CARACTERISTICAS DE AREA DE OLHO DE LOMBO E ESPESSURA DE GORDURA SUBCUTANEA EM BOVINOS DA RACA NELORE;2019;Departamento de Zootecnia
+815;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;INTERACAO GENOTIPO AMBIENTE VIA NORMAS DE REACAO NA CONTAGEM DE CELULAS SOMATICAS DE BOVINOS DA RACA HOLANDESA;2019;Departamento de Zootecnia
+816;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;ESTIMACAO DE PARAMETROS GENETICOS PELO METODO ssGBLUP PARA PRECOCIDADE E CONFORMACAO EM BOVINOS DA RACA NELORE;2020;Departamento de Zootecnia
+817;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;PARAMETROS GENETICOS ESTIMADOS VIA ssGBLUP PARA CARACTERISTICAS DE MUSCULOSIDADE E CONFORMACAO EM BOVINOS DA RACA NELORE;2020;Departamento de Zootecnia
+818;6b98e909-b3b7-4caf-bf7e-f6fc1b1d5d83;SISTEMA COMPUTACIONAL PARA IMPUTACAO DE DADOS GENOMICOS;2020;Departamento de Zootecnia
+819;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;DESEMPENHO PRODUTIVO, PARAMETROS BIOQUIMICOS, HISTOLOGIA INTESTINAL E MICROBIOMA DE JUVENIS DE TILAPIAS DO NILO ALIMENTADAS COM DIETAS COM XILANASE E B-GLUCANASE;2019;Departamento de Zootecnia
+820;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Coeficientes de digestibilidade aparente de dietas contendo niveis baixos e elevados de xilano-glucano e suplementadas com Natugrain(r) para tilapias do Nilo;2019;Departamento de Zootecnia
+821;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Desempenho produtivo e microbioma de tilapias das variedades vermelha da Florida (Oreochromis mossambicus x O. hornorum) e GIFT (O. niloticus) alimentadas com dieta micro extrusada na segunda fase de masculinizacao;2020;Departamento de Zootecnia
+822;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Substituicao de microminerais inorganicos por minerais organicos na forma de glicinatos para otimizar o enriquecimento corporal e minimizar a excrecao fecal em juvenis de tilapias do Nilo;2022;Departamento de Zootecnia
+823;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Desempenho, atividade de enzimas digestivas, digestibilidade e microbioma de juvenis de tilapias do Nilo alimentados com dietas extrusadas suplementadas com mananase;2022;Departamento de Zootecnia
+824;ebfffe76-b18c-48d3-ad0e-61cf3744a8e6;Microbioma intestinal de juvenis de tilapias do Nilo alimentados com dietas com graos secos de destilaria com soluveis de sorgo suplementadas com xilanase e b-glucanase;2023;Departamento de Zootecnia
+825;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC ELEVADOR DE TENSAO BASEADO EM GANHO QUADRATICO E CUBICO;2021;Departamento de Informática
+826;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC ELEVADOR DE TENSAO COM GANHO QUADRATICO E CAPACITOR CHAVEADO;2021;Departamento de Informática
+827;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC ELEVADOR DE TENSAO COM CELULA R2P2 E CAPACITOR CHAVEADO;2021;Departamento de Informática
+828;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC BUCK-BOOST COM REDUCAO DE ONDULACAO DE CORRENTE DE ENTRADA;2023;Departamento de Informática
+829;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC BUCK-BOOST COM CELULA LADDER;2023;Departamento de Informática
+830;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC BUCK-BOOST COM CAPACITOR CHAVEADO;2023;Departamento de Informática
+831;4c6c8e0b-9745-40d1-be91-fb76c77469fd;CONVERSOR CC-CC BUCK-BOOST QUADRATICO;2023;Departamento de Informática
