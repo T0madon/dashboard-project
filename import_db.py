@@ -50,9 +50,6 @@ def writeDf(df_name, table):
     df = pd.DataFrame(datas, columns=columns)
     df.to_csv(PATH_SAVE_DF / f"{df_name}.csv", sep=";")
     
-
-# Buscar dados
-# print('INÍCIO\n')
 writeDf('df_artigos', 'artigos')
 writeDf('df_bolsas', 'bolsas')
 writeDf('df_congressos', 'congressos')
