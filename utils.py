@@ -33,6 +33,3 @@ dep_prod.rename(columns={"nome": "quantidade_prod"}, inplace=True)
 dep_prod['departamento'] = dep_prod['departamento'].str.split(',')
 dep_prod = dep_prod.explode('departamento')
 dep_prod = dep_prod.groupby(['departamento', 'anopubli'], as_index=False)['quantidade_prod'].sum()
-
-
-dep_prod.to_csv(PATH_SAVE_DF / f"dep_prod.csv", sep=";")
