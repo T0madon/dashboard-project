@@ -28,14 +28,14 @@ def conectar_banco():
         tables = cursor.fetchall()
 
         for table_name, in tables:
-            df = pd.read_sql_query(f'SELECT * FROM {table_name}', conn)
+            df = pd.read_sql_query(f'SELECT * FROM {table_name}', conn) # type: ignore
             df.to_csv(PATH_SAVE_DF / f'df_{table_name}.csv', 
                     #   index=False, 
                     #   encoding='utf-8-sig',
                       sep=';')
             print(f'Tabela {table_name} salva como df_{table_name}.csv')
 
-        
+
         # Fecha a conexão
         cursor.close()
         conn.close()
