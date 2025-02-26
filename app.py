@@ -20,7 +20,8 @@ st.sidebar.title('Filtros')
 with st.sidebar.expander('Setores'):
     setores_selecionados = st.multiselect(
         'Selecione o(s) setor(es)',
-        setores['setor'].unique().tolist()
+        setores['setor'].unique().tolist(),
+        default=['SEXATAS'] if 'SEXATAS' in setores['setor'].unique() else [] 
         )
     
 # Filtrando os departamentos de acordo com o setor escolhido
@@ -30,7 +31,8 @@ df_departamentos_filtrados = setores[setores['setor'].isin(setores_selecionados)
 with st.sidebar.expander('Departamentos'):
     departamentos_selecionados = st.multiselect(
         'Selecione o(s) departamento(s)',
-        df_departamentos_filtrados['departamento'].unique().tolist()
+        df_departamentos_filtrados['departamento'].unique().tolist(),
+        default=df_departamentos_filtrados['departamento'].unique().tolist()
         )
     
 aba1, aba2 = st.tabs(['Departamentos', 'Professores'])
@@ -54,7 +56,7 @@ with aba1:
                 line_dash='departamento',
                 title='Produção por Departamento'
             )
-            # dep_prod_graph.update_traces(visible="legendonly")
+            dep_prod_graph.update_traces(visible="legendonly")
             st.plotly_chart(dep_prod_graph, use_container_width=False)
         else:
             st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
