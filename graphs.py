@@ -2,14 +2,13 @@ import plotly.express as px
 from utils import (artigos ,bolsas,congressos,financiados,orientacoes,
                    produtividade ,professores , projetos, dep_prod)
 
-print(dep_prod)
-
+# PRODUÇÃO POR DEPARTAMENTO
 dep_prod_graph = px.line(
     dep_prod,
     x='anopubli',
-    y='quantidade_prod',
+    y='projetos_departamento',
     color='departamento',
-    range_y=(0, dep_prod['quantidade_prod'].max()),
+    range_y=(0, dep_prod['projetos_departamento'].max()),
     line_dash='departamento',
     title='Produção por Departamento'
 )

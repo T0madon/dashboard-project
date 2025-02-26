@@ -26,22 +26,22 @@ projetos = read_csv('projetos')
 
 # Filtros de df
 
-    # Produção por departamento -> departamento; anopubli; quantidade_prod
+    # Produção de projetos por departamento -> departamento; anopubli; quantidade_prod
 dep_prod = projetos.groupby(
     ['departamento', 'anopubli']
     )['nome'].count().reset_index()
-dep_prod.rename(columns={"nome": "quantidade_prod"}, inplace=True)
+dep_prod.rename(columns={"nome": "projetos_departamento"}, inplace=True)
         # Arrumando bug do departamento
 dep_prod['departamento'] = dep_prod['departamento'].str.split(',')
 dep_prod = dep_prod.explode('departamento')
 dep_prod = dep_prod.groupby(
     ['departamento', 'anopubli'], 
     as_index=False
-    )['quantidade_prod'].sum()
+    )['projetos_departamento'].sum()
 
     # SETORES
 setores = professores[
             ['setor', 'departamento']
         ].drop_duplicates().sort_values(by=['setor', 'departamento'])
 
-print(setores)
+    # VARIÁVEIS
