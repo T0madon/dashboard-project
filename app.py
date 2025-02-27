@@ -1,8 +1,8 @@
 import streamlit as st
 import plotly.express as px
 from graphs import dep_prod_graph
-from utils import (artigos, bolsas, congressos, financiados, orientacoes,
-                   produtividade, professores, projetos, setores, dep_prod)
+from utils import (setores, dep_prod, projetos)
+
 # CONSTRUÇÃO DO DASHBOARD
 
 st.set_page_config(layout='wide')
@@ -38,7 +38,20 @@ with st.sidebar.expander('Departamentos'):
 aba1, aba2 = st.tabs(['Departamentos', 'Professores'])
 
 with aba1:
-    # Insights
+    coluna1, coluna2, coluna3 = st.columns(3)
+
+    # Seleciona os projetos dos departamentos selecionados
+    projetos_filtrados = projetos[projetos['departamento'].isin(departamentos_selecionados)]
+
+    with coluna1:
+        
+        # Contar o número total de projetos filtrados
+        total_projetos = projetos_filtrados.shape[0]
+        
+        st.metric('Total de projetos dos departamentos selecionados', value=total_projetos)
+
+    with coluna2:
+        ...
 
     # Filtrar o dataframe do gráfico pelos departamentos selecionados
     dep_prod_filtrado = dep_prod[dep_prod['departamento'].isin(departamentos_selecionados)]
@@ -54,10 +67,9 @@ with aba1:
                 color='departamento',
                 range_y=(0, dep_prod['projetos_departamento'].max()),
                 line_dash='departamento',
-                title='Produção por Departamento'
+                title='Produção Total Por Departamento'
             )
-            dep_prod_graph.update_traces(visible="legendonly")
+            # dep_prod_graph.update_traces(visible="legendonly") #Vem marcado tudo no gráfico
             st.plotly_chart(dep_prod_graph, use_container_width=False)
         else:
             st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
-    
