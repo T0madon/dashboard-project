@@ -1,7 +1,9 @@
 import streamlit as st
 import plotly.express as px
 from graphs import dep_prod_graph
-from utils import (setores, dep_prod, dataframes_col_anos)
+from utils import (artigos, bolsas, congressos, financiados, orientacoes, 
+                   produtividade, professores, projetos, setores, dep_prod, 
+                   dataframes_col_anos)
 
 # CONSTRUÇÃO DO DASHBOARD
 
@@ -32,11 +34,29 @@ dep_prod_filtrado = dep_prod[
 ]
     
 #SIDEBAR - Filtro por data
-with st.sidebar.expander('Data'):
-    data_selecionada = st.date_input(
-        'Selecione a Data',
+# Filtrar os dataframes pelos departamentos selecionados e extrair os anos
+anos_disponiveis = []
+
+for df, coluna_ano in dataframes_col_anos:
+    df_filtrado = df[df['departamento'].isin(departamentos_selecionados)]
+    # Converte para inteiro e remove NaN
+    anos_validos = df_filtrado[coluna_ano].dropna().astype(int).tolist() 
+    anos_disponiveis.extend(anos_validos)
+
+# Definir o menor e o maior ano disponíveis
+if anos_disponiveis:
+    ano_min = min(anos_disponiveis)
+    ano_max = max(anos_disponiveis)
+else:
+    ano_min, ano_max = 2000, 2023  # Valores padrão caso não haja dados
+
+# SIDEBAR - Filtro de Anos
+with st.sidebar.expander('Período de Análise'):
+    anos_selecionados = st.slider(
+        "Selecione o intervalo de anos:",
+        ano_min, ano_max, (ano_min, ano_max)
     )
-    
+
 aba1, aba2, aba3, aba4, aba5 = st.tabs(
     ['Publicações', 'Orientações', 'Projetos', 'Titulação', 'Quantitativos']
     )
@@ -76,6 +96,7 @@ with aba3:
                 y='projetos_departamento',
                 color='departamento',
                 range_y=(0, dep_prod['projetos_departamento'].max()),
+                range_x=anos_selecionados,
                 line_dash='departamento',
                 title='Produção Total Por Departamento'
             )
