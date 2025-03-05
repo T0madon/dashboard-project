@@ -24,6 +24,19 @@ produtividade = read_csv('produtividade')
 professores = read_csv('professores')
 projetos = read_csv('projetos')
 
+# Filtro para as datas selecionadas
+
+# Lista de dataframes e suas respectivas colunas de ano
+dataframes_col_anos = [
+    (artigos, 'anopubli'),
+    (bolsas, 'ano'),
+    (congressos, 'anoconclusao'),
+    (financiados, 'anopubli'),
+    (orientacoes, 'anoconclusao'),
+    (produtividade, 'ano'),
+    (projetos, 'anopubli')
+]
+
 # Filtros de df
 
     # Produção de projetos por departamento -> departamento; anopubli; quantidade_prod
@@ -39,9 +52,10 @@ dep_prod = dep_prod.groupby(
     as_index=False
     )['projetos_departamento'].sum()
 
+print(dep_prod)
+print(len(dep_prod))
+
     # SETORES
 setores = professores[
             ['setor', 'departamento']
         ].drop_duplicates().sort_values(by=['setor', 'departamento'])
-print(setores)
-    # VARIÁVEIS
