@@ -52,8 +52,21 @@ dep_prod = dep_prod.groupby(
     as_index=False
     )['projetos_departamento'].sum()
 
-print(dep_prod)
-print(len(dep_prod))
+
+    # Filtrando projeto por tipo (pesquisa, extensao, desenvolvimento, outra)
+proj_tipo = projetos.groupby(
+    ['departamento', 'tipo']
+    )['nome'].count().reset_index()
+proj_tipo.rename(columns={"nome": "projetos_departamento"}, inplace=True)
+        # Arrumando bug do departamento
+proj_tipo['departamento'] = proj_tipo['departamento'].str.split(',')
+proj_tipo = proj_tipo.explode('departamento')
+proj_tipo = proj_tipo.groupby(
+    ['departamento', 'tipo'], 
+    as_index=False
+    )['projetos_departamento'].sum()
+
+
 
     # SETORES
 setores = professores[

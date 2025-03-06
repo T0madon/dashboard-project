@@ -3,7 +3,7 @@ import plotly.express as px
 from graphs import dep_prod_graph
 from utils import (artigos, bolsas, congressos, financiados, orientacoes, 
                    produtividade, professores, projetos, setores, dep_prod, 
-                   dataframes_col_anos)
+                   dataframes_col_anos, proj_tipo)
 
 # CONSTRUÇÃO DO DASHBOARD
 
@@ -36,7 +36,6 @@ dep_prod_filtrado = dep_prod[
 #SIDEBAR - Filtro por data
 # Filtrar os dataframes pelos departamentos selecionados e extrair os anos
 anos_disponiveis = []
-
 for df, coluna_ano in dataframes_col_anos:
     df_filtrado = df[df['departamento'].isin(departamentos_selecionados)]
     # Converte para inteiro e remove NaN
@@ -50,7 +49,7 @@ if anos_disponiveis:
 else:
     ano_min, ano_max = 2000, 2023  # Valores padrão caso não haja dados
 
-# SIDEBAR - Filtro de Anos
+#Filtro de Anos
 with st.sidebar.expander('Período de Análise'):
     anos_selecionados = st.slider(
         "Selecione o intervalo de anos:",
@@ -64,12 +63,12 @@ aba1, aba2, aba3, aba4, aba5 = st.tabs(
 with aba3:
     coluna1, coluna2, coluna3 = st.columns(3)
 
-    total_projetos_selecionados = dep_prod_filtrado[
-        'projetos_departamento'].sum()
-    
-    total_projetos_geral = dep_prod[
-        'projetos_departamento'
-    ].sum()
+    # Filtro para contar o total de projetos nos devidos departamentos
+    total_projetos_selecionados = len(projetos[
+        projetos['departamento'].apply(
+            lambda x: any(depto in x for depto in departamentos_selecionados) 
+            )
+    ])
 
     with coluna1:
         st.metric(
@@ -83,7 +82,7 @@ with aba3:
     with coluna3:
         st.metric(
             'Total de projetos da UEPG',
-            value=total_projetos_geral
+            value=len(projetos)
         )
 
     # Gráfico
@@ -105,10 +104,107 @@ with aba3:
         else:
             st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
 
+    proj_tipo = proj_tipo[
+        proj_tipo['departamento'].apply(
+            lambda x: any(depto in x for depto in departamentos_selecionados)
+            )
+    ]
+    #Filtrando projetos por tipo
+    # PESQUISA
+    proj_pesquisa = proj_tipo[proj_tipo['tipo'] == 'PESQUISA']
+    proj_extensao = proj_tipo[proj_tipo['tipo'] == 'EXTENSAO']
+    proj_desenvolvilmento = proj_tipo[proj_tipo['tipo'] == 'DESENVOLVIMENTO']
+    proj_ensino = proj_tipo[proj_tipo['tipo'] == 'ENSINO']
+    proj_outra = proj_tipo[proj_tipo['tipo'] == 'OUTRA']
+
+    grafico_pesquisa = px.bar(
+                proj_pesquisa,
+                x='departamento',
+                y='projetos_departamento',
+                color='departamento',
+                text_auto=True,
+                title= 'Projetos de Pesquisa',
+                barmode='relative'
+            )
+    grafico_pesquisa.update_layout(showlegend=False, bargap=0)
+
+    grafico_extensao = px.bar(
+                proj_extensao,
+                x='departamento',
+                y='projetos_departamento',
+                color='departamento',
+                text_auto=True,
+                title= 'Projetos de Extensão',
+                barmode='relative'
+            )
+    grafico_extensao.update_layout(showlegend=False, bargap=0)
+
+    grafico_desenvolvimento = px.bar(
+                proj_desenvolvilmento,
+                x='departamento',
+                y='projetos_departamento',
+                color='departamento',
+                text_auto=True,
+                title= 'Projetos de Desenvolvimento',
+                barmode='group'
+            )
+    grafico_desenvolvimento.update_layout(showlegend=False)
+
+    grafico_ensino = px.bar(
+                proj_ensino,
+                x='departamento',
+                y='projetos_departamento',
+                color='departamento',
+                text_auto=True,
+                title= 'Projetos de Ensino',
+                barmode='group'
+            )
+    grafico_ensino.update_layout(showlegend=False)
+
+    grafico_outra = px.bar(
+                proj_outra,
+                x='departamento',
+                y='projetos_departamento',
+                color='departamento',
+                text_auto=True,
+                title= 'Outros',
+                barmode='group'
+            )
+    grafico_outra.update_layout(showlegend=False)
+
     coluna4, coluna5 = st.columns(2)
 
     with coluna4:
-        st.warning('teste')
+        if departamentos_selecionados:
+            st.plotly_chart(grafico_pesquisa)
+        else:
+            st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
 
     with coluna5:
-        st.warning('teste')
+        if departamentos_selecionados:
+            st.plotly_chart(grafico_extensao)
+        else:
+            st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+    coluna6, coluna7 = st.columns(2)
+
+    with coluna6:
+        if departamentos_selecionados:
+            st.plotly_chart(grafico_desenvolvimento)
+        else:
+            st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+    with coluna7:
+        if departamentos_selecionados:
+            st.plotly_chart(grafico_ensino)
+        else:
+            st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+    coluna8, coluna9 = st.columns(2)
+
+    with coluna8:
+        if departamentos_selecionados:
+            st.plotly_chart(grafico_outra)
+        else:
+            st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+        
