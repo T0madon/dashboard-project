@@ -49,6 +49,7 @@ if anos_disponiveis:
 else:
     ano_min, ano_max = 2000, 2023  # Valores padrão caso não haja dados
 
+#SIDEBAR
 #Filtro de Anos
 with st.sidebar.expander('Período de Análise'):
     anos_selecionados = st.slider(
@@ -63,11 +64,10 @@ aba1, aba2, aba3, aba4, aba5 = st.tabs(
 with aba3:
     coluna1, coluna2, coluna3 = st.columns(3)
 
-    # Filtro para contar o total de projetos nos devidos departamentos
+    # Filtro para contar o total de projetos nos devidos departamentos e anos
     total_projetos_selecionados = len(projetos[
-        projetos['departamento'].apply(
-            lambda x: any(depto in x for depto in departamentos_selecionados) 
-            )
+        projetos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &
+        projetos['anopubli'].between(anos_selecionados[0], anos_selecionados[1]) 
     ])
 
     with coluna1:
@@ -109,16 +109,40 @@ with aba3:
             lambda x: any(depto in x for depto in departamentos_selecionados)
             )
     ]
-    #Filtrando projetos por tipo
+    #Filtrando projetos por tipo e em seguida removendo o ano
     # PESQUISA
-    proj_pesquisa = proj_tipo[proj_tipo['tipo'] == 'PESQUISA']
-    proj_extensao = proj_tipo[proj_tipo['tipo'] == 'EXTENSAO']
-    proj_desenvolvilmento = proj_tipo[proj_tipo['tipo'] == 'DESENVOLVIMENTO']
-    proj_ensino = proj_tipo[proj_tipo['tipo'] == 'ENSINO']
-    proj_outra = proj_tipo[proj_tipo['tipo'] == 'OUTRA']
+    proj_pesquisa = proj_tipo[(proj_tipo['tipo'] == 'PESQUISA') &
+                              (proj_tipo['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))]
+    proj_pesquisa_total = proj_pesquisa.groupby(
+            ['departamento'], as_index=False
+        )['projetos_departamento'].sum()
+
+    proj_extensao = proj_tipo[(proj_tipo['tipo'] == 'EXTENSAO') &
+                              (proj_tipo['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))]
+    proj_extensao_total = proj_extensao.groupby(
+            ['departamento'], as_index=False
+        )['projetos_departamento'].sum()
+
+    proj_desenvolvilmento = proj_tipo[(proj_tipo['tipo'] == 'DESENVOLVIMENTO') &
+                              (proj_tipo['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))]
+    proj_desenvolvilmento_total = proj_desenvolvilmento.groupby(
+            ['departamento'], as_index=False
+        )['projetos_departamento'].sum()
+
+    proj_ensino = proj_tipo[(proj_tipo['tipo'] == 'ENSINO') &
+                              (proj_tipo['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))]
+    proj_ensino_total = proj_ensino.groupby(
+            ['departamento'], as_index=False
+        )['projetos_departamento'].sum()
+
+    proj_outra = proj_tipo[(proj_tipo['tipo'] == 'OUTRA') &
+                              (proj_tipo['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))]
+    proj_outra_total = proj_outra.groupby(
+            ['departamento'], as_index=False
+        )['projetos_departamento'].sum()
 
     grafico_pesquisa = px.bar(
-                proj_pesquisa,
+                proj_pesquisa_total,
                 x='departamento',
                 y='projetos_departamento',
                 color='departamento',
@@ -129,7 +153,7 @@ with aba3:
     grafico_pesquisa.update_layout(showlegend=False, bargap=0)
 
     grafico_extensao = px.bar(
-                proj_extensao,
+                proj_extensao_total,
                 x='departamento',
                 y='projetos_departamento',
                 color='departamento',
@@ -140,37 +164,37 @@ with aba3:
     grafico_extensao.update_layout(showlegend=False, bargap=0)
 
     grafico_desenvolvimento = px.bar(
-                proj_desenvolvilmento,
+                proj_desenvolvilmento_total,
                 x='departamento',
                 y='projetos_departamento',
                 color='departamento',
                 text_auto=True,
                 title= 'Projetos de Desenvolvimento',
-                barmode='group'
+                barmode='relative'
             )
-    grafico_desenvolvimento.update_layout(showlegend=False)
+    grafico_desenvolvimento.update_layout(showlegend=False, bargap=0)
 
     grafico_ensino = px.bar(
-                proj_ensino,
+                proj_ensino_total,
                 x='departamento',
                 y='projetos_departamento',
                 color='departamento',
                 text_auto=True,
                 title= 'Projetos de Ensino',
-                barmode='group'
+                barmode='relative'
             )
-    grafico_ensino.update_layout(showlegend=False)
+    grafico_ensino.update_layout(showlegend=False, bargap=0)
 
     grafico_outra = px.bar(
-                proj_outra,
+                proj_outra_total,
                 x='departamento',
                 y='projetos_departamento',
                 color='departamento',
                 text_auto=True,
                 title= 'Outros',
-                barmode='group'
+                barmode='relative'
             )
-    grafico_outra.update_layout(showlegend=False)
+    grafico_outra.update_layout(showlegend=False, bargap=0)
 
     coluna4, coluna5 = st.columns(2)
 

@@ -55,16 +55,18 @@ dep_prod = dep_prod.groupby(
 
     # Filtrando projeto por tipo (pesquisa, extensao, desenvolvimento, outra)
 proj_tipo = projetos.groupby(
-    ['departamento', 'tipo']
+    ['departamento', 'anopubli', 'tipo']
     )['nome'].count().reset_index()
 proj_tipo.rename(columns={"nome": "projetos_departamento"}, inplace=True)
         # Arrumando bug do departamento
 proj_tipo['departamento'] = proj_tipo['departamento'].str.split(',')
 proj_tipo = proj_tipo.explode('departamento')
 proj_tipo = proj_tipo.groupby(
-    ['departamento', 'tipo'], 
+    ['departamento', 'anopubli', 'tipo'], 
     as_index=False
     )['projetos_departamento'].sum()
+
+print(proj_tipo)
 
 
 
