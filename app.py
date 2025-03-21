@@ -67,8 +67,12 @@ with aba3:
     # Filtro para contar o total de projetos nos devidos departamentos e anos
     total_projetos_selecionados = len(projetos[
         projetos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &
-        projetos['anopubli'].between(anos_selecionados[0], anos_selecionados[1]) 
+        (
+            projetos['anopubli'].between(anos_selecionados[0], anos_selecionados[1]) |
+            projetos['anopubli'].isna()
+        )
     ])
+
 
     with coluna1:
         st.metric(
@@ -231,4 +235,6 @@ with aba3:
             st.plotly_chart(grafico_outra)
         else:
             st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
-        
+
+with aba4:
+    ...

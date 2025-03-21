@@ -66,7 +66,6 @@ proj_tipo = proj_tipo.groupby(
     as_index=False
     )['projetos_departamento'].sum()
 
-print(proj_tipo)
 
 
 
