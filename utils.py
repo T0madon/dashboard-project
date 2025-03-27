@@ -67,8 +67,6 @@ proj_tipo = proj_tipo.groupby(
     )['projetos_departamento'].sum()
 
 
-
-
     # SETORES
 setores = professores[
             ['setor', 'departamento']

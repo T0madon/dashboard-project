@@ -1,4 +1,5 @@
 import streamlit as st
+import ast
 import plotly.express as px
 from graphs import dep_prod_graph
 from utils import (artigos, bolsas, congressos, financiados, orientacoes, 
@@ -68,21 +69,19 @@ with aba3:
     total_projetos_selecionados = len(projetos[
         projetos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &
         (
-            projetos['anopubli'].between(anos_selecionados[0], anos_selecionados[1]) |
-            projetos['anopubli'].isna()
+          projetos['anopubli'].between(anos_selecionados[0], anos_selecionados[1]) |
+          projetos['anopubli'].isna()
         )
     ])
-
 
     with coluna1:
         st.metric(
             'Total de projetos dos departamentos selecionados', 
             value=total_projetos_selecionados
         )
-
     with coluna2:
         st.write('')
-
+    
     with coluna3:
         st.metric(
             'Total de projetos da UEPG',
@@ -236,5 +235,101 @@ with aba3:
         else:
             st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
 
+    with coluna9:
+        st.warning('Aguardando projetos de pesquisa continuada...')
+
+    coluna10, coluna11 = st.columns(2)
+
+    # Filtrando a tabela "financiados" com os filtros do sidebar
+    financiados_filtrados = financiados[
+        (financiados['departamento'].isin(departamentos_selecionados)) &
+        (financiados['anopubli'].between(anos_selecionados[0], anos_selecionados[1]))
+    ]
+
+
+    with coluna10:
+        st.metric(
+            'Total de projetos com financimento (UEPG):',
+            len(financiados)
+        )
+
+        st.metric(
+            'Total de projetos com financiamento (Filtros):',
+            len(financiados_filtrados)
+        )
+
+    with coluna11:
+        valor_total_uepg = sum(financiados['valor'])
+        valor_formatado_uepg = f"R$ {valor_total_uepg:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+        st.metric(
+            'Valor total recebido de projetos financiados (UEPG):',
+            valor_formatado_uepg
+        )
+
+        # Calculando o valor total arrecadado
+        valor_total = financiados_filtrados['valor'].sum()
+
+        # Formatando para o padrão brasileiro (ex: 1.000.000,50)
+        valor_formatado = f"R$ {valor_total:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+        # Exibir métrica no Streamlit
+        st.metric(label="Valor total recebido de projetos financiados (Filtros)", value=valor_formatado)
+
+
+
 with aba4:
-    ...
+    st.write(f'departamentos: {departamentos_selecionados} TIPO: {type(departamentos_selecionados)}')
+    st.write(f'anos: {anos_selecionados} TIPO: {type(anos_selecionados)}')
+    st.write(f'anos: {anos_selecionados[0]} até {anos_selecionados[1]}')
+
+    # Filtrando os professores conforme os departamentos e anos selecionados
+    professores_filtrados = professores[
+        professores['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &  # Filtro de departamentos
+        professores['anosuepg'].apply(
+            lambda anos: any(
+                ano in range(anos_selecionados[0], anos_selecionados[1] + 1) for ano in ast.literal_eval(anos)  # Converte a string para um conjunto/lista e filtra
+            )
+        )
+        ]
+    st.dataframe(professores_filtrados)
+
+    # Criando os dataframes por titulação
+    graduados = professores_filtrados[professores_filtrados['graduacao'] == 'Graduado']
+    mestres = professores_filtrados[professores_filtrados['graduacao'] == 'Mestre']
+    doutores = professores_filtrados[professores_filtrados['graduacao'] == 'Doutor']
+
+    # Função para criar gráfico de pizza
+    def criar_grafico_pizza(df, titulo):
+        if df.empty:
+            return None
+        df_agrupado = df.groupby('departamento').size().reset_index(name='quantidade')
+        return px.pie(
+            df_agrupado,
+            names='departamento',
+            values='quantidade',
+            title=titulo,
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+
+    # Criando os gráficos
+    grafico_graduado = criar_grafico_pizza(graduados, "Professores Graduados por Departamento")
+    grafico_mestre = criar_grafico_pizza(mestres, "Professores Mestres por Departamento")
+    grafico_doutor = criar_grafico_pizza(doutores, "Professores Doutores por Departamento")
+
+    st.subheader("Distribuição de Titulação por Departamento")
+
+    if grafico_graduado:
+        st.plotly_chart(grafico_graduado)
+    else:
+        st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+    if grafico_mestre:
+        st.plotly_chart(grafico_mestre)
+    else:
+        st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+    if grafico_doutor:
+        st.plotly_chart(grafico_doutor)
+    else:
+        st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
