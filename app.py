@@ -19,6 +19,7 @@ with st.sidebar.expander('Setores'):
         setores['setor'].unique().tolist(),
         default=['SEXATAS'] if 'SEXATAS' in setores['setor'].unique() else [] 
         )  
+
 # Filtrando os departamentos de acordo com o setor escolhido
 df_departamentos_filtrados = setores[setores['setor'].isin(setores_selecionados)]
     
@@ -61,6 +62,9 @@ with st.sidebar.expander('Período de Análise'):
 aba1, aba2, aba3, aba4, aba5 = st.tabs(
     ['Publicações', 'Orientações', 'Projetos', 'Titulação', 'Quantitativos']
     )
+
+with aba2:
+    ...
 
 with aba3:
     coluna1, coluna2, coluna3 = st.columns(3)
@@ -277,11 +281,12 @@ with aba3:
         st.metric(label="Valor total recebido de projetos financiados (Filtros)", value=valor_formatado)
 
 
-
 with aba4:
-    st.write(f'departamentos: {departamentos_selecionados} TIPO: {type(departamentos_selecionados)}')
-    st.write(f'anos: {anos_selecionados} TIPO: {type(anos_selecionados)}')
-    st.write(f'anos: {anos_selecionados[0]} até {anos_selecionados[1]}')
+    # st.write(f'departamentos: {departamentos_selecionados} TIPO: {type(departamentos_selecionados)}')
+    # st.write(f'anos: {anos_selecionados} TIPO: {type(anos_selecionados)}')
+    # st.write(f'anos: {anos_selecionados[0]} até {anos_selecionados[1]}')
+    
+    col1, col2 = st.columns(2)
 
     # Filtrando os professores conforme os departamentos e anos selecionados
     professores_filtrados = professores[
@@ -292,7 +297,18 @@ with aba4:
             )
         )
         ]
-    st.dataframe(professores_filtrados)
+    # st.dataframe(professores_filtrados)
+    with col1:
+        st.metric(
+            "Total de professores (departamentos selecionados)",
+            len(professores_filtrados)
+        )
+
+    with col2:
+        st.metric(
+            "Total de professores da UEPG: ",
+            len(professores)
+        )
 
     # Criando os dataframes por titulação
     graduados = professores_filtrados[professores_filtrados['graduacao'] == 'Graduado']
@@ -313,9 +329,9 @@ with aba4:
         )
 
     # Criando os gráficos
-    grafico_graduado = criar_grafico_pizza(graduados, "Professores Graduados por Departamento")
-    grafico_mestre = criar_grafico_pizza(mestres, "Professores Mestres por Departamento")
-    grafico_doutor = criar_grafico_pizza(doutores, "Professores Doutores por Departamento")
+    grafico_graduado = criar_grafico_pizza(graduados, "Professores GRADUADOS por Departamento")
+    grafico_mestre = criar_grafico_pizza(mestres, "Professores MESTRES por Departamento")
+    grafico_doutor = criar_grafico_pizza(doutores, "Professores DOUTORES por Departamento")
 
     st.subheader("Distribuição de Titulação por Departamento")
 
@@ -333,3 +349,87 @@ with aba4:
         st.plotly_chart(grafico_doutor)
     else:
         st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
+
+with aba5:
+    st.header("📚 Perfil dos Professores")
+
+    # Gráficos sem filtros - Pizza por setor e por departamento
+    col1, col2 = st.columns(2)
+
+    with col1:
+        fig_setor = px.pie(professores, names='setor', title="Distribuição por Setor", hole=0.4)
+        st.plotly_chart(fig_setor, use_container_width=True)
+
+    with col2:
+        fig_departamento = px.pie(professores, names='departamento', title="Distribuição por Departamento", hole=0.4)
+        fig_departamento.update_layout(showlegend = False)
+        st.plotly_chart(fig_departamento, use_container_width=True)
+
+    # Aplicando filtros
+    prof_filtrado = professores[
+        professores['departamento'].isin(departamentos_selecionados) &
+        professores['anosuepg'].apply(lambda x: any(str(ano) in x for ano in range(anos_selecionados[0], anos_selecionados[1] + 1)))
+    ]
+
+    # 1ª Linha: EFETIVO
+    efetivos = prof_filtrado[prof_filtrado['status'] == 'EFETIVO']
+    col1, col2 = st.columns(2)
+    with col1:
+        fig_efetivo_setor = px.bar(
+            efetivos.groupby('setor').size().reset_index(name='quantidade'),
+                x='setor', 
+                y='quantidade', 
+                text='quantidade', 
+                title='Efetivos por Setor', 
+                color='setor'
+        )
+        fig_efetivo_setor.update_layout(bargap=0)
+        st.plotly_chart(fig_efetivo_setor, use_container_width=True)
+
+    with col2:
+        fig_efetivo_depart = px.bar(
+            efetivos.groupby('departamento').size().reset_index(name='quantidade'),
+                x='departamento', 
+                y='quantidade', 
+                text='quantidade', 
+                title='Efetivos por Departamento',
+                color='departamento'
+        )
+        fig_efetivo_depart.update_layout(bargap=0, showlegend=False)
+        st.plotly_chart(fig_efetivo_depart, use_container_width=True)
+
+    # 2ª Linha: COLABORADOR
+    colaboradores = prof_filtrado[prof_filtrado['status'] == 'COLABORADOR']
+    col1, col2 = st.columns(2)
+    with col1:
+        fig_colab_setor = px.bar(
+            colaboradores.groupby('setor').size().reset_index(name='quantidade'),
+                x='setor', 
+                y='quantidade', 
+                text='quantidade', 
+                title='Colaboradores por Setor',
+                color='setor'
+        )
+        fig_colab_setor.update_layout(bargap=0)
+        st.plotly_chart(fig_colab_setor, use_container_width=True)
+
+    with col2:
+        fig_colab_depart = px.bar(
+            colaboradores.groupby('departamento').size().reset_index(name='quantidade'),
+                x='departamento', 
+                y='quantidade', 
+                text='quantidade', 
+                title='Colaboradores por Departamento',
+                color='departamento'
+        )
+        fig_colab_depart.update_layout(bargap=0, showlegend=False)
+        st.plotly_chart(fig_colab_depart, use_container_width=True)
+
+    # 3ª Linha: Métrica TIDE
+    quantidade_tide = prof_filtrado[prof_filtrado['tide'].str.lower() == 'sim'].shape[0]
+    st.markdown("""
+        <div style='text-align: center;'>
+            <h3>Quantidade de professores em dedicação exclusiva - TIDE</h3>
+            <h1 style='color: green;'>{}</h1>
+        </div>
+    """.format(quantidade_tide), unsafe_allow_html=True)  
