@@ -71,3 +71,5 @@ proj_tipo = proj_tipo.groupby(
 setores = professores[
             ['setor', 'departamento']
         ].drop_duplicates().sort_values(by=['setor', 'departamento'])
+
+print(setores)

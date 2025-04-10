@@ -64,7 +64,104 @@ aba1, aba2, aba3, aba4, aba5 = st.tabs(
     )
 
 with aba2:
-    ...
+        # Filtros
+    orientacoes_filtradas = orientacoes[
+        orientacoes['departamento'].isin(departamentos_selecionados) &
+        orientacoes['anoconclusao'].astype(str).apply(lambda ano: any(str(ano_sel) in ano for ano_sel in range(anos_selecionados[0], anos_selecionados[1] + 1)))
+    ]
+
+    bolsas_filtradas = bolsas[
+        bolsas['departamento'].isin(departamentos_selecionados) &
+        bolsas['ano'].astype(str).apply(lambda ano: any(str(ano_sel) in ano for ano_sel in range(anos_selecionados[0], anos_selecionados[1] + 1)))
+    ]
+
+    # Primeira linha: Métricas de orientações
+    col1, col2 = st.columns(2)
+    with col1:
+        st.metric("Total de orientações (filtros)", len(orientacoes_filtradas))
+    with col2:
+        st.metric("Total de orientações (UEPG)", len(orientacoes))
+
+    # Segunda linha: Métricas de bolsas
+    col3, col4 = st.columns(2)
+    with col3:
+        st.metric("Total de bolsas (filtros)", len(bolsas_filtradas))
+    with col4:
+        st.metric("Total de bolsas (UEPG)", len(bolsas))
+
+    # Função para pizza por setor
+    def grafico_pizza_por_setor(df, titulo):
+        # Faz o merge entre o df recebido (orientações ou bolsas) e o df setores
+        df_setores = df.merge(setores, on='departamento', how='left')
+
+        # Verifica se há dados após o merge
+        if df_setores.empty:
+            return None
+
+        # Agrupa por setor e conta
+        agrupado = df_setores['setor'].value_counts().reset_index()
+        agrupado.columns = ['setor', 'quantidade']
+
+        # Cria o gráfico
+        fig = px.pie(
+            agrupado,
+            names='setor',
+            values='quantidade',
+            title=titulo,
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+
+        # Formatação para remover legenda lateral e mostrar valores corretamente
+        fig.update_layout(showlegend=False)
+        fig.update_traces(
+            textinfo='label+percent',
+            hovertemplate='%{label}: %{value:d}<extra></extra>'
+        )
+
+        return fig
+
+    # Função para barra por departamento
+    def grafico_barra_depart(df, titulo):
+        df_agrupado = df['departamento'].value_counts().reset_index()
+        df_agrupado.columns = ['departamento', 'quantidade']
+        fig = px.bar(df_agrupado, x='departamento', y='quantidade', color='departamento', text='quantidade', title=titulo)
+        fig.update_layout(showlegend=False, bargap=0.2)
+        return fig
+
+    # Terceira linha: Iniciação Científica
+    inic_cient = orientacoes_filtradas[orientacoes_filtradas['tipo'] == 'INICIAÇÃO CIENTÍFICA']
+    col5, col6 = st.columns(2)
+    with col5:
+        fig1 = grafico_pizza_por_setor(inic_cient, "Iniciação Científica por Setor")
+        if fig1:
+            st.plotly_chart(fig1, use_container_width=True)
+    with col6:
+        fig2 = grafico_barra_depart(inic_cient, "Iniciação Científica por Departamento")
+        if fig2:
+            st.plotly_chart(fig2, use_container_width=True)
+
+    # Quarta linha: Pós-graduação (Mestrado + Doutorado)
+    pos_grad = orientacoes_filtradas[orientacoes_filtradas['tipo'].isin(['MESTRADO', 'DOUTORADO'])]
+    col7, col8 = st.columns(2)
+    with col7:
+        fig3 = grafico_pizza_por_setor(pos_grad, "Pós-Graduação (Mestrado/Doutorado) por Setor")
+        if fig3:
+            st.plotly_chart(fig3, use_container_width=True)
+    with col8:
+        fig4 = grafico_barra_depart(pos_grad, "Pós-Graduação (Mestrado/Doutorado) por Departamento")
+        if fig4:
+            st.plotly_chart(fig4, use_container_width=True)
+
+    # Quinta linha: Bolsas de Iniciação Científica
+    col9, col10 = st.columns(2)
+    with col9:
+        fig5 = grafico_pizza_por_setor(bolsas_filtradas, "Bolsas por Setor (IC)")
+        if fig5:
+            st.plotly_chart(fig5, use_container_width=True)
+    with col10:
+        fig6 = grafico_barra_depart(bolsas_filtradas, "Bolsas por Departamento (IC)")
+        if fig6:
+            st.plotly_chart(fig6, use_container_width=True)
 
 with aba3:
     coluna1, coluna2, coluna3 = st.columns(3)
