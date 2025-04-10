@@ -104,7 +104,7 @@ with aba3:
                 range_y=(0, dep_prod['projetos_departamento'].max()),
                 range_x=anos_selecionados,
                 line_dash='departamento',
-                title='Produção Total Por Departamento'
+                title='Quantidade de Projetos Totais por Departamento'
             )
             # dep_prod_graph.update_traces(visible="legendonly") #Vem marcado tudo no gráfico
             st.plotly_chart(dep_prod_graph, use_container_width=False)
@@ -280,18 +280,18 @@ with aba3:
         # Exibir métrica no Streamlit
         st.metric(label="Valor total recebido de projetos financiados (Filtros)", value=valor_formatado)
 
-
 with aba4:
     # st.write(f'departamentos: {departamentos_selecionados} TIPO: {type(departamentos_selecionados)}')
     # st.write(f'anos: {anos_selecionados} TIPO: {type(anos_selecionados)}')
     # st.write(f'anos: {anos_selecionados[0]} até {anos_selecionados[1]}')
-    
+    professores_efetivos = professores[professores['status'] == 'EFETIVO']
+
     col1, col2 = st.columns(2)
 
     # Filtrando os professores conforme os departamentos e anos selecionados
-    professores_filtrados = professores[
-        professores['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &  # Filtro de departamentos
-        professores['anosuepg'].apply(
+    professores_filtrados = professores_efetivos[
+        professores_efetivos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)) &  # Filtro de departamentos
+        professores_efetivos['anosuepg'].apply(
             lambda anos: any(
                 ano in range(anos_selecionados[0], anos_selecionados[1] + 1) for ano in ast.literal_eval(anos)  # Converte a string para um conjunto/lista e filtra
             )
@@ -306,8 +306,8 @@ with aba4:
 
     with col2:
         st.metric(
-            "Total de professores da UEPG: ",
-            len(professores)
+            "Total de professores efetivos da UEPG: ",
+            len(professores_efetivos)
         )
 
     # Criando os dataframes por titulação
@@ -351,7 +351,7 @@ with aba4:
         st.warning("Selecione pelo menos um departamento para visualizar o gráfico.")
 
 with aba5:
-    st.header("📚 Perfil dos Professores")
+    st.header("Perfil dos Professores")
 
     # Gráficos sem filtros - Pizza por setor e por departamento
     col1, col2 = st.columns(2)
@@ -407,7 +407,7 @@ with aba5:
                 x='setor', 
                 y='quantidade', 
                 text='quantidade', 
-                title='Colaboradores por Setor',
+                title='Contratos de Colaboradores por Setor',
                 color='setor'
         )
         fig_colab_setor.update_layout(bargap=0)
@@ -419,7 +419,7 @@ with aba5:
                 x='departamento', 
                 y='quantidade', 
                 text='quantidade', 
-                title='Colaboradores por Departamento',
+                title='Contratos de Colaboradores por Departamento',
                 color='departamento'
         )
         fig_colab_depart.update_layout(bargap=0, showlegend=False)
