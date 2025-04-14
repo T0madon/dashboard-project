@@ -63,6 +63,140 @@ aba1, aba2, aba3, aba4, aba5 = st.tabs(
     ['Publicações', 'Orientações', 'Projetos', 'Titulação', 'Quantitativos']
     )
 
+with aba1:
+    st.header('Totais da UEPG (sem filtro)')
+    # Linha 1: Métricas de artigos e resumos (sem filtros)
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        total_artigos_nacionais = len(artigos[artigos['tipo'] == 'NACIONAL'])
+        st.metric("Artigos Nacionais (UEPG)", total_artigos_nacionais)
+
+    with col2:
+        total_artigos_internacionais = len(artigos[artigos['tipo'] == 'INTERNACIONAL'])
+        st.metric("Artigos Internacionais (UEPG)", total_artigos_internacionais)
+
+    with col3:
+        total_resumos = len(congressos[congressos['tipo'] == 'RESUMO'])
+        st.metric("Resumos em Congressos (UEPG)", total_resumos)
+
+    # Linha 2: Métricas de resumos expandidos, completos e produtividade (sem filtros)
+    col4, col5, col6 = st.columns(3)
+
+    with col4:
+        total_resumos_expandidos = len(congressos[congressos['tipo'] == 'RESUMO_EXPANDIDO'])
+        st.metric("Resumos Expandidos (UEPG)", total_resumos_expandidos)
+
+    with col5:
+        total_completos = len(congressos[congressos['tipo'] == 'COMPLETO'])
+        st.metric("Publicações Completas (UEPG)", total_completos)
+
+    with col6:
+        total_produtividade = len(produtividade)
+        st.metric("Professores com Bolsa Produtividade", total_produtividade)
+
+    st.header("Totais dos filtros selecionados")
+
+    # Função auxiliar para filtrar com base em departamentos (múltiplos por linha)
+    def contem_departamento(departamentos_linha, departamentos_filtro):
+        departamentos = [d.strip() for d in departamentos_linha.split(',')]
+        return any(depto in departamentos_filtro for depto in departamentos)
+
+    # Filtros para artigos
+    artigos_filtrados = artigos[
+        artigos['departamento'].apply(lambda x: contem_departamento(x, departamentos_selecionados)) &
+        artigos['anopubli'].between(anos_selecionados[0], anos_selecionados[1])
+    ]
+
+    # Filtros para congressos
+    congressos_filtrados = congressos[
+        congressos['departamento'].apply(lambda x: contem_departamento(x, departamentos_selecionados)) &
+        congressos['anoconclusao'].between(anos_selecionados[0], anos_selecionados[1])
+    ]
+
+    # Filtros para produtividade (não tem ano, só filtro por departamento)
+    produtividade_filtrada = produtividade[
+        produtividade['departamento'].apply(lambda x: contem_departamento(x, departamentos_selecionados)) &
+        produtividade['ano'].between(anos_selecionados[0], anos_selecionados[1])
+    ]
+
+    # Linha 1 com filtros aplicados
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        total_artigos_nacionais_filtros = len(artigos_filtrados[artigos_filtrados['tipo'] == 'NACIONAL'])
+        st.metric("Artigos Nacionais (filtrados)", total_artigos_nacionais_filtros)
+
+    with col2:
+        total_artigos_internacionais_filtros = len(artigos_filtrados[artigos_filtrados['tipo'] == 'INTERNACIONAL'])
+        st.metric("Artigos Internacionais (filtrados)", total_artigos_internacionais_filtros)
+
+    with col3:
+        total_resumos_filtros = len(congressos_filtrados[congressos_filtrados['tipo'] == 'RESUMO'])
+        st.metric("Resumos em Congressos (filtrados)", total_resumos_filtros)
+
+    # Linha 2 com filtros aplicados
+    col4, col5, col6 = st.columns(3)
+
+    with col4:
+        total_resumos_expandidos_filtros = len(congressos_filtrados[congressos_filtrados['tipo'] == 'RESUMO_EXPANDIDO'])
+        st.metric("Resumos Expandidos (filtrados)", total_resumos_expandidos_filtros)
+
+    with col5:
+        total_completos_filtros = len(congressos_filtrados[congressos_filtrados['tipo'] == 'COMPLETO'])
+        st.metric("Publicações Completas (filtrados)", total_completos_filtros)
+
+    with col6:
+        total_produtividade_filtros = len(produtividade_filtrada)
+        st.metric("Bolsa Produtividade (filtrados)", total_produtividade_filtros)
+
+    st.header("Totais de Artigos")
+
+    col1, col2 = st.columns(2)
+
+    # Pré-processa os dados de artigos (aplica filtros e trata departamentos múltiplos)
+    artigos_expandido = artigos.copy()
+    artigos_expandido = artigos_expandido[artigos_expandido['anopubli'].between(anos_selecionados[0], anos_selecionados[1])]
+
+    # Expande os departamentos (uma linha para cada departamento se houver mais de um)
+    artigos_expandido['departamento'] = artigos_expandido['departamento'].str.split(',')
+    artigos_expandido = artigos_expandido.explode('departamento')
+    artigos_expandido['departamento'] = artigos_expandido['departamento'].str.strip()
+
+    # Filtra pelos departamentos selecionados
+    artigos_expandido = artigos_expandido[artigos_expandido['departamento'].isin(departamentos_selecionados)]
+
+    # Junta com o df de setores para ter o setor de cada departamento
+    artigos_com_setores = artigos_expandido.merge(setores, on='departamento', how='left')
+
+    # GRÁFICO POR SETOR
+    df_setores = artigos_com_setores.groupby(['setor', 'anopubli']).size().reset_index(name='quantidade')
+    fig_setores = px.line(
+        df_setores,
+        x='anopubli',
+        y='quantidade',
+        color='setor',
+        markers=True,
+        title="Artigos por Setor (por ano)",
+        color_discrete_sequence=px.colors.qualitative.Set3
+    )
+    fig_setores.update_layout(showlegend=False)
+    col1.plotly_chart(fig_setores, use_container_width=True)
+
+    # GRÁFICO POR DEPARTAMENTO
+    df_departamentos = artigos_expandido.groupby(['departamento', 'anopubli']).size().reset_index(name='quantidade')
+    fig_departamentos = px.line(
+        df_departamentos,
+        x='anopubli',
+        y='quantidade',
+        color='departamento',
+        markers=True,
+        title="Artigos por Departamento (por ano)",
+        color_discrete_sequence=px.colors.qualitative.Set3
+    )
+    fig_departamentos.update_layout(showlegend=False)
+    col2.plotly_chart(fig_departamentos, use_container_width=True)
+
 with aba2:
         # Filtros
     orientacoes_filtradas = orientacoes[
