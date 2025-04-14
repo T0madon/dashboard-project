@@ -373,6 +373,64 @@ with aba1:
             fig_bar_depart.update_layout(showlegend=False, bargap=0.2)
             st.plotly_chart(fig_bar_depart, use_container_width=True)
 
+    st.header("Resumos Expandidos em Congressos")
+
+    # Filtro de resumos expandidos em congressos
+    resumos_exp_congressos_filtrados = congressos[
+        (congressos['tipo'] == 'RESUMO_EXPANDIDO') &
+        (congressos['anoconclusao'].astype(int).between(anos_selecionados[0], anos_selecionados[1])) &
+        (congressos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)))
+    ]
+
+    # Criando coluna de setor
+    resumos_exp_setores = resumos_exp_congressos_filtrados.copy()
+    resumos_exp_setores['setor'] = resumos_exp_setores['departamento'].apply(
+        lambda dptos: next(
+            (row['setor'] for row in setores.to_dict('records') if any(depto in dptos for depto in [row['departamento']])),
+            None
+        )
+    )
+
+    col1, col2 = st.columns(2)
+
+    # Gráfico de pizza por setor
+    with col1:
+        setor_counts_exp = resumos_exp_setores['setor'].value_counts().reset_index()
+        setor_counts_exp.columns = ['setor', 'quantidade']
+        fig_pizza_setor_exp = px.pie(
+            setor_counts_exp,
+            names='setor',
+            values='quantidade',
+            title='Resumos Expandidos por Setor',
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+        fig_pizza_setor_exp.update_layout(showlegend=False)
+        st.plotly_chart(fig_pizza_setor_exp, use_container_width=True)
+
+    # Gráfico de barra por departamento
+    with col2:
+        congressos_exp_dep_expandido = []
+        for _, row in resumos_exp_congressos_filtrados.iterrows():
+            departamentos = [d.strip() for d in row['departamento'].split(',')]
+            for depto in departamentos:
+                if depto in departamentos_selecionados:
+                    congressos_exp_dep_expandido.append({'departamento': depto})
+
+        df_exp_dep_contagem = pd.DataFrame(congressos_exp_dep_expandido)
+        if not df_exp_dep_contagem.empty:
+            df_exp_dep_contagem = df_exp_dep_contagem.value_counts().reset_index(name='quantidade')
+
+            fig_bar_depart_exp = px.bar(
+                df_exp_dep_contagem,
+                x='departamento',
+                y='quantidade',
+                color='departamento',
+                text='quantidade',
+                title='Resumos Expandidos por Departamento'
+            )
+            fig_bar_depart_exp.update_layout(showlegend=False, bargap=0.2)
+            st.plotly_chart(fig_bar_depart_exp, use_container_width=True)
+
 
 with aba2:
         # Filtros
