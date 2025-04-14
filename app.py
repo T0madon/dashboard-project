@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 import ast
 import plotly.express as px
 from graphs import dep_prod_graph
@@ -196,6 +197,182 @@ with aba1:
     )
     fig_departamentos.update_layout(showlegend=False)
     col2.plotly_chart(fig_departamentos, use_container_width=True)
+
+    st.header("Artigos Nacionais")
+
+    # Filtro de artigos nacionais
+    artigos_nacionais_filtrados = artigos[
+        (artigos['tipo'] == 'NACIONAL') &
+        (artigos['anopubli'].astype(int).between(anos_selecionados[0], anos_selecionados[1])) &
+        (artigos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)))
+    ]
+
+    # Criando coluna de setor
+    artigos_nacionais_setores = artigos_nacionais_filtrados.copy()
+    artigos_nacionais_setores['setor'] = artigos_nacionais_setores['departamento'].apply(
+        lambda dptos: next(
+            (row['setor'] for row in setores.to_dict('records') if any(depto in dptos for depto in [row['departamento']])),
+            None
+        )
+    )
+
+    col1, col2 = st.columns(2)
+
+    # Gráfico de pizza por setor
+    with col1:
+        setor_counts = artigos_nacionais_setores['setor'].value_counts().reset_index()
+        setor_counts.columns = ['setor', 'quantidade']
+        fig_pizza_setor = px.pie(
+            setor_counts,
+            names='setor',
+            values='quantidade',
+            title='Artigos Nacionais por Setor',
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+        fig_pizza_setor.update_layout(showlegend=False)
+        st.plotly_chart(fig_pizza_setor, use_container_width=True)
+
+    # Gráfico de barra por departamento
+    with col2:
+        # Criar uma lista para contar corretamente artigos por departamento (considerando múltiplos por linha)
+        artigos_dep_expandido = []
+        for _, row in artigos_nacionais_filtrados.iterrows():
+            departamentos = [d.strip() for d in row['departamento'].split(',')]
+            for depto in departamentos:
+                if depto in departamentos_selecionados:
+                    artigos_dep_expandido.append({'departamento': depto})
+
+        df_departamentos_contagem = pd.DataFrame(artigos_dep_expandido)
+        if not df_departamentos_contagem.empty:
+            df_departamentos_contagem = df_departamentos_contagem.value_counts().reset_index(name='quantidade')
+
+            fig_bar_depart = px.bar(
+                df_departamentos_contagem,
+                x='departamento',
+                y='quantidade',
+                color='departamento',
+                text='quantidade',
+                title='Artigos Nacionais por Departamento'
+            )
+            fig_bar_depart.update_layout(showlegend=False, bargap=0.2)
+            st.plotly_chart(fig_bar_depart, use_container_width=True)
+
+    st.header("Artigos Internacionais")
+
+    # Filtro de artigos internacionais
+    artigos_internacionais_filtrados = artigos[
+        (artigos['tipo'] == 'INTERNACIONAL') &
+        (artigos['anopubli'].astype(int).between(anos_selecionados[0], anos_selecionados[1])) &
+        (artigos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)))
+    ]
+
+    # Criando coluna de setor
+    artigos_internacionais_setores = artigos_internacionais_filtrados.copy()
+    artigos_internacionais_setores['setor'] = artigos_internacionais_setores['departamento'].apply(
+        lambda dptos: next(
+            (row['setor'] for row in setores.to_dict('records') if any(depto in dptos for depto in [row['departamento']])),
+            None
+        )
+    )
+
+    col1, col2 = st.columns(2)
+
+    # Gráfico de pizza por setor
+    with col1:
+        setor_counts = artigos_internacionais_setores['setor'].value_counts().reset_index()
+        setor_counts.columns = ['setor', 'quantidade']
+        fig_pizza_setor = px.pie(
+            setor_counts,
+            names='setor',
+            values='quantidade',
+            title='Artigos Internacionais por Setor',
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+        fig_pizza_setor.update_layout(showlegend=False)
+        st.plotly_chart(fig_pizza_setor, use_container_width=True)
+
+    # Gráfico de barra por departamento
+    with col2:
+        artigos_dep_expandido = []
+        for _, row in artigos_internacionais_filtrados.iterrows():
+            departamentos = [d.strip() for d in row['departamento'].split(',')]
+            for depto in departamentos:
+                if depto in departamentos_selecionados:
+                    artigos_dep_expandido.append({'departamento': depto})
+
+        df_departamentos_contagem = pd.DataFrame(artigos_dep_expandido)
+        if not df_departamentos_contagem.empty:
+            df_departamentos_contagem = df_departamentos_contagem.value_counts().reset_index(name='quantidade')
+
+            fig_bar_depart = px.bar(
+                df_departamentos_contagem,
+                x='departamento',
+                y='quantidade',
+                color='departamento',
+                text='quantidade',
+                title='Artigos Internacionais por Departamento'
+            )
+            fig_bar_depart.update_layout(showlegend=False, bargap=0.2)
+            st.plotly_chart(fig_bar_depart, use_container_width=True)
+
+    st.header("Resumos em Congressos")
+
+    # Filtro de resumos em congressos
+    resumos_congressos_filtrados = congressos[
+        (congressos['tipo'] == 'RESUMO') &
+        (congressos['anoconclusao'].astype(int).between(anos_selecionados[0], anos_selecionados[1])) &
+        (congressos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)))
+    ]
+
+    # Criando coluna de setor
+    resumos_setores = resumos_congressos_filtrados.copy()
+    resumos_setores['setor'] = resumos_setores['departamento'].apply(
+        lambda dptos: next(
+            (row['setor'] for row in setores.to_dict('records') if any(depto in dptos for depto in [row['departamento']])),
+            None
+        )
+    )
+
+    col1, col2 = st.columns(2)
+
+    # Gráfico de pizza por setor
+    with col1:
+        setor_counts = resumos_setores['setor'].value_counts().reset_index()
+        setor_counts.columns = ['setor', 'quantidade']
+        fig_pizza_setor = px.pie(
+            setor_counts,
+            names='setor',
+            values='quantidade',
+            title='Resumos em Congressos por Setor',
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+        fig_pizza_setor.update_layout(showlegend=False)
+        st.plotly_chart(fig_pizza_setor, use_container_width=True)
+
+    # Gráfico de barra por departamento
+    with col2:
+        congressos_dep_expandido = []
+        for _, row in resumos_congressos_filtrados.iterrows():
+            departamentos = [d.strip() for d in row['departamento'].split(',')]
+            for depto in departamentos:
+                if depto in departamentos_selecionados:
+                    congressos_dep_expandido.append({'departamento': depto})
+
+        df_departamentos_contagem = pd.DataFrame(congressos_dep_expandido)
+        if not df_departamentos_contagem.empty:
+            df_departamentos_contagem = df_departamentos_contagem.value_counts().reset_index(name='quantidade')
+
+            fig_bar_depart = px.bar(
+                df_departamentos_contagem,
+                x='departamento',
+                y='quantidade',
+                color='departamento',
+                text='quantidade',
+                title='Resumos em Congressos por Departamento'
+            )
+            fig_bar_depart.update_layout(showlegend=False, bargap=0.2)
+            st.plotly_chart(fig_bar_depart, use_container_width=True)
+
 
 with aba2:
         # Filtros
