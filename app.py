@@ -431,6 +431,65 @@ with aba1:
             fig_bar_depart_exp.update_layout(showlegend=False, bargap=0.2)
             st.plotly_chart(fig_bar_depart_exp, use_container_width=True)
 
+    st.header("Publicações Completas em Congressos")
+
+    # Filtro de publicações completas
+    completo_congressos_filtrados = congressos[
+        (congressos['tipo'] == 'COMPLETO') &
+        (congressos['anoconclusao'].astype(int).between(anos_selecionados[0], anos_selecionados[1])) &
+        (congressos['departamento'].apply(lambda x: any(depto in x for depto in departamentos_selecionados)))
+    ]
+
+    # Criando coluna de setor
+    completo_setores = completo_congressos_filtrados.copy()
+    completo_setores['setor'] = completo_setores['departamento'].apply(
+        lambda dptos: next(
+            (row['setor'] for row in setores.to_dict('records') if any(depto in dptos for depto in [row['departamento']])),
+            None
+        )
+    )
+
+    col1, col2 = st.columns(2)
+
+    # Gráfico de pizza por setor
+    with col1:
+        setor_counts_completo = completo_setores['setor'].value_counts().reset_index()
+        setor_counts_completo.columns = ['setor', 'quantidade']
+        fig_pizza_setor_completo = px.pie(
+            setor_counts_completo,
+            names='setor',
+            values='quantidade',
+            title='Publicações Completas por Setor',
+            color_discrete_sequence=px.colors.qualitative.Set3
+        )
+        fig_pizza_setor_completo.update_layout(showlegend=False)
+        st.plotly_chart(fig_pizza_setor_completo, use_container_width=True)
+
+    # Gráfico de barra por departamento
+    with col2:
+        congressos_comp_dep_expandido = []
+        for _, row in completo_congressos_filtrados.iterrows():
+            departamentos = [d.strip() for d in row['departamento'].split(',')]
+            for depto in departamentos:
+                if depto in departamentos_selecionados:
+                    congressos_comp_dep_expandido.append({'departamento': depto})
+
+        df_comp_dep_contagem = pd.DataFrame(congressos_comp_dep_expandido)
+        if not df_comp_dep_contagem.empty:
+            df_comp_dep_contagem = df_comp_dep_contagem.value_counts().reset_index(name='quantidade')
+
+            fig_bar_depart_completo = px.bar(
+                df_comp_dep_contagem,
+                x='departamento',
+                y='quantidade',
+                color='departamento',
+                text='quantidade',
+                title='Publicações Completas por Departamento'
+            )
+            fig_bar_depart_completo.update_layout(showlegend=False, bargap=0.2)
+            st.plotly_chart(fig_bar_depart_completo, use_container_width=True)
+
+
 
 with aba2:
         # Filtros
