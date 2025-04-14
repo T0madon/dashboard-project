@@ -489,6 +489,43 @@ with aba1:
             fig_bar_depart_completo.update_layout(showlegend=False, bargap=0.2)
             st.plotly_chart(fig_bar_depart_completo, use_container_width=True)
 
+    st.header("Professores com Bolsa Produtividade")
+
+    # Filtrando dados de produtividade pelos filtros principais
+    produtividade_filtrada = produtividade[
+        (produtividade['ano'].between(anos_selecionados[0], anos_selecionados[1])) &
+        (produtividade['departamento'].isin(departamentos_selecionados))
+    ]
+
+    # Agrupando por ano e departamento
+    prod_por_ano_depto = produtividade_filtrada.groupby(['ano', 'departamento']).size().reset_index(name='quantidade')
+
+    # Gráfico de linha
+    fig_linha_produtividade = px.line(
+        prod_por_ano_depto,
+        x='ano',
+        y='quantidade',
+        color='departamento',
+        markers=True,
+        title='Evolução de Professores com Bolsa Produtividade por Departamento'
+    )
+    fig_linha_produtividade.update_layout(yaxis_title="Quantidade", xaxis_title="Ano")
+
+    st.plotly_chart(fig_linha_produtividade, use_container_width=True)
+
+    # Métrica estilizada com total de professores com bolsa produtividade filtrado
+    total_produtividade = len(produtividade_filtrada)
+
+    st.markdown("### Total de Professores com Bolsa Produtividade (com filtros)")
+    st.markdown(
+        f"""
+        <div style="background-color:#f0f2f6; padding:20px; border-radius:10px; text-align:center">
+            <h2 style="color:#1f77b4; font-size:48px;">{total_produtividade}</h2>
+            <p style="font-size:20px; color:#555;">professores com bolsa produtividade</p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
 
 with aba2:
