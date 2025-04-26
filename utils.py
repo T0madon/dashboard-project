@@ -73,3 +73,16 @@ setores = professores[
         ].drop_duplicates().sort_values(by=['setor', 'departamento'])
 
 print(setores)
+
+
+# FUNÇÕES AUXILIARES PARA O DASHBOARD
+
+# FUNÇÕES ABA 1
+
+# Função auxiliar para filtrar com base em departamentos (múltiplos por linha)
+def contem_departamento(departamentos_linha, departamentos_filtro):
+    departamentos = [d.strip() for d in departamentos_linha.split(',')]
+    return any(depto in departamentos_filtro for depto in departamentos)
+
+
+

@@ -3,9 +3,14 @@ import pandas as pd
 import ast
 import plotly.express as px
 from graphs import dep_prod_graph
+
+# Importação de dataframes/df filtrados
 from utils import (artigos, bolsas, congressos, financiados, orientacoes, 
                    produtividade, professores, projetos, setores, dep_prod, 
                    dataframes_col_anos, proj_tipo)
+
+# Importação de funções auxiliares
+from utils import (contem_departamento)
 
 # CONSTRUÇÃO DO DASHBOARD
 
@@ -97,11 +102,6 @@ with aba1:
         st.metric("Professores com Bolsa Produtividade", total_produtividade)
 
     st.header("Totais dos filtros selecionados")
-
-    # Função auxiliar para filtrar com base em departamentos (múltiplos por linha)
-    def contem_departamento(departamentos_linha, departamentos_filtro):
-        departamentos = [d.strip() for d in departamentos_linha.split(',')]
-        return any(depto in departamentos_filtro for depto in departamentos)
 
     # Filtros para artigos
     artigos_filtrados = artigos[
@@ -526,7 +526,6 @@ with aba1:
         """,
         unsafe_allow_html=True
     )
-
 
 with aba2:
         # Filtros
