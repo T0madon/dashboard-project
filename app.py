@@ -944,7 +944,7 @@ with aba5:
                 title='Efetivos por Setor', 
                 color='setor'
         )
-        fig_efetivo_setor.update_layout(bargap=0)
+        fig_efetivo_setor.update_layout(bargap=0, showlegend = False)
         st.plotly_chart(fig_efetivo_setor, use_container_width=True)
 
     with col2:
