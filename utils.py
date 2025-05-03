@@ -52,6 +52,7 @@ dep_prod = dep_prod.groupby(
     as_index=False
     )['projetos_departamento'].sum()
 
+print(dep_prod)
 
     # Filtrando projeto por tipo (pesquisa, extensao, desenvolvimento, outra)
 proj_tipo = projetos.groupby(
@@ -71,8 +72,6 @@ proj_tipo = proj_tipo.groupby(
 setores = professores[
             ['setor', 'departamento']
         ].drop_duplicates().sort_values(by=['setor', 'departamento'])
-
-print(setores)
 
 
 # FUNÇÕES AUXILIARES PARA O DASHBOARD
