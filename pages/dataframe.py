@@ -5,15 +5,6 @@ from io import BytesIO
 from utils import (artigos, bolsas, congressos, financiados, orientacoes, 
                    produtividade, professores, projetos)
 
-# artigos['anopubli'] = artigos['anopubli'].astype(int)
-# bolsas['ano'] = bolsas['ano'].astype(int)
-# congressos['anoconclusao'] = congressos['anoconclusao'].astype(int)
-# financiados['anopubli'] = financiados['anopubli'].astype(int)
-# orientacoes['anoconclusao'] = orientacoes['anoconclusao'].astype(int)
-# produtividade['ano'] = produtividade['ano'].astype(int)
-# # professores['anosuepg'] = professores['anosuepg'].astype(int)
-# projetos['anopubli'] = projetos['anopubli'].astype(int)
-
 st.set_page_config(page_title="Visualização dos DataFrames", layout="wide")
 
 # Função auxiliar para corrigir colunas com múltiplos departamentos
