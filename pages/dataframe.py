@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 from io import BytesIO
 
 from utils import (artigos, bolsas, congressos, financiados, orientacoes, 

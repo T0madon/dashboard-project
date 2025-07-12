@@ -28,14 +28,29 @@ with st.sidebar.expander('Setores'):
 
 # Filtrando os departamentos de acordo com o setor escolhido
 df_departamentos_filtrados = setores[setores['setor'].isin(setores_selecionados)]
+
+# Cria um dicionário com os nomes curtos dos departamentos
+nomes_departamentos_originais = df_departamentos_filtrados['departamento'].unique().tolist()
+nomes_departamentos_curto = [
+    nome.replace("Departamento de ", "").strip() for nome in nomes_departamentos_originais
+]
+
+# Mapeamento entre nome curto e nome original
+mapa_departamentos = dict(zip(nomes_departamentos_curto, nomes_departamentos_originais))
     
 #SIDEBAR - Departamentos
 with st.sidebar.expander('Departamentos'):
-    departamentos_selecionados = st.multiselect(
+    departamentos_selecionados_curto = st.multiselect(
         'Selecione o(s) departamento(s)',
-        df_departamentos_filtrados['departamento'].unique().tolist(),
-        default=df_departamentos_filtrados['departamento'].unique().tolist()
+        options=nomes_departamentos_curto,
+        default=nomes_departamentos_curto
+        # df_departamentos_filtrados['departamento'].unique().tolist(),
+        # default=df_departamentos_filtrados['departamento'].unique().tolist()
         )
+    
+# Converte os nomes curtos de volta para os nomes originais
+departamentos_selecionados = [mapa_departamentos[nome] for nome in departamentos_selecionados_curto]
+
 # Filtrar o dataframe do gráfico pelos departamentos selecionados
 dep_prod_filtrado = dep_prod[
     dep_prod['departamento'].isin(departamentos_selecionados)
