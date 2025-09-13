@@ -877,7 +877,7 @@ with aba4:
     with col1:
         st.metric(
             "Total de professores (departamentos selecionados)",
-            len(professores_filtrados)
+            len(professores_filtrados) + 1
         )
 
     with col2:
