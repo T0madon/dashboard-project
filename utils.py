@@ -80,6 +80,9 @@ setores = professores[
 
 # Função auxiliar para filtrar com base em departamentos (múltiplos por linha)
 def contem_departamento(departamentos_linha, departamentos_filtro):
+    if not isinstance(departamentos_linha, str):
+        return False
+
     departamentos = [d.strip() for d in departamentos_linha.split(',')]
     return any(depto in departamentos_filtro for depto in departamentos)
 
