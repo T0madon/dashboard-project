@@ -877,13 +877,13 @@ with aba4:
     with col1:
         st.metric(
             "Total de professores (departamentos selecionados)",
-            len(professores_filtrados) + 1
+            len(professores_filtrados)
         )
 
     with col2:
         st.metric(
             "Total de professores efetivos da UEPG: ",
-            len(professores_efetivos)
+            len(professores_efetivos) - 1
         )
 
     # Criando os dataframes por titulação
